@@ -1,0 +1,5645 @@
+[
+	{ "title": "American Sign Language I", "subject": "ASL", "code": "100A", "term": "201901" },
+	{ "title": "American Sign Language II", "subject": "ASL", "code": "100B", "term": "201901" },
+	{ "title": "American Sign Language IV", "subject": "ASL", "code": "200B", "term": "201901" },
+	{ "title": "American Sign Language VI", "subject": "ASL", "code": "300B", "term": "201901" },
+	{ "title": "Introduction to Anthropology", "subject": "ANTH", "code": "100", "term": "201901" },
+	{
+		"title": "EXPLORING ANTHROPOLOGY: Money and Culture",
+		"subject": "ANTH",
+		"code": "150",
+		"term": "201901"
+	},
+	{
+		"title": "Cultural and Social Anthropology",
+		"subject": "ANTH",
+		"code": "200",
+		"term": "201901"
+	},
+	{ "title": "Archaeology", "subject": "ANTH", "code": "240", "term": "201901" },
+	{ "title": "Biological Anthropology", "subject": "ANTH", "code": "250", "term": "201901" },
+	{
+		"title": "Introduction to Anthropological Research",
+		"subject": "ANTH",
+		"code": "260",
+		"term": "201901"
+	},
+	{
+		"title": "Introduction to Medical Anthropology",
+		"subject": "ANTH",
+		"code": "312",
+		"term": "201901"
+	},
+	{ "title": "Ethnographic Research Methods", "subject": "ANTH", "code": "318", "term": "201901" },
+	{
+		"title": "Research Methods in Archaeology and Biological Anthropology",
+		"subject": "ANTH",
+		"code": "319",
+		"term": "201901"
+	},
+	{ "title": "Peopling of New Territories", "subject": "ANTH", "code": "348", "term": "201901" },
+	{ "title": "Paleolithic Art", "subject": "ANTH", "code": "349", "term": "201901" },
+	{
+		"title": "Sex and Drugs, Biology and Culture",
+		"subject": "ANTH",
+		"code": "356",
+		"term": "201901"
+	},
+	{ "title": "Zooarchaeology", "subject": "ANTH", "code": "360", "term": "201901" },
+	{ "title": "Anthropology of Reproduction", "subject": "ANTH", "code": "366", "term": "201901" },
+	{
+		"title": "PROBLEMS IN ANTH: AREA STUDIES: Anthropology of the Pacific",
+		"subject": "ANTH",
+		"code": "391",
+		"term": "201901"
+	},
+	{
+		"title": "CULTURAL ANTHROPOLOGY: Anthropology of the City",
+		"subject": "ANTH",
+		"code": "393",
+		"term": "201901"
+	},
+	{
+		"title": "CULTURAL ANTHROPOLOGY: Anthropologists in Indigenous Communities",
+		"subject": "ANTH",
+		"code": "393",
+		"term": "201901"
+	},
+	{
+		"title": "CULTURAL ANTHROPOLOGY: Museums and Anthropology",
+		"subject": "ANTH",
+		"code": "393",
+		"term": "201901"
+	},
+	{
+		"title": "CULTURAL ANTHROPOLOGY: Music and Society: Anthropologies of Music",
+		"subject": "ANTH",
+		"code": "393",
+		"term": "201901"
+	},
+	{
+		"title": "BIOLOGICAL ANTHROPOLOGY: Great Debates in Human Evolution",
+		"subject": "ANTH",
+		"code": "394",
+		"term": "201901"
+	},
+	{
+		"title": "BIOLOGICAL ANTHROPOLOGY: Biology of Human Skeletal Variability",
+		"subject": "ANTH",
+		"code": "394",
+		"term": "201901"
+	},
+	{ "title": "The Archaeology of Death", "subject": "ANTH", "code": "397", "term": "201901" },
+	{
+		"title": "Feminist Theory and Method in Anthropology",
+		"subject": "ANTH",
+		"code": "402",
+		"term": "201901"
+	},
+	{ "title": "Anthropology and Photography", "subject": "ANTH", "code": "408", "term": "201901" },
+	{
+		"title": "ADV TOPICS: HUMAN OSTEOLOGY: Forensic Human Osteology",
+		"subject": "ANTH",
+		"code": "452",
+		"term": "201901"
+	},
+	{
+		"title": "ADV TOPICS: HUMAN OSTEOLOGY: Skeletal Pathology",
+		"subject": "ANTH",
+		"code": "452",
+		"term": "201901"
+	},
+	{
+		"title": "Method and Theory in Bioarchaeology",
+		"subject": "ANTH",
+		"code": "454",
+		"term": "201901"
+	},
+	{
+		"title": "Advanced Topics in the Anthropology of HIV/AIDS",
+		"subject": "ANTH",
+		"code": "455",
+		"term": "201901"
+	},
+	{
+		"title": "Ethnographic Mapping and Indigenous Cartographies",
+		"subject": "ANTH",
+		"code": "460",
+		"term": "201901"
+	},
+	{
+		"title": "SEMINAR IN ARCHAEOLOGY: Marine Historical Ecology",
+		"subject": "ANTH",
+		"code": "482",
+		"term": "201901"
+	},
+	{ "title": "Honours Seminar", "subject": "ANTH", "code": "499", "term": "201901" },
+	{
+		"title": "Advanced Research Seminar in Inequality, Culture and Health",
+		"subject": "ANTH",
+		"code": "511",
+		"term": "201901"
+	},
+	{
+		"title": "Seminar in Anthropological Research Methods",
+		"subject": "ANTH",
+		"code": "516",
+		"term": "201901"
+	},
+	{
+		"title": "THEMES IN SOCIOCULTURAL ANTH: Anthropology and Photography",
+		"subject": "ANTH",
+		"code": "520A",
+		"term": "201901"
+	},
+	{
+		"title": "THEMES IN SOCIOCULTURAL ANTH: Feminist Method and Theory",
+		"subject": "ANTH",
+		"code": "520A",
+		"term": "201901"
+	},
+	{
+		"title": "THEMES IN SOCIOCULTURAL ANTH: Ethnographic Mapping",
+		"subject": "ANTH",
+		"code": "520A",
+		"term": "201901"
+	},
+	{
+		"title": "Advanced Research Seminar in Ecology and Evolution",
+		"subject": "ANTH",
+		"code": "551",
+		"term": "201901"
+	},
+	{ "title": "Thesis Proposal Development", "subject": "ANTH", "code": "597", "term": "201901" },
+	{ "title": "Comprehensive Examinations", "subject": "ANTH", "code": "598", "term": "201901" },
+	{ "title": "Thesis", "subject": "ANTH", "code": "599", "term": "201901" },
+	{ "title": "Graduate Colloquium", "subject": "ANTH", "code": "612", "term": "201901" },
+	{ "title": "PhD Candidacy Examinations", "subject": "ANTH", "code": "693", "term": "201901" },
+	{ "title": "PhD Dissertation", "subject": "ANTH", "code": "699", "term": "201901" },
+	{ "title": "Studio Foundation", "subject": "ART", "code": "100E", "term": "201901" },
+	{ "title": "Foundation Drawing and Painting", "subject": "ART", "code": "103", "term": "201901" },
+	{
+		"title": "Foundation Sculpture and Material Methods",
+		"subject": "ART",
+		"code": "104",
+		"term": "201901"
+	},
+	{
+		"title": "Foundation Photography and Video Art",
+		"subject": "ART",
+		"code": "105",
+		"term": "201901"
+	},
+	{
+		"title": "Foundation Core Media Technologies and Arts",
+		"subject": "ART",
+		"code": "106",
+		"term": "201901"
+	},
+	{
+		"title": "An Introduction to Observational Drawing",
+		"subject": "ART",
+		"code": "117",
+		"term": "201901"
+	},
+	{ "title": "Printmaking", "subject": "ART", "code": "130E", "term": "201901" },
+	{
+		"title": "An Introduction to Contemporary Art Photography",
+		"subject": "ART",
+		"code": "141",
+		"term": "201901"
+	},
+	{ "title": "Drawing", "subject": "ART", "code": "202", "term": "201901" },
+	{ "title": "PAINTING", "subject": "ART", "code": "211E", "term": "201901" },
+	{ "title": "Painting", "subject": "ART", "code": "212", "term": "201901" },
+	{ "title": "SCULPTURE", "subject": "ART", "code": "221E", "term": "201901" },
+	{ "title": "Sculpture", "subject": "ART", "code": "222", "term": "201901" },
+	{ "title": "Photography", "subject": "ART", "code": "242", "term": "201901" },
+	{ "title": "Digital Media Arts", "subject": "ART", "code": "262", "term": "201901" },
+	{ "title": "Video Art", "subject": "ART", "code": "272", "term": "201901" },
+	{
+		"title": "Studies in Drawing, Photo, Media and Interdisciplinary Practices I",
+		"subject": "ART",
+		"code": "306",
+		"term": "201901"
+	},
+	{ "title": "Audain Studio Seminar", "subject": "ART", "code": "352", "term": "201901" },
+	{ "title": "Visiting Artist Talk Series", "subject": "ART", "code": "353", "term": "201901" },
+	{ "title": "Extended Media Practices", "subject": "ART", "code": "360", "term": "201901" },
+	{
+		"title": "Visual Structures in the Imaginative Realm I",
+		"subject": "ART",
+		"code": "395",
+		"term": "201901"
+	},
+	{ "title": "BFA GRADUATING EXHIBITION", "subject": "ART", "code": "401", "term": "201901" },
+	{
+		"title": "Studies in Drawing, Photo, Media and Interdisciplinary Practices II",
+		"subject": "ART",
+		"code": "406",
+		"term": "201901"
+	},
+	{
+		"title": "Visual Structures in the Imaginative Realm II",
+		"subject": "ART",
+		"code": "495",
+		"term": "201901"
+	},
+	{ "title": "First Year Drawing", "subject": "ART", "code": "500", "term": "201901" },
+	{ "title": "Second Year Drawing", "subject": "ART", "code": "501", "term": "201901" },
+	{ "title": "First Year Painting", "subject": "ART", "code": "511", "term": "201901" },
+	{ "title": "Second Year Painting", "subject": "ART", "code": "512", "term": "201901" },
+	{ "title": "First Year Sculpture", "subject": "ART", "code": "521", "term": "201901" },
+	{ "title": "Second Year Sculpture", "subject": "ART", "code": "522", "term": "201901" },
+	{ "title": "First Year Photography", "subject": "ART", "code": "541", "term": "201901" },
+	{ "title": "Second Year Photography", "subject": "ART", "code": "542", "term": "201901" },
+	{ "title": "First Year Digital Media", "subject": "ART", "code": "551", "term": "201901" },
+	{ "title": "Second Year Digital Media", "subject": "ART", "code": "552", "term": "201901" },
+	{ "title": "First Year Seminar", "subject": "ART", "code": "580", "term": "201901" },
+	{ "title": "Second Year Seminar", "subject": "ART", "code": "581", "term": "201901" },
+	{ "title": "MFA Degree Exhibition", "subject": "ART", "code": "598", "term": "201901" },
+	{
+		"title": "Introduction to Art Education II",
+		"subject": "AE",
+		"code": "103B",
+		"term": "201901"
+	},
+	{ "title": "Ceramics I", "subject": "AE", "code": "303A", "term": "201901" },
+	{ "title": "Drawing", "subject": "AE", "code": "305", "term": "201901" },
+	{ "title": "Painting", "subject": "AE", "code": "306", "term": "201901" },
+	{ "title": "Printmaking", "subject": "AE", "code": "307", "term": "201901" },
+	{ "title": "Sculpture", "subject": "AE", "code": "308", "term": "201901" },
+	{ "title": "Ceramics: Hand Building", "subject": "AE", "code": "309", "term": "201901" },
+	{ "title": "Photography", "subject": "AE", "code": "319", "term": "201901" },
+	{ "title": "Digital Arts", "subject": "AE", "code": "322", "term": "201901" },
+	{
+		"title": "Understanding Visual Communication",
+		"subject": "AHVS",
+		"code": "121",
+		"term": "201901"
+	},
+	{
+		"title": "Introduction to Western Architecture",
+		"subject": "AHVS",
+		"code": "223",
+		"term": "201901"
+	},
+	{
+		"title": "Introduction to the Arts of Islam",
+		"subject": "AHVS",
+		"code": "251",
+		"term": "201901"
+	},
+	{ "title": "Introduction to Film Studies", "subject": "AHVS", "code": "295B", "term": "201901" },
+	{ "title": "Fakes, Forgeries and Fraud", "subject": "AHVS", "code": "300B", "term": "201901" },
+	{
+		"title": "Looking and the History of Perception",
+		"subject": "AHVS",
+		"code": "311B",
+		"term": "201901"
+	},
+	{
+		"title": "Artists and Art History in Popular Culture",
+		"subject": "AHVS",
+		"code": "311D",
+		"term": "201901"
+	},
+	{
+		"title": "Late Antique and Early Christian Art",
+		"subject": "AHVS",
+		"code": "321",
+		"term": "201901"
+	},
+	{
+		"title": "Bollywood Global: Popular Visual Culture in the Indian Diaspora, 1980s to the Present",
+		"subject": "AHVS",
+		"code": "332B",
+		"term": "201901"
+	},
+	{
+		"title": "SPCL TPCS: CONTEMP ASIAN ART: History of Japanese Animation",
+		"subject": "AHVS",
+		"code": "337",
+		"term": "201901"
+	},
+	{ "title": "Experiencing Baroque Painting", "subject": "AHVS", "code": "342B", "term": "201901" },
+	{ "title": "The Art of Travel 1200-1600", "subject": "AHVS", "code": "344A", "term": "201901" },
+	{
+		"title": "People and Things in the Early Modern Domestic Interior",
+		"subject": "AHVS",
+		"code": "345",
+		"term": "201901"
+	},
+	{
+		"title": "Modern Art in Europe and North America: 1900 to 1945",
+		"subject": "AHVS",
+		"code": "362A",
+		"term": "201901"
+	},
+	{ "title": "Documentary Film", "subject": "AHVS", "code": "364", "term": "201901" },
+	{ "title": "Experimental Film", "subject": "AHVS", "code": "365", "term": "201901" },
+	{ "title": "Horror Cinema", "subject": "AHVS", "code": "370C", "term": "201901" },
+	{ "title": "Chinese Art and Architecture", "subject": "AHVS", "code": "372A", "term": "201901" },
+	{ "title": "Japanese Art and Architecture", "subject": "AHVS", "code": "373A", "term": "201901" },
+	{
+		"title": "SPECIAL TOPICS IN AHVS: Anarchist Cinema",
+		"subject": "AHVS",
+		"code": "392",
+		"term": "201901"
+	},
+	{
+		"title": "SPECIAL TOPICS IN AHVS: Gender, Race and Sexuality in Video Games",
+		"subject": "AHVS",
+		"code": "392",
+		"term": "201901"
+	},
+	{ "title": "Art and Revolution II", "subject": "AHVS", "code": "398B", "term": "201901" },
+	{
+		"title": "CONTEMPORARY ART OS S/SE ASIA: Contemporary Asian Art Journeys: Indonesia, Asia, Diaspora, the World",
+		"subject": "AHVS",
+		"code": "430",
+		"term": "201901"
+	},
+	{
+		"title": "CONTEMPORARY NA INDIGENOUS ART: Arts and Decolonization",
+		"subject": "AHVS",
+		"code": "480",
+		"term": "201901"
+	},
+	{
+		"title": "Museum Principles and Practices II: Programming, Exhibitions, and Management",
+		"subject": "AHVS",
+		"code": "486B",
+		"term": "201901"
+	},
+	{ "title": "Caring for Museum Collections", "subject": "AHVS", "code": "488D", "term": "201901" },
+	{ "title": "Public Programming", "subject": "AHVS", "code": "488G", "term": "201901" },
+	{
+		"title": "Exhibition Planning and Design",
+		"subject": "AHVS",
+		"code": "488K",
+		"term": "201901"
+	},
+	{
+		"title": "Curatorial Planning and Practice",
+		"subject": "AHVS",
+		"code": "488X",
+		"term": "201901"
+	},
+	{
+		"title": "HERITAGE AREA CONSERVATION: Revitalization, Visions & Realities",
+		"subject": "AHVS",
+		"code": "489A",
+		"term": "201901"
+	},
+	{
+		"title": "Practicum in Cultural Resource Management",
+		"subject": "AHVS",
+		"code": "491B",
+		"term": "201901"
+	},
+	{
+		"title": "Workshop in Art Historical Writing",
+		"subject": "AHVS",
+		"code": "509",
+		"term": "201901"
+	},
+	{
+		"title": "Seminar in the Contemporary Art of South/Southeast Asia",
+		"subject": "AHVS",
+		"code": "530",
+		"term": "201901"
+	},
+	{
+		"title": "SEMINAR INDIGENOUS ARTS: Arts and Decolonization",
+		"subject": "AHVS",
+		"code": "565",
+		"term": "201901"
+	},
+	{ "title": "Research Paper", "subject": "AHVS", "code": "598", "term": "201901" },
+	{ "title": "Candidacy Exam", "subject": "AHVS", "code": "693", "term": "201901" },
+	{ "title": "PhD Dissertation", "subject": "AHVS", "code": "699", "term": "201901" },
+	{ "title": "Exploring the Night Sky", "subject": "ASTR", "code": "101", "term": "201901" },
+	{ "title": "Exploring the Cosmos", "subject": "ASTR", "code": "102", "term": "201901" },
+	{ "title": "Concepts in Modern Astronomy", "subject": "ASTR", "code": "150", "term": "201901" },
+	{
+		"title": "Introduction to Planetary Science",
+		"subject": "ASTR",
+		"code": "255",
+		"term": "201901"
+	},
+	{
+		"title": "Introductory Extragalactic Astronomy",
+		"subject": "ASTR",
+		"code": "303",
+		"term": "201901"
+	},
+	{
+		"title": "Introduction to Stellar Astrophysics",
+		"subject": "ASTR",
+		"code": "404",
+		"term": "201901"
+	},
+	{ "title": "Introduction to Cosmology", "subject": "ASTR", "code": "405", "term": "201901" },
+	{
+		"title": "A Theoretical Perspective on Galaxies",
+		"subject": "ASTR",
+		"code": "504",
+		"term": "201901"
+	},
+	{
+		"title": "ADVANCED TOPICS: ASTRONOMY: Advanced Computing and Machine Learning for Physics and Astronomy",
+		"subject": "ASTR",
+		"code": "511",
+		"term": "201901"
+	},
+	{ "title": "Student Seminar (MSc)", "subject": "ASTR", "code": "561", "term": "201901" },
+	{ "title": "Student Seminar (PhD)", "subject": "ASTR", "code": "661", "term": "201901" },
+	{ "title": "Biochemistry and Human Health", "subject": "BIOC", "code": "102", "term": "201901" },
+	{ "title": "Biochemistry for Non-Majors", "subject": "BIOC", "code": "299", "term": "201901" },
+	{ "title": "General Biochemistry II", "subject": "BIOC", "code": "300B", "term": "201901" },
+	{ "title": "Gene Expression in Eukaryotes", "subject": "BIOC", "code": "401", "term": "201901" },
+	{
+		"title": "Epigenetic Regulation of Chromatin",
+		"subject": "BIOC",
+		"code": "408",
+		"term": "201901"
+	},
+	{ "title": "Proteomics", "subject": "BIOC", "code": "409", "term": "201901" },
+	{ "title": "MSc Thesis: Biochemistry", "subject": "BIOC", "code": "599", "term": "201901" },
+	{ "title": "PhD Dissertation: Biochemistry", "subject": "BIOC", "code": "699", "term": "201901" },
+	{ "title": "Research Experience", "subject": "BCMB", "code": "298", "term": "201901" },
+	{ "title": "Lab Techniques & Projects II", "subject": "BCMB", "code": "301B", "term": "201901" },
+	{
+		"title": "Applied Research Laboratory Techniques II",
+		"subject": "BCMB",
+		"code": "406B",
+		"term": "201901"
+	},
+	{ "title": "Undergraduate Thesis I", "subject": "BCMB", "code": "499A", "term": "201901" },
+	{ "title": "Undergraduate Thesis II", "subject": "BCMB", "code": "499B", "term": "201901" },
+	{
+		"title": "Essentials of Scientific Writing",
+		"subject": "BCMB",
+		"code": "501",
+		"term": "201901"
+	},
+	{ "title": "Research Seminar", "subject": "BCMB", "code": "580", "term": "201901" },
+	{ "title": "Advanced Research Seminar", "subject": "BCMB", "code": "680", "term": "201901" },
+	{ "title": "PhD Candicacy Examination", "subject": "BCMB", "code": "693", "term": "201901" },
+	{ "title": "Modern Biology", "subject": "BIOL", "code": "150B", "term": "201901" },
+	{ "title": "Physiology and Cell Biology", "subject": "BIOL", "code": "186", "term": "201901" },
+	{ "title": "Principles of Genetics", "subject": "BIOL", "code": "230", "term": "201901" },
+	{ "title": "Chordate Zoology", "subject": "BIOL", "code": "307", "term": "201901" },
+	{ "title": "Developmental Biology", "subject": "BIOL", "code": "309", "term": "201901" },
+	{ "title": "Marine Ecology", "subject": "BIOL", "code": "319", "term": "201901" },
+	{ "title": "Biology of Land Plants", "subject": "BIOL", "code": "324", "term": "201901" },
+	{
+		"title": "Biology of the Vertebrates of British Columbia",
+		"subject": "BIOL",
+		"code": "329",
+		"term": "201901"
+	},
+	{ "title": "Study Design and Data Analysis", "subject": "BIOL", "code": "330", "term": "201901" },
+	{ "title": "Plants and People", "subject": "BIOL", "code": "334", "term": "201901" },
+	{ "title": "Ichthyology", "subject": "BIOL", "code": "335", "term": "201901" },
+	{ "title": "Biology of Algae", "subject": "BIOL", "code": "336", "term": "201901" },
+	{
+		"title": "Molecular Genetics and Genomics",
+		"subject": "BIOL",
+		"code": "361",
+		"term": "201901"
+	},
+	{ "title": "Plant Physiology", "subject": "BIOL", "code": "366", "term": "201901" },
+	{
+		"title": "Neurobiology: Molecules to Behaviour",
+		"subject": "BIOL",
+		"code": "367",
+		"term": "201901"
+	},
+	{ "title": "Conservation Biology", "subject": "BIOL", "code": "370", "term": "201901" },
+	{ "title": "History of Biology", "subject": "BIOL", "code": "400", "term": "201901" },
+	{ "title": "Molecular Endocrinology", "subject": "BIOL", "code": "432", "term": "201901" },
+	{ "title": "Molecular Evolution", "subject": "BIOL", "code": "435", "term": "201901" },
+	{ "title": "Human Molecular Genetics", "subject": "BIOL", "code": "436", "term": "201901" },
+	{ "title": "Advanced Aquatic Ecology", "subject": "BIOL", "code": "446", "term": "201901" },
+	{ "title": "Ion Channels and Disease", "subject": "BIOL", "code": "447", "term": "201901" },
+	{ "title": "Flowering Plant Diversity", "subject": "BIOL", "code": "449", "term": "201901" },
+	{ "title": "Frontiers in Marine Biology", "subject": "BIOL", "code": "466", "term": "201901" },
+	{ "title": "Neural Development", "subject": "BIOL", "code": "467", "term": "201901" },
+	{ "title": "Honours Thesis I", "subject": "BIOL", "code": "499A", "term": "201901" },
+	{ "title": "Honours Thesis II", "subject": "BIOL", "code": "499B", "term": "201901" },
+	{
+		"title": "Ion Channels: Structure and Function",
+		"subject": "BIOL",
+		"code": "509D",
+		"term": "201901"
+	},
+	{
+		"title": "Annual Biology Graduate Symposium",
+		"subject": "BIOL",
+		"code": "560",
+		"term": "201901"
+	},
+	{ "title": "Topics in Applied Statistics", "subject": "BIOL", "code": "563", "term": "201901" },
+	{ "title": "Thesis", "subject": "BIOL", "code": "599", "term": "201901" },
+	{ "title": "PhD Candicacy Examination", "subject": "BIOL", "code": "693", "term": "201901" },
+	{ "title": "PhD Dissertation", "subject": "BIOL", "code": "699", "term": "201901" },
+	{
+		"title": "Engineering Materials with BME applications",
+		"subject": "BME",
+		"code": "320",
+		"term": "201901"
+	},
+	{ "title": "Biomedical Engineering Design", "subject": "BME", "code": "350", "term": "201901" },
+	{
+		"title": "SPECIAL TOPICS: Human Factors and Usability Engineering for Medical Devices",
+		"subject": "BME",
+		"code": "401C",
+		"term": "201901"
+	},
+	{ "title": "Medical Image Processing", "subject": "BME", "code": "403", "term": "201901" },
+	{
+		"title": "Biomaterials and Tissue Engineering",
+		"subject": "BME",
+		"code": "481",
+		"term": "201901"
+	},
+	{ "title": "Strategy", "subject": "BUS", "code": "603", "term": "201901" },
+	{ "title": "Global Management and Society I", "subject": "BUS", "code": "655", "term": "201901" },
+	{ "title": "Academic Career Development", "subject": "BUS", "code": "670", "term": "201901" },
+	{ "title": "Teacher Training", "subject": "BUS", "code": "687", "term": "201901" },
+	{ "title": "Dissertation Proposal Defence", "subject": "BUS", "code": "694", "term": "201901" },
+	{ "title": "PhD Dissertation", "subject": "BUS", "code": "699", "term": "201901" },
+	{ "title": "Introduction to Canadian Culture", "subject": "CS", "code": "101", "term": "201901" },
+	{
+		"title": "Introduction to Canadian Contemporary Issues",
+		"subject": "CS",
+		"code": "102",
+		"term": "201901"
+	},
+	{
+		"title": "Environmental and Physical Chemistry",
+		"subject": "CHEM",
+		"code": "102",
+		"term": "201901"
+	},
+	{ "title": "Engineering Chemistry", "subject": "CHEM", "code": "150", "term": "201901" },
+	{
+		"title": "Introductory Quantitative Analysis",
+		"subject": "CHEM",
+		"code": "212",
+		"term": "201901"
+	},
+	{
+		"title": "Introduction to Inorganic Chemistry",
+		"subject": "CHEM",
+		"code": "222",
+		"term": "201901"
+	},
+	{ "title": "Introductory Organic Chemistry", "subject": "CHEM", "code": "231", "term": "201901" },
+	{
+		"title": "Organic Chemistry with Biological Applications",
+		"subject": "CHEM",
+		"code": "232",
+		"term": "201901"
+	},
+	{ "title": "Research Experience", "subject": "CHEM", "code": "298", "term": "201901" },
+	{
+		"title": "Instrumental Techniques of Analysis",
+		"subject": "CHEM",
+		"code": "318",
+		"term": "201901"
+	},
+	{
+		"title": "Synthetic Methods in Organic Chemistry",
+		"subject": "CHEM",
+		"code": "335",
+		"term": "201901"
+	},
+	{
+		"title": "Analytical Chemistry Laboratory",
+		"subject": "CHEM",
+		"code": "361",
+		"term": "201901"
+	},
+	{ "title": "Inorganic Chemistry Laboratory", "subject": "CHEM", "code": "362", "term": "201901" },
+	{ "title": "Organic Chemistry Laboratory", "subject": "CHEM", "code": "363", "term": "201901" },
+	{ "title": "Physical Chemistry Laboratory", "subject": "CHEM", "code": "364", "term": "201901" },
+	{ "title": "Applications of Chemistry", "subject": "CHEM", "code": "400A", "term": "201901" },
+	{
+		"title": "Biological and Medicinal Chemistry",
+		"subject": "CHEM",
+		"code": "437",
+		"term": "201901"
+	},
+	{
+		"title": "Reaction Mechanisms and Dynamics",
+		"subject": "CHEM",
+		"code": "452",
+		"term": "201901"
+	},
+	{ "title": "Statistical Thermodynamics", "subject": "CHEM", "code": "458", "term": "201901" },
+	{
+		"title": "Advanced Research Experience I",
+		"subject": "CHEM",
+		"code": "498A",
+		"term": "201901"
+	},
+	{
+		"title": "Advanced Research Experience II",
+		"subject": "CHEM",
+		"code": "498B",
+		"term": "201901"
+	},
+	{ "title": "Honours Thesis I", "subject": "CHEM", "code": "499A", "term": "201901" },
+	{ "title": "Honours Thesis II", "subject": "CHEM", "code": "499B", "term": "201901" },
+	{ "title": "Seminar", "subject": "CHEM", "code": "509", "term": "201901" },
+	{
+		"title": "Research Tools and Special Topics",
+		"subject": "CHEM",
+		"code": "560",
+		"term": "201901"
+	},
+	{ "title": "Directed Studies", "subject": "CHEM", "code": "590", "term": "201901" },
+	{ "title": "MSc Thesis", "subject": "CHEM", "code": "599", "term": "201901" },
+	{
+		"title": "Property-Directed Synthesis Discussion",
+		"subject": "CHEM",
+		"code": "670",
+		"term": "201901"
+	},
+	{ "title": "PhD Candidacy Examination", "subject": "CHEM", "code": "693", "term": "201901" },
+	{ "title": "PhD Dissertation", "subject": "CHEM", "code": "699", "term": "201901" },
+	{
+		"title": "Introduction to Professional Child and Youth Care Practice: Part Two",
+		"subject": "CYC",
+		"code": "100B",
+		"term": "201901"
+	},
+	{
+		"title": "Lifespan Development (Adolescence to Late Adulthood)",
+		"subject": "CYC",
+		"code": "166B",
+		"term": "201901"
+	},
+	{
+		"title": "Introduction to Families: Issues, Patterns, and Processes",
+		"subject": "CYC",
+		"code": "171",
+		"term": "201901"
+	},
+	{
+		"title": "Applying Change Theory in CYC Practice",
+		"subject": "CYC",
+		"code": "205",
+		"term": "201901"
+	},
+	{ "title": "Supervised Practicum I", "subject": "CYC", "code": "210", "term": "201901" },
+	{
+		"title": "Ethical Decision-Making in Child and Youth Care Practice",
+		"subject": "CYC",
+		"code": "240",
+		"term": "201901"
+	},
+	{
+		"title": "Introduction to Group Work in Child and Youth Care Practice",
+		"subject": "CYC",
+		"code": "265",
+		"term": "201901"
+	},
+	{ "title": "Supervised Practicum II", "subject": "CYC", "code": "310", "term": "201901" },
+	{
+		"title": "Child and Youth Care Practicum by Prior Learning Assessment (PLA)",
+		"subject": "CYC",
+		"code": "310A",
+		"term": "201901"
+	},
+	{
+		"title": "Applied Practice in Indigenous Contexts",
+		"subject": "CYC",
+		"code": "330",
+		"term": "201901"
+	},
+	{
+		"title": "Applying Developmental Theory in Child and Youth Care Practice",
+		"subject": "CYC",
+		"code": "338",
+		"term": "201901"
+	},
+	{
+		"title": "Applying Law in Child Protection and Child and Youth Care Practice",
+		"subject": "CYC",
+		"code": "350",
+		"term": "201901"
+	},
+	{
+		"title": "Attending to Disability in Child and Youth Care Practice",
+		"subject": "CYC",
+		"code": "364",
+		"term": "201901"
+	},
+	{ "title": "Advanced Supervised Practicum", "subject": "CYC", "code": "410", "term": "201901" },
+	{
+		"title": "Advanced Supervised Block Practicum",
+		"subject": "CYC",
+		"code": "410A",
+		"term": "201901"
+	},
+	{
+		"title": "Qualitative and Quantitative Analysis in Child and Youth Care",
+		"subject": "CYC",
+		"code": "424",
+		"term": "201901"
+	},
+	{
+		"title": "Research Practice in Indigenous Contexts",
+		"subject": "CYC",
+		"code": "430",
+		"term": "201901"
+	},
+	{
+		"title": "Addictive Behaviours in Children, Youth and Families",
+		"subject": "CYC",
+		"code": "471",
+		"term": "201901"
+	},
+	{
+		"title": "Assessment and Evaluation in Contemporary Early Years Settings",
+		"subject": "CYC",
+		"code": "481",
+		"term": "201901"
+	},
+	{
+		"title": "Qualitative Research Methods in Child and Youth Care",
+		"subject": "CYC",
+		"code": "543",
+		"term": "201901"
+	},
+	{
+		"title": "Practicum in Child and Youth Care",
+		"subject": "CYC",
+		"code": "553",
+		"term": "201901"
+	},
+	{
+		"title": "Specialized Practicum in Child and Youth Care",
+		"subject": "CYC",
+		"code": "563",
+		"term": "201901"
+	},
+	{
+		"title": "Child and Adolescent Development in Context",
+		"subject": "CYC",
+		"code": "565",
+		"term": "201901"
+	},
+	{ "title": "Applied Research Project", "subject": "CYC", "code": "598", "term": "201901" },
+	{ "title": "Thesis", "subject": "CYC", "code": "599", "term": "201901" },
+	{ "title": "Candidacy Exams", "subject": "CYC", "code": "693", "term": "201901" },
+	{ "title": "PhD Dissertation", "subject": "CYC", "code": "699", "term": "201901" },
+	{ "title": "Environmental Engineering", "subject": "CIVE", "code": "310", "term": "201901" },
+	{ "title": "Environmental Policy", "subject": "CIVE", "code": "315", "term": "201901" },
+	{ "title": "Fluid Mechanics", "subject": "CIVE", "code": "345", "term": "201901" },
+	{ "title": "Structural Analysis", "subject": "CIVE", "code": "350", "term": "201901" },
+	{ "title": "Geotechnical Engineering", "subject": "CIVE", "code": "385", "term": "201901" },
+	{
+		"title": "Cross-disciplinary Capstone Design Project",
+		"subject": "CIVE",
+		"code": "400",
+		"term": "201901"
+	},
+	{ "title": "Resilient Smart Cities", "subject": "CIVE", "code": "411", "term": "201901" },
+	{
+		"title": "Infrastructure Engineering for Indigenous Communities",
+		"subject": "CIVE",
+		"code": "412",
+		"term": "201901"
+	},
+	{
+		"title": "Water and Sanitation for Developing Countries",
+		"subject": "CIVE",
+		"code": "444",
+		"term": "201901"
+	},
+	{ "title": "Groundwater Hydrology", "subject": "CIVE", "code": "445", "term": "201901" },
+	{
+		"title": "Engineering for Earthquakes and Extreme Events",
+		"subject": "CIVE",
+		"code": "452",
+		"term": "201901"
+	},
+	{
+		"title": "SPECIAL TOPICS: Timber Structures",
+		"subject": "CIVE",
+		"code": "480F",
+		"term": "201901"
+	},
+	{ "title": "Foundation Engineering", "subject": "CIVE", "code": "485", "term": "201901" },
+	{ "title": "Sustainable Cities", "subject": "CIVE", "code": "513", "term": "201901" },
+	{
+		"title": "SELECTED TOPICS: Resilient Smart Cities",
+		"subject": "CIVE",
+		"code": "580",
+		"term": "201901"
+	},
+	{
+		"title": "SELECTED TOPICS: Geotechnical Site Characterization",
+		"subject": "CIVE",
+		"code": "580",
+		"term": "201901"
+	},
+	{
+		"title": "SELECTED TOPICS: Water and Sanitation for Developing Countries",
+		"subject": "CIVE",
+		"code": "580",
+		"term": "201901"
+	},
+	{ "title": "SUSTAINABILITY SEMINARS", "subject": "CIVE", "code": "595", "term": "201901" },
+	{ "title": "MASc Thesis", "subject": "CIVE", "code": "599", "term": "201901" },
+	{ "title": "Candidacy Examination", "subject": "CIVE", "code": "693", "term": "201901" },
+	{ "title": "Sustainability Seminars", "subject": "CIVE", "code": "695", "term": "201901" },
+	{ "title": "PhD Dissertation", "subject": "CIVE", "code": "699", "term": "201901" },
+	{
+		"title": "Introduction to Business Decision Making",
+		"subject": "COM",
+		"code": "100",
+		"term": "201901"
+	},
+	{ "title": "Financial Accounting I", "subject": "COM", "code": "202", "term": "201901" },
+	{ "title": "Professional Skills Development", "subject": "COM", "code": "205", "term": "201901" },
+	{
+		"title": "Business English and CommunicationsLevel III",
+		"subject": "COM",
+		"code": "206C",
+		"term": "201901"
+	},
+	{ "title": "Organizational Behaviour", "subject": "COM", "code": "220", "term": "201901" },
+	{ "title": "Management Finance", "subject": "COM", "code": "240", "term": "201901" },
+	{ "title": "Fundamentals of Marketing", "subject": "COM", "code": "250", "term": "201901" },
+	{
+		"title": "Introduction to Canadian Business",
+		"subject": "COM",
+		"code": "290",
+		"term": "201901"
+	},
+	{ "title": "Business Law", "subject": "COM", "code": "302", "term": "201901" },
+	{ "title": "Management Accounting", "subject": "COM", "code": "316", "term": "201901" },
+	{ "title": "Management Accounting I", "subject": "COM", "code": "317", "term": "201901" },
+	{
+		"title": "Leading People and Organizations II",
+		"subject": "COM",
+		"code": "322",
+		"term": "201901"
+	},
+	{
+		"title": "Introduction to Management Information Systems",
+		"subject": "COM",
+		"code": "331",
+		"term": "201901"
+	},
+	{ "title": "Operations Management", "subject": "COM", "code": "341", "term": "201901" },
+	{ "title": "International Business", "subject": "COM", "code": "361", "term": "201901" },
+	{ "title": "Strategic Management", "subject": "COM", "code": "400", "term": "201901" },
+	{ "title": "Legal Issues in Management", "subject": "COM", "code": "402", "term": "201901" },
+	{
+		"title": "Career Preparation Across Borders",
+		"subject": "COM",
+		"code": "405",
+		"term": "201901"
+	},
+	{ "title": "Leadership Strategies", "subject": "COM", "code": "410", "term": "201901" },
+	{
+		"title": "Corporate Relations and Responsibilities",
+		"subject": "COM",
+		"code": "435",
+		"term": "201901"
+	},
+	{
+		"title": "SELECTED TOPICS IN MGMT: #MeToo & #BlackLivesMatter at Work:How to address diversity & inclusion",
+		"subject": "COM",
+		"code": "450",
+		"term": "201901"
+	},
+	{
+		"title": "SELECTED TOPICS IN MGMT: Innovation and Design Studio",
+		"subject": "COM",
+		"code": "450",
+		"term": "201901"
+	},
+	{
+		"title": "Managing in Diverse Environments",
+		"subject": "COM",
+		"code": "460",
+		"term": "201901"
+	},
+	{ "title": "Business Research", "subject": "COM", "code": "470", "term": "201901" },
+	{ "title": "International Study", "subject": "COM", "code": "480", "term": "201901" },
+	{
+		"title": "International Management and Environment",
+		"subject": "COM",
+		"code": "499",
+		"term": "201901"
+	},
+	{
+		"title": "Enterprise Development for Community Benefit",
+		"subject": "CD",
+		"code": "506",
+		"term": "201901"
+	},
+	{
+		"title": "Understanding and Mainstreaming Gender",
+		"subject": "CD",
+		"code": "522",
+		"term": "201901"
+	},
+	{
+		"title": "Agenda for Social Change: Moving Forward",
+		"subject": "CD",
+		"code": "526",
+		"term": "201901"
+	},
+	{ "title": "Group Project", "subject": "CD", "code": "596", "term": "201901" },
+	{ "title": "Master's Project", "subject": "CD", "code": "598", "term": "201901" },
+	{
+		"title": "Computers and Information Processing",
+		"subject": "CSC",
+		"code": "105",
+		"term": "201901"
+	},
+	{
+		"title": "The Practice of Computer Science",
+		"subject": "CSC",
+		"code": "106",
+		"term": "201901"
+	},
+	{ "title": "Fundamentals of Programming I", "subject": "CSC", "code": "110", "term": "201901" },
+	{
+		"title": "Fundamentals of Programming with Engineering Applications",
+		"subject": "CSC",
+		"code": "111",
+		"term": "201901"
+	},
+	{ "title": "Fundamentals of Programming II", "subject": "CSC", "code": "115", "term": "201901" },
+	{
+		"title": "Algorithms and Data Structures I",
+		"subject": "CSC",
+		"code": "225",
+		"term": "201901"
+	},
+	{
+		"title": "Algorithms and Data Structures II",
+		"subject": "CSC",
+		"code": "226",
+		"term": "201901"
+	},
+	{
+		"title": "Introduction to Computer Architecture",
+		"subject": "CSC",
+		"code": "230",
+		"term": "201901"
+	},
+	{
+		"title": "Introduction to Computer Graphics",
+		"subject": "CSC",
+		"code": "305",
+		"term": "201901"
+	},
+	{ "title": "Foundations of Computer Science", "subject": "CSC", "code": "320", "term": "201901" },
+	{ "title": "Logic and Programming", "subject": "CSC", "code": "322", "term": "201901" },
+	{ "title": "Numerical Analysis", "subject": "CSC", "code": "349A", "term": "201901" },
+	{ "title": "Computer Architecture", "subject": "CSC", "code": "350", "term": "201901" },
+	{
+		"title": "Digital Logic and Computer Organization",
+		"subject": "CSC",
+		"code": "355",
+		"term": "201901"
+	},
+	{ "title": "Operating Systems", "subject": "CSC", "code": "360", "term": "201901" },
+	{
+		"title": "Computer Communications and Networks",
+		"subject": "CSC",
+		"code": "361",
+		"term": "201901"
+	},
+	{ "title": "Database Systems", "subject": "CSC", "code": "370", "term": "201901" },
+	{ "title": "Cryptography", "subject": "CSC", "code": "429", "term": "201901" },
+	{
+		"title": "Design and Analysis of Real-time Systems",
+		"subject": "CSC",
+		"code": "460",
+		"term": "201901"
+	},
+	{
+		"title": "Switching, Network Traffic and Quality of Service",
+		"subject": "CSC",
+		"code": "467",
+		"term": "201901"
+	},
+	{
+		"title": "TOPICS IN ALGORITHMS: Machine Learning Theory",
+		"subject": "CSC",
+		"code": "482A",
+		"term": "201901"
+	},
+	{
+		"title": "TOPICS IN SYSTEMS: Documenting and Understanding Software Systems",
+		"subject": "CSC",
+		"code": "485A",
+		"term": "201901"
+	},
+	{
+		"title": "TOPICS IN SYSTEMS: Information Visualization",
+		"subject": "CSC",
+		"code": "485D",
+		"term": "201901"
+	},
+	{
+		"title": "TOPICS IN GRAPHICS: Intro to Deep Learning for Computer Vision",
+		"subject": "CSC",
+		"code": "486B",
+		"term": "201901"
+	},
+	{ "title": "Information Visualization", "subject": "CSC", "code": "511", "term": "201901" },
+	{
+		"title": "Design and Analysis of Real-Time Systems",
+		"subject": "CSC",
+		"code": "560",
+		"term": "201901"
+	},
+	{
+		"title": "TPCS:SOFTWARE APPLICATION: Documenting and Understanding Software Systems",
+		"subject": "CSC",
+		"code": "578A",
+		"term": "201901"
+	},
+	{
+		"title": "TPCS:SOFTWARE APPLICATION: Data Mining",
+		"subject": "CSC",
+		"code": "578D",
+		"term": "201901"
+	},
+	{
+		"title": "Topics in Software Applications",
+		"subject": "CSC",
+		"code": "578D",
+		"term": "201901"
+	},
+	{
+		"title": "TPCS:ARTIFICIAL INTELGNCE: Machine Learning Theory",
+		"subject": "CSC",
+		"code": "581B",
+		"term": "201901"
+	},
+	{
+		"title": "TPCS:COMP SYSTEM+SOFTWARE: Intro to Deep Learning for Computer Vision",
+		"subject": "CSC",
+		"code": "586B",
+		"term": "201901"
+	},
+	{ "title": "Research Skills", "subject": "CSC", "code": "595", "term": "201901" },
+	{ "title": "Industrial Master's Project", "subject": "CSC", "code": "597", "term": "201901" },
+	{ "title": "Master's Project", "subject": "CSC", "code": "598", "term": "201901" },
+	{ "title": "Master's Thesis", "subject": "CSC", "code": "599", "term": "201901" },
+	{ "title": "PhD Candidacy", "subject": "CSC", "code": "693", "term": "201901" },
+	{ "title": "PhD Dissertation", "subject": "CSC", "code": "699", "term": "201901" },
+	{
+		"title": "Introduction to Creative Writing",
+		"subject": "CW",
+		"code": "100E",
+		"term": "201901"
+	},
+	{
+		"title": "Writing for Children from a First Nations' Perspective",
+		"subject": "CW",
+		"code": "150E",
+		"term": "201901"
+	},
+	{
+		"title": "Critical Process, Symbolism and Oral Tradition",
+		"subject": "CW",
+		"code": "156E",
+		"term": "201901"
+	},
+	{ "title": "TOPICS IN CSPT: Social Theory", "subject": "CSPT", "code": "500", "term": "201901" },
+	{
+		"title": "TOPICS IN CSPT: James Joyce's Ulysses",
+		"subject": "CSPT",
+		"code": "500",
+		"term": "201901"
+	},
+	{
+		"title": "Contemporary Cultural Social and Political Thought I",
+		"subject": "CSPT",
+		"code": "501",
+		"term": "201901"
+	},
+	{
+		"title": "Contemporary Cultural Social and Political Thought II",
+		"subject": "CSPT",
+		"code": "601",
+		"term": "201901"
+	},
+	{ "title": "Studio Piano Class I", "subject": "EDCI", "code": "208", "term": "201901" },
+	{
+		"title": "Elementary Field Experience Seminar I",
+		"subject": "EDCI",
+		"code": "250",
+		"term": "201901"
+	},
+	{ "title": "Mathematical Processes", "subject": "EDCI", "code": "300", "term": "201901" },
+	{
+		"title": "Historical and Philosophical Foundations of Canadian Education",
+		"subject": "EDCI",
+		"code": "303",
+		"term": "201901"
+	},
+	{
+		"title": "Drama Education: A Medium for Learning I",
+		"subject": "EDCI",
+		"code": "305A",
+		"term": "201901"
+	},
+	{
+		"title": "Drama Education: A Medium for Learning II",
+		"subject": "EDCI",
+		"code": "305B",
+		"term": "201901"
+	},
+	{
+		"title": "Music in the Elementary Classroom I",
+		"subject": "EDCI",
+		"code": "306A",
+		"term": "201901"
+	},
+	{
+		"title": "Art in the Elementary or Middle Classroom I",
+		"subject": "EDCI",
+		"code": "307A",
+		"term": "201901"
+	},
+	{
+		"title": "Art in the Elementary Classroom II",
+		"subject": "EDCI",
+		"code": "307B",
+		"term": "201901"
+	},
+	{ "title": "Studio Piano Class II", "subject": "EDCI", "code": "308", "term": "201901" },
+	{ "title": "Learning to Listen to Music", "subject": "EDCI", "code": "310", "term": "201901" },
+	{ "title": "Studio Guitar Class: I", "subject": "EDCI", "code": "311", "term": "201901" },
+	{ "title": "Studio Guitar Class: II", "subject": "EDCI", "code": "312", "term": "201901" },
+	{
+		"title": "Elementary Field Experience Seminar II",
+		"subject": "EDCI",
+		"code": "330",
+		"term": "201901"
+	},
+	{ "title": "Learning Design", "subject": "EDCI", "code": "335", "term": "201901" },
+	{
+		"title": "Technology Innovation in Education",
+		"subject": "EDCI",
+		"code": "336",
+		"term": "201901"
+	},
+	{
+		"title": "Interactive & Multimedia Learning",
+		"subject": "EDCI",
+		"code": "337",
+		"term": "201901"
+	},
+	{
+		"title": "Social Media and Personalized Learning",
+		"subject": "EDCI",
+		"code": "338",
+		"term": "201901"
+	},
+	{ "title": "Distributed and Open Learning", "subject": "EDCI", "code": "339", "term": "201901" },
+	{ "title": "Expanding Notions of Text", "subject": "EDCI", "code": "356", "term": "201901" },
+	{
+		"title": "Reading: Instructional Principles and Strategies",
+		"subject": "EDCI",
+		"code": "402",
+		"term": "201901"
+	},
+	{
+		"title": "Curriculum and Instruction in Elementary or Middle School Science",
+		"subject": "EDCI",
+		"code": "403",
+		"term": "201901"
+	},
+	{
+		"title": "Curriculum and Instruction in Elementary or Middle School Social Studies",
+		"subject": "EDCI",
+		"code": "404",
+		"term": "201901"
+	},
+	{
+		"title": "Curriculum and Instruction in Elementary or Middle School Mathematics",
+		"subject": "EDCI",
+		"code": "405",
+		"term": "201901"
+	},
+	{ "title": "Anthropology and Education", "subject": "EDCI", "code": "433", "term": "201901" },
+	{
+		"title": "Principles of Teaching English Language Learning",
+		"subject": "EDCI",
+		"code": "447",
+		"term": "201901"
+	},
+	{
+		"title": "Organization and Procedures for Instruction of English to Second Language Learners",
+		"subject": "EDCI",
+		"code": "448",
+		"term": "201901"
+	},
+	{
+		"title": "Principles in Teaching French Immersion",
+		"subject": "EDCI",
+		"code": "475",
+		"term": "201901"
+	},
+	{ "title": "Transformative Inquiry", "subject": "EDCI", "code": "490", "term": "201901" },
+	{
+		"title": "Emerging Trends and Topics in Curriculum Studies",
+		"subject": "EDCI",
+		"code": "532",
+		"term": "201901"
+	},
+	{ "title": "Qualitative Research Methods", "subject": "EDCI", "code": "580", "term": "201901" },
+	{
+		"title": "Research Methodologies in Education",
+		"subject": "EDCI",
+		"code": "581",
+		"term": "201901"
+	},
+	{ "title": "Writing as Research", "subject": "EDCI", "code": "582", "term": "201901" },
+	{
+		"title": "SELECTED TOPICS: English Language Learning: Theory and Practice",
+		"subject": "EDCI",
+		"code": "591",
+		"term": "201901"
+	},
+	{ "title": "Comprehensive Examination", "subject": "EDCI", "code": "597", "term": "201901" },
+	{
+		"title": "ProjectCurriculum and Instruction",
+		"subject": "EDCI",
+		"code": "598",
+		"term": "201901"
+	},
+	{
+		"title": "Project Proposal and Literature Review",
+		"subject": "EDCI",
+		"code": "598A",
+		"term": "201901"
+	},
+	{ "title": "Project", "subject": "EDCI", "code": "598B", "term": "201901" },
+	{
+		"title": "ThesisCurriculum and Instruction",
+		"subject": "EDCI",
+		"code": "599",
+		"term": "201901"
+	},
+	{ "title": "Advanced Research Design", "subject": "EDCI", "code": "681", "term": "201901" },
+	{
+		"title": "Candidacy ExaminationCurriculum and Instruction",
+		"subject": "EDCI",
+		"code": "693",
+		"term": "201901"
+	},
+	{
+		"title": "PhD DissertationCurriculum and Instruction",
+		"subject": "EDCI",
+		"code": "699",
+		"term": "201901"
+	},
+	{
+		"title": "Tools, Techniques, and Culture of the Digital Humanities",
+		"subject": "DHUM",
+		"code": "150",
+		"term": "201901"
+	},
+	{
+		"title": "Dispute Resolution System Design and Public Interest Disputes",
+		"subject": "DR",
+		"code": "509",
+		"term": "201901"
+	},
+	{ "title": "Master's Project", "subject": "DR", "code": "598", "term": "201901" },
+	{ "title": "Master's Thesis", "subject": "DR", "code": "599", "term": "201901" },
+	{ "title": "Oceans and Atmosphere", "subject": "EOS", "code": "110", "term": "201901" },
+	{ "title": "The Dynamic Earth", "subject": "EOS", "code": "120", "term": "201901" },
+	{ "title": "Sedimentary Geology", "subject": "EOS", "code": "201", "term": "201901" },
+	{ "title": "Structural Geology", "subject": "EOS", "code": "202", "term": "201901" },
+	{ "title": "Geochemistry", "subject": "EOS", "code": "240", "term": "201901" },
+	{
+		"title": "Introductory Chemical Oceanography",
+		"subject": "EOS",
+		"code": "312",
+		"term": "201901"
+	},
+	{
+		"title": "Introductory Geological Oceanography",
+		"subject": "EOS",
+		"code": "313",
+		"term": "201901"
+	},
+	{ "title": "Paleobiology", "subject": "EOS", "code": "330", "term": "201901" },
+	{ "title": "Atmospheric Sciences", "subject": "EOS", "code": "340", "term": "201901" },
+	{ "title": "Climate and Society", "subject": "EOS", "code": "365", "term": "201901" },
+	{ "title": "Global Biogeochemical Cycles", "subject": "EOS", "code": "403", "term": "201901" },
+	{ "title": "Geophysics", "subject": "EOS", "code": "427", "term": "201901" },
+	{ "title": "Earth System Science", "subject": "EOS", "code": "460", "term": "201901" },
+	{ "title": "Applied Geophysics", "subject": "EOS", "code": "480", "term": "201901" },
+	{ "title": "Honours Thesis I", "subject": "EOS", "code": "499A", "term": "201901" },
+	{ "title": "Honours Thesis II", "subject": "EOS", "code": "499B", "term": "201901" },
+	{
+		"title": "SELECTED TOPICS GEOCHEM: Chemical Oceanography",
+		"subject": "EOS",
+		"code": "504A",
+		"term": "201901"
+	},
+	{
+		"title": "SELECTED TOPICS IN GEOPHYSICS: Whole-Earth Geophysics",
+		"subject": "EOS",
+		"code": "519B",
+		"term": "201901"
+	},
+	{ "title": "MSc Thesis", "subject": "EOS", "code": "599", "term": "201901" },
+	{ "title": "PhD Candidacy Examination", "subject": "EOS", "code": "693", "term": "201901" },
+	{ "title": "PhD Dissertation", "subject": "EOS", "code": "699", "term": "201901" },
+	{ "title": "Principles of Microeconomics", "subject": "ECON", "code": "103", "term": "201901" },
+	{ "title": "Principles of Macroeconomics", "subject": "ECON", "code": "104", "term": "201901" },
+	{ "title": "Intermediate Microeconomics I", "subject": "ECON", "code": "203", "term": "201901" },
+	{ "title": "Intermediate Macroeconomics", "subject": "ECON", "code": "204", "term": "201901" },
+	{ "title": "Managerial Economics", "subject": "ECON", "code": "205", "term": "201901" },
+	{ "title": "Writing for Economists", "subject": "ECON", "code": "225", "term": "201901" },
+	{
+		"title": "Descriptive Statistics and Probability",
+		"subject": "ECON",
+		"code": "245",
+		"term": "201901"
+	},
+	{ "title": "Statistical Inference", "subject": "ECON", "code": "246", "term": "201901" },
+	{ "title": "Money and Banking", "subject": "ECON", "code": "305", "term": "201901" },
+	{ "title": "Urban Land Economics", "subject": "ECON", "code": "312", "term": "201901" },
+	{ "title": "Intermediate Microeconomics II", "subject": "ECON", "code": "313", "term": "201901" },
+	{
+		"title": "The Economics of Canadian Health Care",
+		"subject": "ECON",
+		"code": "317",
+		"term": "201901"
+	},
+	{ "title": "Health Economics", "subject": "ECON", "code": "318", "term": "201901" },
+	{ "title": "Economic Development", "subject": "ECON", "code": "320", "term": "201901" },
+	{ "title": "The Economic History of Canada", "subject": "ECON", "code": "321", "term": "201901" },
+	{ "title": "Public Economics", "subject": "ECON", "code": "325", "term": "201901" },
+	{
+		"title": "Economic History of North America",
+		"subject": "ECON",
+		"code": "327",
+		"term": "201901"
+	},
+	{ "title": "Development and Economics", "subject": "ECON", "code": "329", "term": "201901" },
+	{
+		"title": "Introduction to Economic Growth",
+		"subject": "ECON",
+		"code": "333",
+		"term": "201901"
+	},
+	{
+		"title": "History of Economic Thought to 1870",
+		"subject": "ECON",
+		"code": "337",
+		"term": "201901"
+	},
+	{ "title": "Applied Econometrics", "subject": "ECON", "code": "345", "term": "201901" },
+	{
+		"title": "Mathematical Economics II: An Introduction to Dynamic Methods",
+		"subject": "ECON",
+		"code": "351",
+		"term": "201901"
+	},
+	{ "title": "Econometrics: Part II", "subject": "ECON", "code": "366", "term": "201901" },
+	{ "title": "Labour Economics I", "subject": "ECON", "code": "370", "term": "201901" },
+	{ "title": "Environmental Economics I", "subject": "ECON", "code": "381", "term": "201901" },
+	{ "title": "Natural Resource Economics I", "subject": "ECON", "code": "382", "term": "201901" },
+	{
+		"title": "Agricultural Economics and Policy",
+		"subject": "ECON",
+		"code": "403",
+		"term": "201901"
+	},
+	{ "title": "International Trade Theory", "subject": "ECON", "code": "405A", "term": "201901" },
+	{
+		"title": "International Monetary Theory and Policy",
+		"subject": "ECON",
+		"code": "405B",
+		"term": "201901"
+	},
+	{ "title": "Monetary Economics", "subject": "ECON", "code": "406", "term": "201901" },
+	{
+		"title": "Cost Benefit Analysis: Principles and Application",
+		"subject": "ECON",
+		"code": "416",
+		"term": "201901"
+	},
+	{ "title": "Financial Economics", "subject": "ECON", "code": "435", "term": "201901" },
+	{ "title": "Information and Incentives", "subject": "ECON", "code": "452", "term": "201901" },
+	{ "title": "Economic Growth", "subject": "ECON", "code": "453", "term": "201901" },
+	{ "title": "Computational Economics", "subject": "ECON", "code": "457", "term": "201901" },
+	{ "title": "Competition Economics II", "subject": "ECON", "code": "458", "term": "201901" },
+	{ "title": "Financial Econometrics", "subject": "ECON", "code": "468", "term": "201901" },
+	{
+		"title": "Fourth-Year Honours Thesis and Seminar",
+		"subject": "ECON",
+		"code": "499",
+		"term": "201901"
+	},
+	{ "title": "Macroeconomic Analysis", "subject": "ECON", "code": "501", "term": "201901" },
+	{
+		"title": "Industrial Organization and Public Policy",
+		"subject": "ECON",
+		"code": "510",
+		"term": "201901"
+	},
+	{ "title": "Labour Economics", "subject": "ECON", "code": "515", "term": "201901" },
+	{ "title": "Cost-Benefit Analysis", "subject": "ECON", "code": "516", "term": "201901" },
+	{ "title": "Themes in Econometrics", "subject": "ECON", "code": "546", "term": "201901" },
+	{ "title": "Applied Econometric Modelling", "subject": "ECON", "code": "548", "term": "201901" },
+	{ "title": "Extended Essay", "subject": "ECON", "code": "598", "term": "201901" },
+	{ "title": "Thesis", "subject": "ECON", "code": "599", "term": "201901" },
+	{ "title": "PhD Candidacy Examinations", "subject": "ECON", "code": "693", "term": "201901" },
+	{ "title": "Dissertation", "subject": "ECON", "code": "699", "term": "201901" },
+	{ "title": "CO-OP WORK TERM", "subject": "ECON", "code": "812", "term": "201901" },
+	{
+		"title": "Learning Strategies for University Success",
+		"subject": "ED-D",
+		"code": "101",
+		"term": "201901"
+	},
+	{
+		"title": "Learners and Learning Environments",
+		"subject": "ED-D",
+		"code": "301",
+		"term": "201901"
+	},
+	{
+		"title": "Experiential Learning and Community Engagement",
+		"subject": "ED-D",
+		"code": "302",
+		"term": "201901"
+	},
+	{
+		"title": "Study of Communication in Interpersonal Relationships",
+		"subject": "ED-D",
+		"code": "316",
+		"term": "201901"
+	},
+	{
+		"title": "Introduction to Psychology of Classroom Learning",
+		"subject": "ED-D",
+		"code": "401",
+		"term": "201901"
+	},
+	{
+		"title": "Assessment For Special Education",
+		"subject": "ED-D",
+		"code": "402",
+		"term": "201901"
+	},
+	{ "title": "Psychology of Adolescence", "subject": "ED-D", "code": "406", "term": "201901" },
+	{
+		"title": "Evaluating and Reporting Student Progress",
+		"subject": "ED-D",
+		"code": "407",
+		"term": "201901"
+	},
+	{
+		"title": "Promoting Prosocial Behaviour: Strategies and Management",
+		"subject": "ED-D",
+		"code": "408",
+		"term": "201901"
+	},
+	{
+		"title": "Teacher as Leader: The Professional Role",
+		"subject": "ED-D",
+		"code": "410",
+		"term": "201901"
+	},
+	{ "title": "Group Processes", "subject": "ED-D", "code": "414", "term": "201901" },
+	{
+		"title": "Effective Interpersonal Communication Skills in Special Education",
+		"subject": "ED-D",
+		"code": "416",
+		"term": "201901"
+	},
+	{
+		"title": "Skills for Effective Interpersonal Communication",
+		"subject": "ED-D",
+		"code": "417",
+		"term": "201901"
+	},
+	{
+		"title": "Introduction to Theories of Counselling",
+		"subject": "ED-D",
+		"code": "418",
+		"term": "201901"
+	},
+	{
+		"title": "Learning Support: Context and Key Issues",
+		"subject": "ED-D",
+		"code": "420",
+		"term": "201901"
+	},
+	{
+		"title": "Differentiating Instruction in the Inclusive Classroom",
+		"subject": "ED-D",
+		"code": "426",
+		"term": "201901"
+	},
+	{
+		"title": "Program Development and Evaluation",
+		"subject": "ED-D",
+		"code": "503",
+		"term": "201901"
+	},
+	{
+		"title": "Social and Emotional Development",
+		"subject": "ED-D",
+		"code": "506B",
+		"term": "201901"
+	},
+	{
+		"title": "Psychology of Learning and Instruction",
+		"subject": "ED-D",
+		"code": "509",
+		"term": "201901"
+	},
+	{
+		"title": "Ethics and Legal Issues in Counselling",
+		"subject": "ED-D",
+		"code": "519C",
+		"term": "201901"
+	},
+	{ "title": "Group Counselling", "subject": "ED-D", "code": "519L", "term": "201901" },
+	{
+		"title": "Skills and Practice for Counselling",
+		"subject": "ED-D",
+		"code": "522",
+		"term": "201901"
+	},
+	{ "title": "Internship in Counselling", "subject": "ED-D", "code": "523", "term": "201901" },
+	{
+		"title": "Global Comparative Perspectives on Leadership and Education",
+		"subject": "ED-D",
+		"code": "535",
+		"term": "201901"
+	},
+	{ "title": "Educational Change", "subject": "ED-D", "code": "537A", "term": "201901" },
+	{
+		"title": "Cultural Leadership and Social Learning through the Arts",
+		"subject": "ED-D",
+		"code": "538B",
+		"term": "201901"
+	},
+	{
+		"title": "Leadership, Learning and Social Justice",
+		"subject": "ED-D",
+		"code": "539A",
+		"term": "201901"
+	},
+	{ "title": "Leadership in Rural Education", "subject": "ED-D", "code": "541", "term": "201901" },
+	{
+		"title": "Statistical Methods in Education",
+		"subject": "ED-D",
+		"code": "560",
+		"term": "201901"
+	},
+	{
+		"title": "Methods in Educational Research",
+		"subject": "ED-D",
+		"code": "561A",
+		"term": "201901"
+	},
+	{
+		"title": "Advanced Statistical Methods in Education",
+		"subject": "ED-D",
+		"code": "562",
+		"term": "201901"
+	},
+	{
+		"title": "Indigenous Research and Program Evaluation",
+		"subject": "ED-D",
+		"code": "564",
+		"term": "201901"
+	},
+	{
+		"title": "Developmental Psychopathology and Disorders",
+		"subject": "ED-D",
+		"code": "569",
+		"term": "201901"
+	},
+	{
+		"title": "Advanced Assistive Technology in the Inclusive Classroom",
+		"subject": "ED-D",
+		"code": "571",
+		"term": "201901"
+	},
+	{
+		"title": "TOPICS:LEADERSHIP STUDIES: Social Media, Cyber-bullying and Leadership",
+		"subject": "ED-D",
+		"code": "591E",
+		"term": "201901"
+	},
+	{
+		"title": "Comprehensive ExaminationEducational Psychology and Leadership Studies",
+		"subject": "ED-D",
+		"code": "597",
+		"term": "201901"
+	},
+	{
+		"title": "ProjectEducational Psychology and Leadership Studies",
+		"subject": "ED-D",
+		"code": "598",
+		"term": "201901"
+	},
+	{
+		"title": "ThesisEducational Psychology and Leadership Studies",
+		"subject": "ED-D",
+		"code": "599",
+		"term": "201901"
+	},
+	{
+		"title": "Educational Psychology: Apprenticeship in Teaching in Higher Education",
+		"subject": "ED-D",
+		"code": "605",
+		"term": "201901"
+	},
+	{
+		"title": "Contemporary Issues in Higher Education",
+		"subject": "ED-D",
+		"code": "610",
+		"term": "201901"
+	},
+	{
+		"title": "Doctoral Candidacy Exam in Educational Psychology",
+		"subject": "ED-D",
+		"code": "693",
+		"term": "201901"
+	},
+	{ "title": "PhD Dissertation", "subject": "ED-D", "code": "699", "term": "201901" },
+	{ "title": "Linear Circuits II", "subject": "ECE", "code": "300", "term": "201901" },
+	{ "title": "Digital Signal Processing I", "subject": "ECE", "code": "310", "term": "201901" },
+	{ "title": "Electronic Devices I", "subject": "ECE", "code": "320", "term": "201901" },
+	{ "title": "Electronic Circuits I", "subject": "ECE", "code": "330", "term": "201901" },
+	{
+		"title": "Applied Electromagnetics and Photonics",
+		"subject": "ECE",
+		"code": "340",
+		"term": "201901"
+	},
+	{ "title": "Control Theory and Systems I", "subject": "ECE", "code": "360", "term": "201901" },
+	{ "title": "Nanotechnology", "subject": "ECE", "code": "420", "term": "201901" },
+	{ "title": "Medical Image Processing", "subject": "ECE", "code": "435", "term": "201901" },
+	{
+		"title": "Design of Digital and VLSI Systems",
+		"subject": "ECE",
+		"code": "441",
+		"term": "201901"
+	},
+	{
+		"title": "Computer Systems and Architecture",
+		"subject": "ECE",
+		"code": "449",
+		"term": "201901"
+	},
+	{ "title": "Antennas and Propagation", "subject": "ECE", "code": "453", "term": "201901" },
+	{
+		"title": "Real Time Computer Systems Design Project",
+		"subject": "ECE",
+		"code": "455",
+		"term": "201901"
+	},
+	{ "title": "Parallel and Cluster Computing", "subject": "ECE", "code": "457", "term": "201901" },
+	{ "title": "Communication Networks", "subject": "ECE", "code": "458", "term": "201901" },
+	{
+		"title": "Applications of Digital Signal Processing Techniques",
+		"subject": "ECE",
+		"code": "459",
+		"term": "201901"
+	},
+	{ "title": "Control Theory and Systems II", "subject": "ECE", "code": "460", "term": "201901" },
+	{ "title": "Computer Vision", "subject": "ECE", "code": "471", "term": "201901" },
+	{ "title": "Electrical Drive Systems", "subject": "ECE", "code": "482", "term": "201901" },
+	{ "title": "Digital Video Processing", "subject": "ECE", "code": "483", "term": "201901" },
+	{
+		"title": "Data Analysis and Pattern Recognition",
+		"subject": "ECE",
+		"code": "485",
+		"term": "201901"
+	},
+	{ "title": "Electrical Power Systems", "subject": "ECE", "code": "488", "term": "201901" },
+	{
+		"title": "SELECTED TOPICS IN ECE: MIMO and UWB Communications",
+		"subject": "ECE",
+		"code": "496A",
+		"term": "201901"
+	},
+	{ "title": "Seminar", "subject": "ECE", "code": "509", "term": "201901" },
+	{
+		"title": "SELECTED TOPICS IN COMP COMM: MIMO and UWB Communications",
+		"subject": "ECE",
+		"code": "519B",
+		"term": "201901"
+	},
+	{
+		"title": "SELECTED TOPICS IN SECURE COMM: Cryptography",
+		"subject": "ECE",
+		"code": "519C",
+		"term": "201901"
+	},
+	{
+		"title": "SELECTED TOPICS IN ELECTRONICS: Photovoltaics",
+		"subject": "ECE",
+		"code": "549A",
+		"term": "201901"
+	},
+	{
+		"title": "Introduction to Parallel and Cluster Computing",
+		"subject": "ECE",
+		"code": "553",
+		"term": "201901"
+	},
+	{ "title": "Advanced Network Security", "subject": "ECE", "code": "567", "term": "201901" },
+	{
+		"title": "Advanced Engineering Design by Optimization",
+		"subject": "ECE",
+		"code": "573",
+		"term": "201901"
+	},
+	{
+		"title": "Practice of Information Security and Privacy",
+		"subject": "ECE",
+		"code": "574",
+		"term": "201901"
+	},
+	{ "title": "Professional Foundation", "subject": "ECE", "code": "591", "term": "201901" },
+	{ "title": "MEng Project", "subject": "ECE", "code": "598", "term": "201901" },
+	{ "title": "MASc Thesis", "subject": "ECE", "code": "599", "term": "201901" },
+	{ "title": "PhD Candidacy Examination", "subject": "ECE", "code": "693", "term": "201901" },
+	{ "title": "PhD Dissertation", "subject": "ECE", "code": "699", "term": "201901" },
+	{ "title": "Design and Communication II", "subject": "ENGR", "code": "120", "term": "201901" },
+	{ "title": "Design II", "subject": "ENGR", "code": "121", "term": "201901" },
+	{
+		"title": "Introduction to Professional Practice",
+		"subject": "ENGR",
+		"code": "130",
+		"term": "201901"
+	},
+	{ "title": "Engineering Mechanics", "subject": "ENGR", "code": "141", "term": "201901" },
+	{ "title": "Technical Writing", "subject": "ENGR", "code": "240", "term": "201901" },
+	{ "title": "Technology and Society", "subject": "ENGR", "code": "297", "term": "201901" },
+	{ "title": "Technical Report", "subject": "ENGR", "code": "446", "term": "201901" },
+	{ "title": "Engineering Law", "subject": "ENGR", "code": "498", "term": "201901" },
+	{
+		"title": "Fundamentals of Academic Literacy",
+		"subject": "ENGL",
+		"code": "101",
+		"term": "201901"
+	},
+	{ "title": "Academic Reading and Writing", "subject": "ENGL", "code": "135", "term": "201901" },
+	{ "title": "The Literature of Our Era", "subject": "ENGL", "code": "146", "term": "201901" },
+	{
+		"title": "Great Moments in English Literature",
+		"subject": "ENGL",
+		"code": "147",
+		"term": "201901"
+	},
+	{ "title": "English Literature, 1660-1800", "subject": "ENGL", "code": "200B", "term": "201901" },
+	{ "title": "English Literature, 1800-1914", "subject": "ENGL", "code": "200C", "term": "201901" },
+	{
+		"title": "Introduction to Modernist Literature",
+		"subject": "ENGL",
+		"code": "201",
+		"term": "201901"
+	},
+	{
+		"title": "Introduction to Canadian Literature",
+		"subject": "ENGL",
+		"code": "202",
+		"term": "201901"
+	},
+	{
+		"title": "Introduction to American Literature",
+		"subject": "ENGL",
+		"code": "203",
+		"term": "201901"
+	},
+	{
+		"title": "Introduction to Cultural Studies",
+		"subject": "ENGL",
+		"code": "207",
+		"term": "201901"
+	},
+	{
+		"title": "Foundations of Literary Criticism",
+		"subject": "ENGL",
+		"code": "209",
+		"term": "201901"
+	},
+	{
+		"title": "Technical Communications: Written and Verbal",
+		"subject": "ENGL",
+		"code": "225",
+		"term": "201901"
+	},
+	{
+		"title": "LITERATURE AND CULTURE I: Becoming Posthuman",
+		"subject": "ENGL",
+		"code": "230",
+		"term": "201901"
+	},
+	{ "title": "Copy Editing", "subject": "ENGL", "code": "303", "term": "201901" },
+	{ "title": "Practical Criticism", "subject": "ENGL", "code": "310", "term": "201901" },
+	{ "title": "Old English Literature", "subject": "ENGL", "code": "341", "term": "201901" },
+	{
+		"title": "Early Middle English Literature",
+		"subject": "ENGL",
+		"code": "342",
+		"term": "201901"
+	},
+	{ "title": "Chaucer: Canterbury Tales", "subject": "ENGL", "code": "344A", "term": "201901" },
+	{
+		"title": "Shakespeare: Histories and Tragedies",
+		"subject": "ENGL",
+		"code": "366B",
+		"term": "201901"
+	},
+	{
+		"title": "Shakespeare: Comedies, Problem Plays, and Romances",
+		"subject": "ENGL",
+		"code": "366C",
+		"term": "201901"
+	},
+	{
+		"title": "English Literature of the Restoration Period: 1660-1700",
+		"subject": "ENGL",
+		"code": "373",
+		"term": "201901"
+	},
+	{
+		"title": "The English Novel: 1750 to the Early 19th Century",
+		"subject": "ENGL",
+		"code": "376B",
+		"term": "201901"
+	},
+	{
+		"title": "Late Victorian and Edwardian Fiction",
+		"subject": "ENGL",
+		"code": "381",
+		"term": "201901"
+	},
+	{ "title": "The Romantic Period II", "subject": "ENGL", "code": "383", "term": "201901" },
+	{
+		"title": "STUDIES IN A MAJOR FIGURE: Myth, Magic + the Heroic Life: E. Spenser's The Fairie Queene",
+		"subject": "ENGL",
+		"code": "392",
+		"term": "201901"
+	},
+	{
+		"title": "Social Media and Electronic Communication",
+		"subject": "ENGL",
+		"code": "407",
+		"term": "201901"
+	},
+	{
+		"title": "Backgrounds to English Literary Traditions",
+		"subject": "ENGL",
+		"code": "410",
+		"term": "201901"
+	},
+	{
+		"title": "Research for Professional Writers",
+		"subject": "ENGL",
+		"code": "412",
+		"term": "201901"
+	},
+	{ "title": "American Film Since 1945", "subject": "ENGL", "code": "414B", "term": "201901" },
+	{
+		"title": "Print Media Genres and Techniques for Professional Communication",
+		"subject": "ENGL",
+		"code": "418",
+		"term": "201901"
+	},
+	{
+		"title": "19th-Century American Prose and Poetry",
+		"subject": "ENGL",
+		"code": "427",
+		"term": "201901"
+	},
+	{
+		"title": "20th-Century American Fiction to World War II",
+		"subject": "ENGL",
+		"code": "429A",
+		"term": "201901"
+	},
+	{ "title": "Contemporary American Fiction", "subject": "ENGL", "code": "429C", "term": "201901" },
+	{ "title": "American Poetry: 1950-1975", "subject": "ENGL", "code": "432A", "term": "201901" },
+	{ "title": "British Poetry 1914-1950", "subject": "ENGL", "code": "434A", "term": "201901" },
+	{
+		"title": "Modern Drama Since World War II",
+		"subject": "ENGL",
+		"code": "437B",
+		"term": "201901"
+	},
+	{ "title": "Contemporary Canadian Fiction", "subject": "ENGL", "code": "451", "term": "201901" },
+	{ "title": "Literature of British Columbia", "subject": "ENGL", "code": "456", "term": "201901" },
+	{ "title": "Early Canadian Literature", "subject": "ENGL", "code": "459", "term": "201901" },
+	{
+		"title": "The Bible and Literature in English",
+		"subject": "ENGL",
+		"code": "464",
+		"term": "201901"
+	},
+	{
+		"title": "Seminar in 20th-Century Literary Criticism",
+		"subject": "ENGL",
+		"code": "467",
+		"term": "201901"
+	},
+	{
+		"title": "Indigenous and Diasporic Literatures in Canada",
+		"subject": "ENGL",
+		"code": "476",
+		"term": "201901"
+	},
+	{
+		"title": "Victorian and Edwardian Children's Fiction",
+		"subject": "ENGL",
+		"code": "479",
+		"term": "201901"
+	},
+	{ "title": "Graduating Essay in Honours", "subject": "ENGL", "code": "499", "term": "201901" },
+	{
+		"title": "Teaching Literature and Composition",
+		"subject": "ENGL",
+		"code": "502",
+		"term": "201901"
+	},
+	{
+		"title": "SPECIAL STUDIES:I: Feminist Playwriting in 21st C: Staging the Extra/Ordinary",
+		"subject": "ENGL",
+		"code": "503",
+		"term": "201901"
+	},
+	{
+		"title": "LIT 17TH C:SPECIAL TOPIC: Passions, Senses, & Dispositions in Early Modern ENGL Lit",
+		"subject": "ENGL",
+		"code": "531",
+		"term": "201901"
+	},
+	{
+		"title": "LIT 18TH C:AREA COURSE: Powers of Allusion in the 18th Century",
+		"subject": "ENGL",
+		"code": "540",
+		"term": "201901"
+	},
+	{
+		"title": "LIT 19TH C:SPECIAL TOPIC: Gothic, Romance, History",
+		"subject": "ENGL",
+		"code": "551",
+		"term": "201901"
+	},
+	{
+		"title": "20THC BRIT+IRISH LIT:TPCS: James Joyce's \"Ulysses\"",
+		"subject": "ENGL",
+		"code": "561",
+		"term": "201901"
+	},
+	{
+		"title": "COMNWLTH/POSTCOL LIT:TPCS: Radical Intertextuality, Postcolonialism, and the New Xenophobia",
+		"subject": "ENGL",
+		"code": "581",
+		"term": "201901"
+	},
+	{ "title": "Master's Essay or Project", "subject": "ENGL", "code": "598", "term": "201901" },
+	{
+		"title": "MA Traditional or Alternative Thesis",
+		"subject": "ENGL",
+		"code": "599",
+		"term": "201901"
+	},
+	{ "title": "Candidacy Examination", "subject": "ENGL", "code": "693", "term": "201901" },
+	{ "title": "PhD Dissertation", "subject": "ENGL", "code": "699", "term": "201901" },
+	{
+		"title": "Entrepreneurship and Small Business for the Non-Specialist",
+		"subject": "ENT",
+		"code": "402",
+		"term": "201901"
+	},
+	{
+		"title": "Principles and Concepts of Ecological Restoration",
+		"subject": "ER",
+		"code": "311",
+		"term": "201901"
+	},
+	{
+		"title": "Ethical, Legal and Policy Aspects of Environmental Restoration",
+		"subject": "ER",
+		"code": "314",
+		"term": "201901"
+	},
+	{
+		"title": "Traditional Systems of Land and Resource Management",
+		"subject": "ER",
+		"code": "326",
+		"term": "201901"
+	},
+	{
+		"title": "Restoration of Marine Aquatic Systems",
+		"subject": "ER",
+		"code": "335B",
+		"term": "201901"
+	},
+	{
+		"title": "SPCL TPCS:ENVIRO RSTORATN: Fire Ecology",
+		"subject": "ER",
+		"code": "338B",
+		"term": "201901"
+	},
+	{
+		"title": "Environmental Restoration Project",
+		"subject": "ER",
+		"code": "390",
+		"term": "201901"
+	},
+	{
+		"title": "Seminar in Environmental Restoration",
+		"subject": "ER",
+		"code": "400",
+		"term": "201901"
+	},
+	{
+		"title": "Introduction to Environmental Studies",
+		"subject": "ES",
+		"code": "200",
+		"term": "201901"
+	},
+	{ "title": "Ecological Processes", "subject": "ES", "code": "240", "term": "201901" },
+	{ "title": "Political Ecology", "subject": "ES", "code": "301", "term": "201901" },
+	{ "title": "Environmental Economics", "subject": "ES", "code": "312", "term": "201901" },
+	{ "title": "Philosophy and the Environment", "subject": "ES", "code": "314", "term": "201901" },
+	{ "title": "Conservation Biology", "subject": "ES", "code": "320", "term": "201901" },
+	{ "title": "Ethnoecology", "subject": "ES", "code": "321", "term": "201901" },
+	{
+		"title": "Past, Present, and Future Ecologies",
+		"subject": "ES",
+		"code": "341",
+		"term": "201901"
+	},
+	{ "title": "Study Design and Data Analysis", "subject": "ES", "code": "344", "term": "201901" },
+	{ "title": "Climate and Society", "subject": "ES", "code": "365", "term": "201901" },
+	{ "title": "Leadership Skills for Change", "subject": "ES", "code": "378", "term": "201901" },
+	{
+		"title": "TPCS: POLITICAL ECOLOGY: Environmental History of the Past Ten Years",
+		"subject": "ES",
+		"code": "380",
+		"term": "201901"
+	},
+	{
+		"title": "Alternative Economies for Social Change",
+		"subject": "ES",
+		"code": "406",
+		"term": "201901"
+	},
+	{
+		"title": "Mindfulness, Sustainability, and Social Change",
+		"subject": "ES",
+		"code": "407",
+		"term": "201901"
+	},
+	{
+		"title": "Traditional Systems of Land and Resource Management",
+		"subject": "ES",
+		"code": "423",
+		"term": "201901"
+	},
+	{ "title": "Flowering Plant Diversity", "subject": "ES", "code": "425", "term": "201901" },
+	{
+		"title": "Introduction to Permaculture Design",
+		"subject": "ES",
+		"code": "433",
+		"term": "201901"
+	},
+	{ "title": "Changing Nature", "subject": "ES", "code": "445", "term": "201901" },
+	{ "title": "Environmental Impact Assessment", "subject": "ES", "code": "461", "term": "201901" },
+	{
+		"title": "ADV TPC:ETHNOECOLOGY: Ethnoecology as Deep History",
+		"subject": "ES",
+		"code": "481",
+		"term": "201901"
+	},
+	{
+		"title": "ADV TPC:ECOLOGICAL RESTORATN: Introduction to Data Analysis",
+		"subject": "ES",
+		"code": "482",
+		"term": "201901"
+	},
+	{
+		"title": "Perspectives on Environmental Theories, Methods and Skills II",
+		"subject": "ES",
+		"code": "501",
+		"term": "201901"
+	},
+	{ "title": "MA/MSc Research Colloquium", "subject": "ES", "code": "503", "term": "201901" },
+	{
+		"title": "SEM:ECOLOGICL RESTORATION: Introduction to Data Analysis",
+		"subject": "ES",
+		"code": "582",
+		"term": "201901"
+	},
+	{ "title": "Thesis Proposal Preparation", "subject": "ES", "code": "593", "term": "201901" },
+	{ "title": "MA, MSc Thesis", "subject": "ES", "code": "599", "term": "201901" },
+	{
+		"title": "Advanced Perspectives on Environmental Theories, Methods and Skills II",
+		"subject": "ES",
+		"code": "601",
+		"term": "201901"
+	},
+	{ "title": "PhD Research Colloquium", "subject": "ES", "code": "603", "term": "201901" },
+	{ "title": "PhD Candidacy Examination", "subject": "ES", "code": "693", "term": "201901" },
+	{ "title": "PhD Dissertation", "subject": "ES", "code": "699", "term": "201901" },
+	{
+		"title": "Introduction to European Cultures and Identities",
+		"subject": "EUS",
+		"code": "200",
+		"term": "201901"
+	},
+	{
+		"title": "European Integration: Socio-Economic and Political Developments",
+		"subject": "EUS",
+		"code": "300",
+		"term": "201901"
+	},
+	{ "title": "Tennis", "subject": "EPHE", "code": "117", "term": "201901" },
+	{ "title": "Basketball", "subject": "EPHE", "code": "120", "term": "201901" },
+	{ "title": "Soccer", "subject": "EPHE", "code": "121", "term": "201901" },
+	{ "title": "Volleyball", "subject": "EPHE", "code": "122", "term": "201901" },
+	{ "title": "Strength Training", "subject": "EPHE", "code": "133", "term": "201901" },
+	{ "title": "Yoga", "subject": "EPHE", "code": "134", "term": "201901" },
+	{ "title": "Human Anatomy", "subject": "EPHE", "code": "141", "term": "201901" },
+	{
+		"title": "Personal Health, Wellness and Potential",
+		"subject": "EPHE",
+		"code": "142",
+		"term": "201901"
+	},
+	{
+		"title": "Multidisciplinary Foundations of Physical Activity",
+		"subject": "EPHE",
+		"code": "143",
+		"term": "201901"
+	},
+	{
+		"title": "Introduction to Nutrition: Concepts and Controversies",
+		"subject": "EPHE",
+		"code": "155",
+		"term": "201901"
+	},
+	{
+		"title": "Introduction to Human Systemic Physiology",
+		"subject": "EPHE",
+		"code": "241",
+		"term": "201901"
+	},
+	{
+		"title": "Canadian Recreation Delivery Systems",
+		"subject": "EPHE",
+		"code": "244",
+		"term": "201901"
+	},
+	{ "title": "Strategies for Active Health", "subject": "EPHE", "code": "246", "term": "201901" },
+	{
+		"title": "Inclusion of Children and Youth with Special Needs in Physical Activities",
+		"subject": "EPHE",
+		"code": "250",
+		"term": "201901"
+	},
+	{
+		"title": "Leadership Methods for Recreation and Health Education",
+		"subject": "EPHE",
+		"code": "252",
+		"term": "201901"
+	},
+	{ "title": "Program Planning", "subject": "EPHE", "code": "253", "term": "201901" },
+	{
+		"title": "Physical Education for General Classroom Teachers: B",
+		"subject": "EPHE",
+		"code": "311",
+		"term": "201901"
+	},
+	{
+		"title": "Overview of Elementary or Middle School Physical Education",
+		"subject": "EPHE",
+		"code": "312",
+		"term": "201901"
+	},
+	{ "title": "Biomechanics", "subject": "EPHE", "code": "341", "term": "201901" },
+	{
+		"title": "Care and Prevention of Athletic Injuries",
+		"subject": "EPHE",
+		"code": "344",
+		"term": "201901"
+	},
+	{
+		"title": "Motor Development and Physical Maturation",
+		"subject": "EPHE",
+		"code": "346",
+		"term": "201901"
+	},
+	{
+		"title": "Psychology of Physical Activity",
+		"subject": "EPHE",
+		"code": "348",
+		"term": "201901"
+	},
+	{ "title": "Functional Anatomy", "subject": "EPHE", "code": "355", "term": "201901" },
+	{ "title": "Coaching Studies", "subject": "EPHE", "code": "361", "term": "201901" },
+	{ "title": "Motor Control", "subject": "EPHE", "code": "380", "term": "201901" },
+	{
+		"title": "Organization and Administration of Physical Education",
+		"subject": "EPHE",
+		"code": "443",
+		"term": "201901"
+	},
+	{
+		"title": "Measurement and Evaluation in Exercise Science",
+		"subject": "EPHE",
+		"code": "444",
+		"term": "201901"
+	},
+	{
+		"title": "Kinesiology Seminar and Practicum",
+		"subject": "EPHE",
+		"code": "447",
+		"term": "201901"
+	},
+	{
+		"title": "Leadership Issues in Fitness, Health and Wellness",
+		"subject": "EPHE",
+		"code": "451",
+		"term": "201901"
+	},
+	{
+		"title": "Strategies for Games in Physical Education",
+		"subject": "EPHE",
+		"code": "452",
+		"term": "201901"
+	},
+	{
+		"title": "Marketing for Health and Social Change",
+		"subject": "EPHE",
+		"code": "454",
+		"term": "201901"
+	},
+	{
+		"title": "Nutrition for Exercise and Health",
+		"subject": "EPHE",
+		"code": "455",
+		"term": "201901"
+	},
+	{ "title": "Research Seminar", "subject": "EPHE", "code": "500", "term": "201901" },
+	{ "title": "Research Methods", "subject": "EPHE", "code": "573", "term": "201901" },
+	{
+		"title": "Physiological Issues in Physical Activity and Health",
+		"subject": "EPHE",
+		"code": "580",
+		"term": "201901"
+	},
+	{
+		"title": "Psychological Issues in Physical Activity and Health",
+		"subject": "EPHE",
+		"code": "581",
+		"term": "201901"
+	},
+	{
+		"title": "Issues in Health Promotion and Wellness",
+		"subject": "EPHE",
+		"code": "583",
+		"term": "201901"
+	},
+	{
+		"title": "ProjectExercise Science, Physical and Health Education",
+		"subject": "EPHE",
+		"code": "598",
+		"term": "201901"
+	},
+	{
+		"title": "ThesisExercise Science, Physical and Health Education",
+		"subject": "EPHE",
+		"code": "599",
+		"term": "201901"
+	},
+	{ "title": "Doctoral Seminar", "subject": "EPHE", "code": "673", "term": "201901" },
+	{ "title": "Candidacy ExamKinesiology", "subject": "EPHE", "code": "693", "term": "201901" },
+	{ "title": "PhD DissertationKinesiology", "subject": "EPHE", "code": "699", "term": "201901" },
+	{ "title": "Creative Being", "subject": "FA", "code": "101", "term": "201901" },
+	{ "title": "Forest Biology Seminar", "subject": "FORB", "code": "560", "term": "201901" },
+	{ "title": "Intensive French I", "subject": "FRAN", "code": "100", "term": "201901" },
+	{ "title": "Intensive French II", "subject": "FRAN", "code": "120", "term": "201901" },
+	{ "title": "Intensive French III", "subject": "FRAN", "code": "180", "term": "201901" },
+	{ "title": "Experiential Learning", "subject": "FRAN", "code": "250", "term": "201901" },
+	{ "title": "French Connections", "subject": "FRAN", "code": "265", "term": "201901" },
+	{ "title": "Writing in French I", "subject": "FRAN", "code": "275", "term": "201901" },
+	{ "title": "Literary Texts I", "subject": "FRAN", "code": "280", "term": "201901" },
+	{ "title": "Literary Texts II", "subject": "FRAN", "code": "310", "term": "201901" },
+	{
+		"title": "Studies in Cinema and Literature of the French-Speaking World (in English)",
+		"subject": "FRAN",
+		"code": "335",
+		"term": "201901"
+	},
+	{ "title": "Advanced Oral French", "subject": "FRAN", "code": "350", "term": "201901" },
+	{ "title": "Writing in French II", "subject": "FRAN", "code": "375", "term": "201901" },
+	{ "title": "French Syntax and Semantics", "subject": "FRAN", "code": "385", "term": "201901" },
+	{ "title": "Varieties of French", "subject": "FRAN", "code": "405", "term": "201901" },
+	{
+		"title": "STUD:FREN LIT+CULT BEFORE 1800: Théâtralités au féminin : autrices, actrices et personnages féminins",
+		"subject": "FRAN",
+		"code": "430",
+		"term": "201901"
+	},
+	{
+		"title": "Studies in French Literature and Culture after 1800",
+		"subject": "FRAN",
+		"code": "450",
+		"term": "201901"
+	},
+	{ "title": "Honours Graduating Essay", "subject": "FRAN", "code": "499", "term": "201901" },
+	{
+		"title": "Application of Research Methods",
+		"subject": "FRAN",
+		"code": "500B",
+		"term": "201901"
+	},
+	{ "title": "Applied Linguistics in French", "subject": "FRAN", "code": "502", "term": "201901" },
+	{ "title": "Reading List/Oral", "subject": "FRAN", "code": "598", "term": "201901" },
+	{ "title": "Thesis/Oral", "subject": "FRAN", "code": "599", "term": "201901" },
+	{ "title": "Gender, Power and Difference", "subject": "GNDR", "code": "100", "term": "201901" },
+	{ "title": "Gender, Food and Power", "subject": "GNDR", "code": "201", "term": "201901" },
+	{ "title": "Globalization and Resistance", "subject": "GNDR", "code": "202", "term": "201901" },
+	{ "title": "Indigenous Women in Canada", "subject": "GNDR", "code": "203", "term": "201901" },
+	{
+		"title": "Imagining India from Empire to Bollywood",
+		"subject": "GNDR",
+		"code": "304",
+		"term": "201901"
+	},
+	{ "title": "Indigenous Feminisms", "subject": "GNDR", "code": "310", "term": "201901" },
+	{ "title": "What's Race Got To Do With It?", "subject": "GNDR", "code": "332", "term": "201901" },
+	{
+		"title": "Border Crossing, Migration and Gender",
+		"subject": "GNDR",
+		"code": "335",
+		"term": "201901"
+	},
+	{
+		"title": "FILM, LIT & CULTURL PRODUCTION: Heroines, Troublemakers and Shrews in Film and Lit",
+		"subject": "GNDR",
+		"code": "349",
+		"term": "201901"
+	},
+	{
+		"title": "Research Seminar for Independent Project",
+		"subject": "GNDR",
+		"code": "400B",
+		"term": "201901"
+	},
+	{ "title": "Honours Graduating Essay", "subject": "GNDR", "code": "499", "term": "201901" },
+	{ "title": "THESIS", "subject": "GNDR", "code": "599", "term": "201901" },
+	{
+		"title": "GEOGRAPHY FOR TODAY: Geography of Food",
+		"subject": "GEOG",
+		"code": "100",
+		"term": "201901"
+	},
+	{
+		"title": "Environment, Society and Sustainability",
+		"subject": "GEOG",
+		"code": "101A",
+		"term": "201901"
+	},
+	{ "title": "Space, Place and Society", "subject": "GEOG", "code": "101B", "term": "201901" },
+	{
+		"title": "Introduction to Physical Geography",
+		"subject": "GEOG",
+		"code": "103",
+		"term": "201901"
+	},
+	{
+		"title": "Political and Economic Geography",
+		"subject": "GEOG",
+		"code": "211",
+		"term": "201901"
+	},
+	{ "title": "Social and Cultural Geography", "subject": "GEOG", "code": "218", "term": "201901" },
+	{ "title": "Introduction to Maps and GIS", "subject": "GEOG", "code": "222", "term": "201901" },
+	{
+		"title": "Introduction to Quantitative Methods in Geography",
+		"subject": "GEOG",
+		"code": "226",
+		"term": "201901"
+	},
+	{ "title": "Introduction to Remote Sensing", "subject": "GEOG", "code": "228", "term": "201901" },
+	{ "title": "Introduction to Biogeography", "subject": "GEOG", "code": "274", "term": "201901" },
+	{ "title": "Introduction to Geomorphology", "subject": "GEOG", "code": "276", "term": "201901" },
+	{
+		"title": "Environmental Impact Assessment",
+		"subject": "GEOG",
+		"code": "301",
+		"term": "201901"
+	},
+	{ "title": "Coastal Conservation", "subject": "GEOG", "code": "304", "term": "201901" },
+	{ "title": "Geography of Canada", "subject": "GEOG", "code": "306", "term": "201901" },
+	{
+		"title": "Remote Sensing of the Environment",
+		"subject": "GEOG",
+		"code": "319",
+		"term": "201901"
+	},
+	{ "title": "Digital Remote Sensing", "subject": "GEOG", "code": "322", "term": "201901" },
+	{ "title": "Cartography", "subject": "GEOG", "code": "323", "term": "201901" },
+	{ "title": "Directions in Geography", "subject": "GEOG", "code": "324", "term": "201901" },
+	{ "title": "GIS Analysis", "subject": "GEOG", "code": "328", "term": "201901" },
+	{ "title": "GIS Applications and Tools", "subject": "GEOG", "code": "329", "term": "201901" },
+	{
+		"title": "Urban Development in the Global South",
+		"subject": "GEOG",
+		"code": "332",
+		"term": "201901"
+	},
+	{
+		"title": "Disaster Management and Community Resilience",
+		"subject": "GEOG",
+		"code": "339",
+		"term": "201901"
+	},
+	{ "title": "Coastal and Marine Resources", "subject": "GEOG", "code": "353", "term": "201901" },
+	{ "title": "Hydrology", "subject": "GEOG", "code": "370", "term": "201901" },
+	{ "title": "Water Resources Management", "subject": "GEOG", "code": "371", "term": "201901" },
+	{ "title": "Applied Climatology", "subject": "GEOG", "code": "373", "term": "201901" },
+	{ "title": "Community Mapping", "subject": "GEOG", "code": "380", "term": "201901" },
+	{
+		"title": "REGIONAL STUDIES: The Caribbean",
+		"subject": "GEOG",
+		"code": "388",
+		"term": "201901"
+	},
+	{ "title": "REGIONAL STUDIES: Africa", "subject": "GEOG", "code": "388", "term": "201901" },
+	{
+		"title": "TOPICS IN GEOGRAPHY: Antarctica: The Fragile Continent",
+		"subject": "GEOG",
+		"code": "391",
+		"term": "201901"
+	},
+	{
+		"title": "TOPICS IN GEOGRAPHY: Global Migration",
+		"subject": "GEOG",
+		"code": "391",
+		"term": "201901"
+	},
+	{
+		"title": "TOPICS IN GEOGRAPHY: Mountain Meteorology",
+		"subject": "GEOG",
+		"code": "391",
+		"term": "201901"
+	},
+	{
+		"title": "TOPICS IN GEOGRAPHY: Coastal Meteorology",
+		"subject": "GEOG",
+		"code": "391",
+		"term": "201901"
+	},
+	{
+		"title": "TOPICS IN GEOGRAPHY: Coastal Planning",
+		"subject": "GEOG",
+		"code": "391",
+		"term": "201901"
+	},
+	{ "title": "Sustainable Cities", "subject": "GEOG", "code": "406", "term": "201901" },
+	{
+		"title": "Activism and Community-Based Planning",
+		"subject": "GEOG",
+		"code": "407",
+		"term": "201901"
+	},
+	{
+		"title": "Advanced Topics in Remote Sensing",
+		"subject": "GEOG",
+		"code": "422",
+		"term": "201901"
+	},
+	{
+		"title": "Field Studies in Coastal Geomorphology",
+		"subject": "GEOG",
+		"code": "424",
+		"term": "201901"
+	},
+	{
+		"title": "Advanced Topics in Geographic Information Sciences",
+		"subject": "GEOG",
+		"code": "428",
+		"term": "201901"
+	},
+	{
+		"title": "Environment and Sustainability in Practice",
+		"subject": "GEOG",
+		"code": "450",
+		"term": "201901"
+	},
+	{
+		"title": "Field Studies in Coastal and Marine Resources",
+		"subject": "GEOG",
+		"code": "453",
+		"term": "201901"
+	},
+	{ "title": "Marine Protected Areas", "subject": "GEOG", "code": "457", "term": "201901" },
+	{
+		"title": "Advanced Studies in Geomorphology",
+		"subject": "GEOG",
+		"code": "476",
+		"term": "201901"
+	},
+	{
+		"title": "Advanced Studies in Weather and Climate",
+		"subject": "GEOG",
+		"code": "484",
+		"term": "201901"
+	},
+	{ "title": "Advanced Landscape Ecology", "subject": "GEOG", "code": "487", "term": "201901" },
+	{ "title": "Honours Thesis", "subject": "GEOG", "code": "499A", "term": "201901" },
+	{ "title": "Research Design in Geography", "subject": "GEOG", "code": "500B", "term": "201901" },
+	{
+		"title": "Advanced Seminar in Human Geography",
+		"subject": "GEOG",
+		"code": "536",
+		"term": "201901"
+	},
+	{
+		"title": "Advanced Seminar in Physical Geography",
+		"subject": "GEOG",
+		"code": "537",
+		"term": "201901"
+	},
+	{ "title": "MA, MSc Thesis", "subject": "GEOG", "code": "599", "term": "201901" },
+	{ "title": "Candidacy Examination", "subject": "GEOG", "code": "693", "term": "201901" },
+	{ "title": "PhD Dissertation", "subject": "GEOG", "code": "699", "term": "201901" },
+	{ "title": "Beginning German I", "subject": "GMST", "code": "101", "term": "201901" },
+	{ "title": "Beginning German II", "subject": "GMST", "code": "102", "term": "201901" },
+	{
+		"title": "Myths, Fairy Tales and Fantasy Fiction",
+		"subject": "GMST",
+		"code": "180",
+		"term": "201901"
+	},
+	{ "title": "Intermediate German II", "subject": "GMST", "code": "202", "term": "201901" },
+	{
+		"title": "SPECIAL TOPICS: Human Rights and Social Justice in Action: German Responses to the Refugee Crisis",
+		"subject": "GMST",
+		"code": "210",
+		"term": "201901"
+	},
+	{ "title": "Germanic Cultural Studies", "subject": "GMST", "code": "300", "term": "201901" },
+	{ "title": "Advanced German II", "subject": "GMST", "code": "302", "term": "201901" },
+	{ "title": "The New German Cinema", "subject": "GMST", "code": "351", "term": "201901" },
+	{
+		"title": "SPECIAL TOPICS: Teaching the Holocaust",
+		"subject": "GMST",
+		"code": "410",
+		"term": "201901"
+	},
+	{ "title": "Honours Thesis", "subject": "GMST", "code": "499", "term": "201901" },
+	{ "title": "Theory and Practice", "subject": "GMST", "code": "502", "term": "201901" },
+	{ "title": "Teaching About the Holocaust", "subject": "GMST", "code": "583", "term": "201901" },
+	{ "title": "Research Paper or Project", "subject": "GMST", "code": "598", "term": "201901" },
+	{ "title": "Thesis", "subject": "GMST", "code": "599", "term": "201901" },
+	{
+		"title": "Contemporary Issues in Global Development Studies",
+		"subject": "GDS",
+		"code": "202",
+		"term": "201901"
+	},
+	{
+		"title": "SPECIAL TOPICS: LE,NONET Graduate Seminar",
+		"subject": "GS",
+		"code": "500",
+		"term": "201901"
+	},
+	{
+		"title": "SPECIAL STUDIES: Indigenous Resurgence",
+		"subject": "GS",
+		"code": "500",
+		"term": "201901"
+	},
+	{ "title": "Approved Exchange", "subject": "GS", "code": "502", "term": "201901" },
+	{
+		"title": "Canadian Visiting Research Internship",
+		"subject": "GS",
+		"code": "503",
+		"term": "201901"
+	},
+	{
+		"title": "International Visiting Research Internship",
+		"subject": "GS",
+		"code": "504",
+		"term": "201901"
+	},
+	{
+		"title": "MULTI-DISCPLNRY RSRCH INTRNSHIP: Research & Evaluation in Children, Youth & Family Services/Policies",
+		"subject": "GS",
+		"code": "505",
+		"term": "201901"
+	},
+	{
+		"title": "Jointly Supervised Individual PhD (Study At Partner Institution)",
+		"subject": "GS",
+		"code": "601",
+		"term": "201901"
+	},
+	{ "title": "Introductory Ancient Greek II", "subject": "GREE", "code": "102", "term": "201901" },
+	{
+		"title": "Introduction to Greek Literature",
+		"subject": "GREE",
+		"code": "202",
+		"term": "201901"
+	},
+	{ "title": "Koiné Greek", "subject": "GREE", "code": "310", "term": "201901" },
+	{ "title": "Greek and Roman Civilization", "subject": "GRS", "code": "100", "term": "201901" },
+	{ "title": "Roman Civilization", "subject": "GRS", "code": "102", "term": "201901" },
+	{ "title": "Greek and Roman Mythology", "subject": "GRS", "code": "200", "term": "201901" },
+	{ "title": "The Ancient World on Film", "subject": "GRS", "code": "204", "term": "201901" },
+	{
+		"title": "Greek and Latin Roots of English",
+		"subject": "GRS",
+		"code": "250",
+		"term": "201901"
+	},
+	{
+		"title": "TOPICS:GREEK+ROMAN CIV: Bad Emperors",
+		"subject": "GRS",
+		"code": "326",
+		"term": "201901"
+	},
+	{ "title": "Myth and Theory", "subject": "GRS", "code": "328", "term": "201901" },
+	{
+		"title": "Alexander and the Hellenistic Age",
+		"subject": "GRS",
+		"code": "333",
+		"term": "201901"
+	},
+	{ "title": "Late Antiquity", "subject": "GRS", "code": "350", "term": "201901" },
+	{ "title": "Roman Art and Archaeology", "subject": "GRS", "code": "372", "term": "201901" },
+	{
+		"title": "Ships and Seamanship in the Ancient World",
+		"subject": "GRS",
+		"code": "377",
+		"term": "201901"
+	},
+	{ "title": "Classical Studies Abroad", "subject": "GRS", "code": "395", "term": "201901" },
+	{ "title": "Archaeology of Athens", "subject": "GRS", "code": "462", "term": "201901" },
+	{ "title": "Seminar in Greek Archaeology", "subject": "GRS", "code": "482A", "term": "201901" },
+	{ "title": "Greek Literature", "subject": "GRS", "code": "501", "term": "201901" },
+	{ "title": "Greek History", "subject": "GRS", "code": "502", "term": "201901" },
+	{ "title": "Latin Literature", "subject": "GRS", "code": "503", "term": "201901" },
+	{ "title": "Roman History", "subject": "GRS", "code": "504", "term": "201901" },
+	{ "title": "Ancient Art and Archaeology", "subject": "GRS", "code": "505", "term": "201901" },
+	{ "title": "MA Thesis", "subject": "GRS", "code": "599", "term": "201901" },
+	{ "title": "Candidacy Exam", "subject": "GRS", "code": "693", "term": "201901" },
+	{ "title": "PhD Dissertation", "subject": "GRS", "code": "699", "term": "201901" },
+	{ "title": "Programming for Healthcare", "subject": "HINF", "code": "115", "term": "201901" },
+	{
+		"title": "Introduction to the Canadian Health Care Systems",
+		"subject": "HINF",
+		"code": "140",
+		"term": "201901"
+	},
+	{
+		"title": "Database Management and Development for Health Care Systems",
+		"subject": "HINF",
+		"code": "201",
+		"term": "201901"
+	},
+	{
+		"title": "Health Care Delivery Organizational Models",
+		"subject": "HINF",
+		"code": "265",
+		"term": "201901"
+	},
+	{ "title": "Biomedical Fundamentals", "subject": "HINF", "code": "280", "term": "201901" },
+	{
+		"title": "Information Management and Technology",
+		"subject": "HINF",
+		"code": "410",
+		"term": "201901"
+	},
+	{
+		"title": "Societal Implications of Information Technology",
+		"subject": "HINF",
+		"code": "420",
+		"term": "201901"
+	},
+	{
+		"title": "Health Information System Design",
+		"subject": "HINF",
+		"code": "450",
+		"term": "201901"
+	},
+	{
+		"title": "System Evaluation and Quality Improvement",
+		"subject": "HINF",
+		"code": "461",
+		"term": "201901"
+	},
+	{ "title": "Trends in Health Informatics", "subject": "HINF", "code": "470", "term": "201901" },
+	{ "title": "Database Design", "subject": "HINF", "code": "501", "term": "201901" },
+	{
+		"title": "Controlled Terminology Standards",
+		"subject": "HINF",
+		"code": "536",
+		"term": "201901"
+	},
+	{
+		"title": "Health Information Systems Design",
+		"subject": "HINF",
+		"code": "550",
+		"term": "201901"
+	},
+	{
+		"title": "Procurement in Health Informatics",
+		"subject": "HINF",
+		"code": "562",
+		"term": "201901"
+	},
+	{ "title": "Applied Biostatistics", "subject": "HINF", "code": "573", "term": "201901" },
+	{ "title": "Human Factors in Healthcare", "subject": "HINF", "code": "575", "term": "201901" },
+	{ "title": "Research Project", "subject": "HINF", "code": "598", "term": "201901" },
+	{ "title": "Health Informatics Thesis", "subject": "HINF", "code": "599", "term": "201901" },
+	{ "title": "Theories in Health Informatics", "subject": "HINF", "code": "602", "term": "201901" },
+	{ "title": "Candidacy Exam", "subject": "HINF", "code": "693", "term": "201901" },
+	{ "title": "Dissertation", "subject": "HINF", "code": "699", "term": "201901" },
+	{
+		"title": "Current Issues in Health and Community Services",
+		"subject": "HLTH",
+		"code": "250",
+		"term": "201901"
+	},
+	{ "title": "Healthy Sexuality", "subject": "HLTH", "code": "251", "term": "201901" },
+	{
+		"title": "Canadian Health and Community Care Services",
+		"subject": "HLTH",
+		"code": "301",
+		"term": "201901"
+	},
+	{
+		"title": "Human Resource and Fiscal Management in Community Health Systems",
+		"subject": "HLTH",
+		"code": "321",
+		"term": "201901"
+	},
+	{
+		"title": "Challenges in Advocacy: Ageing and Disability in Canadian Society",
+		"subject": "HLTH",
+		"code": "405",
+		"term": "201901"
+	},
+	{ "title": "Quantitative Methods", "subject": "HLTH", "code": "425", "term": "201901" },
+	{ "title": "Practicum", "subject": "HLTH", "code": "430", "term": "201901" },
+	{ "title": "Culminating Major Paper", "subject": "HLTH", "code": "435", "term": "201901" },
+	{ "title": "Ten Days that Shook the World", "subject": "HSTR", "code": "101A", "term": "201901" },
+	{
+		"title": "Epidemics from the Black Death to AIDS",
+		"subject": "HSTR",
+		"code": "101C",
+		"term": "201901"
+	},
+	{ "title": "World History 1900-1945", "subject": "HSTR", "code": "112A", "term": "201901" },
+	{ "title": "The World Since 1945-present", "subject": "HSTR", "code": "112B", "term": "201901" },
+	{ "title": "The Second World War", "subject": "HSTR", "code": "115", "term": "201901" },
+	{
+		"title": "The United States from Post-War Reconstructionpresent",
+		"subject": "HSTR",
+		"code": "210B",
+		"term": "201901"
+	},
+	{
+		"title": "History of England from the Glorious Revolutionpresent",
+		"subject": "HSTR",
+		"code": "220B",
+		"term": "201901"
+	},
+	{
+		"title": "Canada from Confederationpresent",
+		"subject": "HSTR",
+		"code": "230B",
+		"term": "201901"
+	},
+	{ "title": "Medieval Beginnings", "subject": "HSTR", "code": "236", "term": "201901" },
+	{
+		"title": "Europe, Napoleon to the European Union",
+		"subject": "HSTR",
+		"code": "240B",
+		"term": "201901"
+	},
+	{ "title": "China and the Modern West", "subject": "HSTR", "code": "265B", "term": "201901" },
+	{
+		"title": "The Backpacker's Guide to European History",
+		"subject": "HSTR",
+		"code": "300A",
+		"term": "201901"
+	},
+	{
+		"title": "Hockey Nation: Sports History and Canadian Identity",
+		"subject": "HSTR",
+		"code": "300B",
+		"term": "201901"
+	},
+	{ "title": "United States since 1945", "subject": "HSTR", "code": "303B", "term": "201901" },
+	{ "title": "The United States and Vietnam", "subject": "HSTR", "code": "308", "term": "201901" },
+	{ "title": "The American West", "subject": "HSTR", "code": "310D", "term": "201901" },
+	{
+		"title": "Modern Britain 1951-the present",
+		"subject": "HSTR",
+		"code": "315B",
+		"term": "201901"
+	},
+	{
+		"title": "Death and the Afterlife in England, 1750 to the Present",
+		"subject": "HSTR",
+		"code": "316B",
+		"term": "201901"
+	},
+	{
+		"title": "The Bloody Code: Crime in England, 1660-1800",
+		"subject": "HSTR",
+		"code": "318",
+		"term": "201901"
+	},
+	{ "title": "Ice and Exploration", "subject": "HSTR", "code": "320E", "term": "201901" },
+	{
+		"title": "British Columbia in the 20th Century",
+		"subject": "HSTR",
+		"code": "324C",
+		"term": "201901"
+	},
+	{
+		"title": "Race, Racism and Ethnicity in Canada since 1900",
+		"subject": "HSTR",
+		"code": "329B",
+		"term": "201901"
+	},
+	{
+		"title": "TOPICS IN CANADIAN HISTORY: Scots in the Atlantic World",
+		"subject": "HSTR",
+		"code": "330",
+		"term": "201901"
+	},
+	{
+		"title": "TOPICS IN CANADIAN HISTORY: War and Society in Canada",
+		"subject": "HSTR",
+		"code": "330",
+		"term": "201901"
+	},
+	{
+		"title": "Sex, Violence and Death in Modern Medievalism",
+		"subject": "HSTR",
+		"code": "336S",
+		"term": "201901"
+	},
+	{
+		"title": "TOPICS IN EUROPEAN HISTORY: The Thirty Years War",
+		"subject": "HSTR",
+		"code": "340",
+		"term": "201901"
+	},
+	{
+		"title": "Terror, Security and Military Intervention in Europe",
+		"subject": "HSTR",
+		"code": "340A",
+		"term": "201901"
+	},
+	{
+		"title": "Migration and Ethnic Tensions in Post-1945 Europe",
+		"subject": "HSTR",
+		"code": "340B",
+		"term": "201901"
+	},
+	{
+		"title": "The Second World War and the Recovery of Western Europe",
+		"subject": "HSTR",
+		"code": "344C",
+		"term": "201901"
+	},
+	{
+		"title": "The Eastern Front in the First and Second World Wars",
+		"subject": "HSTR",
+		"code": "345",
+		"term": "201901"
+	},
+	{ "title": "Weimar and Nazi Germany", "subject": "HSTR", "code": "350B", "term": "201901" },
+	{
+		"title": "The Soviet Union and its Successor States, 1917-2000",
+		"subject": "HSTR",
+		"code": "352",
+		"term": "201901"
+	},
+	{ "title": "China and the World", "subject": "HSTR", "code": "365C", "term": "201901" },
+	{ "title": "War and Revolution in China", "subject": "HSTR", "code": "366", "term": "201901" },
+	{
+		"title": "TOPICS IN COMPARATIVE HISTORY: World Revolutions in Comparative Perspective",
+		"subject": "HSTR",
+		"code": "371",
+		"term": "201901"
+	},
+	{
+		"title": "Revolutions and Dictators in 20th-century Latin America",
+		"subject": "HSTR",
+		"code": "376C",
+		"term": "201901"
+	},
+	{
+		"title": "TOPICS: MODERN MIDDLE EAST: History of Modern Egypt",
+		"subject": "HSTR",
+		"code": "377",
+		"term": "201901"
+	},
+	{
+		"title": "History of the Israeli-Palestinian Conflict",
+		"subject": "HSTR",
+		"code": "378",
+		"term": "201901"
+	},
+	{
+		"title": "SEMINAR IN BRITISH HISTORY: Keep Calm and Carry On: Britain in Two World Wars",
+		"subject": "HSTR",
+		"code": "420",
+		"term": "201901"
+	},
+	{ "title": "Veterans' Oral History", "subject": "HSTR", "code": "426A", "term": "201901" },
+	{
+		"title": "SEMINAR IN EUROPEAN HISTORY: Courtroom Drama in European History",
+		"subject": "HSTR",
+		"code": "440",
+		"term": "201901"
+	},
+	{
+		"title": "SEMINAR IN COMPARATIVE HISTORY: Genesis of War: 1914 and 1939",
+		"subject": "HSTR",
+		"code": "471",
+		"term": "201901"
+	},
+	{
+		"title": "SEMINAR IN COMPARATIVE HISTORY: Comparative History of Nationalism",
+		"subject": "HSTR",
+		"code": "471",
+		"term": "201901"
+	},
+	{
+		"title": "SEMINAR: PEACE AND WAR STUDIES: Issues in Military and Naval Historiography",
+		"subject": "HSTR",
+		"code": "482",
+		"term": "201901"
+	},
+	{ "title": "Approaches to History", "subject": "HSTR", "code": "496", "term": "201901" },
+	{ "title": "Third-Year Honours Essay", "subject": "HSTR", "code": "497", "term": "201901" },
+	{ "title": "Honours Thesis", "subject": "HSTR", "code": "499", "term": "201901" },
+	{ "title": "Modern British History", "subject": "HSTR", "code": "502B", "term": "201901" },
+	{ "title": "Post-1900 Canadian History", "subject": "HSTR", "code": "503B", "term": "201901" },
+	{
+		"title": "MILITARY HISTORY: Issues in Military and Naval Historiography",
+		"subject": "HSTR",
+		"code": "511",
+		"term": "201901"
+	},
+	{ "title": "Public History", "subject": "HSTR", "code": "515A", "term": "201901" },
+	{
+		"title": "POLITICAL HISTORY: Comparative History of Nationalism",
+		"subject": "HSTR",
+		"code": "518",
+		"term": "201901"
+	},
+	{
+		"title": "Research Methods for Masters Project",
+		"subject": "HSTR",
+		"code": "550",
+		"term": "201901"
+	},
+	{
+		"title": "Public History Stream Research Project",
+		"subject": "HSTR",
+		"code": "597",
+		"term": "201901"
+	},
+	{ "title": "MA Major Research Paper", "subject": "HSTR", "code": "598", "term": "201901" },
+	{ "title": "MA Thesis", "subject": "HSTR", "code": "599", "term": "201901" },
+	{ "title": "PhD Candidacy Examinations", "subject": "HSTR", "code": "693", "term": "201901" },
+	{ "title": "Dissertation Proposal", "subject": "HSTR", "code": "695", "term": "201901" },
+	{ "title": "PhD Thesis", "subject": "HSTR", "code": "699", "term": "201901" },
+	{
+		"title": "Introduction to Human Dimensions of Climate Change",
+		"subject": "HDCC",
+		"code": "200",
+		"term": "201901"
+	},
+	{
+		"title": "Climate Change for Social Transformation",
+		"subject": "HDCC",
+		"code": "300",
+		"term": "201901"
+	},
+	{
+		"title": "Seminar on Human Dimensions of Climate Change",
+		"subject": "HDCC",
+		"code": "400",
+		"term": "201901"
+	},
+	{
+		"title": "SPECIAL TOPICS IN HSD: Understanding and Mainstreaming Gender",
+		"subject": "HSD",
+		"code": "460",
+		"term": "201901"
+	},
+	{
+		"title": "The Humanities in the Contemporary World",
+		"subject": "HUMA",
+		"code": "110",
+		"term": "201901"
+	},
+	{
+		"title": "Post-Medieval Humanities and the Making of the Modern Mind",
+		"subject": "HUMA",
+		"code": "120B",
+		"term": "201901"
+	},
+	{
+		"title": "ADV TOPICS IN HUMANITIES: The Humanities in Action",
+		"subject": "HUMA",
+		"code": "495",
+		"term": "201901"
+	},
+	{
+		"title": "Communications in Indigenous Governments and Organizations",
+		"subject": "ICDG",
+		"code": "302",
+		"term": "201901"
+	},
+	{
+		"title": "Lands, Resources, and Economic Development",
+		"subject": "ICDG",
+		"code": "303",
+		"term": "201901"
+	},
+	{
+		"title": "Self-directed Immersive Language Learning I",
+		"subject": "IED",
+		"code": "156",
+		"term": "201901"
+	},
+	{ "title": "Indigenous Language I", "subject": "IED", "code": "159", "term": "201901" },
+	{
+		"title": "Special Topics in Indigenous Education",
+		"subject": "IED",
+		"code": "187",
+		"term": "201901"
+	},
+	{
+		"title": "SPECIAL TOPICS: W’SANEC Art and Language",
+		"subject": "IED",
+		"code": "187",
+		"term": "201901"
+	},
+	{
+		"title": "Indigenous Language Teaching Preparation Seminar",
+		"subject": "IED",
+		"code": "250",
+		"term": "201901"
+	},
+	{
+		"title": "Indigenous Language Teaching and Learning Practicum",
+		"subject": "IED",
+		"code": "251",
+		"term": "201901"
+	},
+	{
+		"title": "Self-directed Immersive Language Learning II",
+		"subject": "IED",
+		"code": "256",
+		"term": "201901"
+	},
+	{
+		"title": "Indigenous Language Mentorship II",
+		"subject": "IED",
+		"code": "258",
+		"term": "201901"
+	},
+	{ "title": "Indigenous Language II", "subject": "IED", "code": "259", "term": "201901" },
+	{
+		"title": "Self-directed Immersive Language Learning III",
+		"subject": "IED",
+		"code": "356",
+		"term": "201901"
+	},
+	{ "title": "Indigenous Language III", "subject": "IED", "code": "359", "term": "201901" },
+	{
+		"title": "The History of Indigenous Education in Canada",
+		"subject": "IED",
+		"code": "371",
+		"term": "201901"
+	},
+	{
+		"title": "EL TELNIWT and Indigenous Education",
+		"subject": "IED",
+		"code": "373",
+		"term": "201901"
+	},
+	{ "title": "Indigenous Research Methods", "subject": "IED", "code": "530", "term": "201901" },
+	{ "title": "Comprehensive Examination", "subject": "IED", "code": "597", "term": "201901" },
+	{ "title": "Major Project", "subject": "IED", "code": "598", "term": "201901" },
+	{ "title": "Thesis", "subject": "IED", "code": "599", "term": "201901" },
+	{ "title": "Community Governance Project", "subject": "IGOV", "code": "598", "term": "201901" },
+	{ "title": "CANDIDACY EXAMINATION", "subject": "IGOV", "code": "693", "term": "201901" },
+	{ "title": "DISSERTATION", "subject": "IGOV", "code": "699", "term": "201901" },
+	{ "title": "Capstone Experience", "subject": "IN", "code": "697", "term": "201901" },
+	{
+		"title": "Traditional Healing in Indigenous Communities",
+		"subject": "INGH",
+		"code": "452",
+		"term": "201901"
+	},
+	{ "title": "Indigenous Foundations", "subject": "IS", "code": "101", "term": "201901" },
+	{
+		"title": "Introduction to Indigenous Studies",
+		"subject": "IS",
+		"code": "201",
+		"term": "201901"
+	},
+	{ "title": "Critical Indigenous Theory", "subject": "IS", "code": "301", "term": "201901" },
+	{ "title": "LE,NONET Preparation Seminar", "subject": "IS", "code": "310A", "term": "201901" },
+	{ "title": "LE,NONET Research Apprenticeship", "subject": "IS", "code": "320", "term": "201901" },
+	{ "title": "LE,NONET Community Internship", "subject": "IS", "code": "321", "term": "201901" },
+	{ "title": "Methods, Ethics, Protocols", "subject": "IS", "code": "350", "term": "201901" },
+	{
+		"title": "RESEARCH SEM INDIGENOUS STDY: TBA",
+		"subject": "IS",
+		"code": "400",
+		"term": "201901"
+	},
+	{
+		"title": "Practicum in Intercultural Education",
+		"subject": "IET",
+		"code": "400",
+		"term": "201901"
+	},
+	{
+		"title": "Facilitating Intercultural Relationships",
+		"subject": "IET",
+		"code": "430",
+		"term": "201901"
+	},
+	{ "title": "Thesis", "subject": "INTD", "code": "599", "term": "201901" },
+	{ "title": "PhD Candidacy Examination", "subject": "INTD", "code": "693", "term": "201901" },
+	{ "title": "Dissertation", "subject": "INTD", "code": "699", "term": "201901" },
+	{
+		"title": "The International Environment of Business",
+		"subject": "IB",
+		"code": "301",
+		"term": "201901"
+	},
+	{ "title": "International Marketing", "subject": "IB", "code": "416", "term": "201901" },
+	{
+		"title": "The Role of Knowledge in Global Health",
+		"subject": "INTS",
+		"code": "462",
+		"term": "201901"
+	},
+	{ "title": "Beginners' Italian II", "subject": "ITAL", "code": "100B", "term": "201901" },
+	{ "title": "Experiential Learning", "subject": "ITAL", "code": "204", "term": "201901" },
+	{ "title": "Introductory Latin II", "subject": "LATI", "code": "102", "term": "201901" },
+	{
+		"title": "Introduction to Latin Literature",
+		"subject": "LATI",
+		"code": "202",
+		"term": "201901"
+	},
+	{ "title": "Roman Historians", "subject": "LATI", "code": "307", "term": "201901" },
+	{
+		"title": "SPECIAL TOPICS LAS (IN ENGL): Interdisciplinary Study of Ethnicity, Nation, Identity",
+		"subject": "LAS",
+		"code": "400",
+		"term": "201901"
+	},
+	{ "title": "The Constitutional Law Process", "subject": "LAW", "code": "100", "term": "201901" },
+	{
+		"title": "Transsystemic Constitutional Law",
+		"subject": "LAW",
+		"code": "100I",
+		"term": "201901"
+	},
+	{ "title": "The Criminal Law Process", "subject": "LAW", "code": "102", "term": "201901" },
+	{ "title": "Transsystemic Criminal Law", "subject": "LAW", "code": "102I", "term": "201901" },
+	{ "title": "Law, Legislation and Policy", "subject": "LAW", "code": "104", "term": "201901" },
+	{ "title": "Contracts", "subject": "LAW", "code": "105", "term": "201901" },
+	{ "title": "The Legal Process", "subject": "LAW", "code": "106", "term": "201901" },
+	{ "title": "Property", "subject": "LAW", "code": "107", "term": "201901" },
+	{ "title": "Transsystemic Property", "subject": "LAW", "code": "107I", "term": "201901" },
+	{ "title": "Torts", "subject": "LAW", "code": "109", "term": "201901" },
+	{ "title": "Legal Research and Writing", "subject": "LAW", "code": "110", "term": "201901" },
+	{
+		"title": "Transsystemic Legal Processes, Research, Writing",
+		"subject": "LAW",
+		"code": "112I",
+		"term": "201901"
+	},
+	{ "title": "The Administrative Law Process", "subject": "LAW", "code": "301", "term": "201901" },
+	{ "title": "Criminal Procedure", "subject": "LAW", "code": "303", "term": "201901" },
+	{
+		"title": "Sentencing: Law, Theory and Practice",
+		"subject": "LAW",
+		"code": "305",
+		"term": "201901"
+	},
+	{ "title": "CIVIL PROCEDURE:DRAFTING", "subject": "LAW", "code": "307B", "term": "201901" },
+	{ "title": "The Law of Evidence", "subject": "LAW", "code": "309", "term": "201901" },
+	{ "title": "Debtor and Creditor Relations", "subject": "LAW", "code": "312", "term": "201901" },
+	{ "title": "Business Associations", "subject": "LAW", "code": "315", "term": "201901" },
+	{ "title": "Trusts", "subject": "LAW", "code": "319", "term": "201901" },
+	{ "title": "International Law", "subject": "LAW", "code": "330", "term": "201901" },
+	{ "title": "International Trade Law", "subject": "LAW", "code": "332", "term": "201901" },
+	{
+		"title": "Indigenous Lands, Rights and Governance",
+		"subject": "LAW",
+		"code": "340",
+		"term": "201901"
+	},
+	{ "title": "Immigration and Citizenship Law", "subject": "LAW", "code": "342", "term": "201901" },
+	{
+		"title": "CONTEMPORARY ISSUES:LAW: The UN Declaration on the Rights of Indigenous Peoples",
+		"subject": "LAW",
+		"code": "343",
+		"term": "201901"
+	},
+	{
+		"title": "CONTEMPORARY ISSUES:LAW: Advanced Corporate Transactions",
+		"subject": "LAW",
+		"code": "343",
+		"term": "201901"
+	},
+	{
+		"title": "CONTEMPORARY ISSUES:LAW: Comparative Indigenous Law and Policy",
+		"subject": "LAW",
+		"code": "343",
+		"term": "201901"
+	},
+	{
+		"title": "CONTEMPORARY ISSUES:LAW: Natural Resources Law",
+		"subject": "LAW",
+		"code": "343",
+		"term": "201901"
+	},
+	{
+		"title": "CONTEMPORARY ISSUES:LAW: Inuit Law and Film",
+		"subject": "LAW",
+		"code": "343",
+		"term": "201901"
+	},
+	{ "title": "Insurance Law", "subject": "LAW", "code": "344", "term": "201901" },
+	{ "title": "Taxation", "subject": "LAW", "code": "345", "term": "201901" },
+	{
+		"title": "Advanced Taxation: International Taxation",
+		"subject": "LAW",
+		"code": "346B",
+		"term": "201901"
+	},
+	{ "title": "Managing Intellectual Property", "subject": "LAW", "code": "348", "term": "201901" },
+	{ "title": "Business Law Clinic", "subject": "LAW", "code": "349", "term": "201901" },
+	{ "title": "Clinical Term", "subject": "LAW", "code": "350", "term": "201901" },
+	{ "title": "Exchange Law Term", "subject": "LAW", "code": "352", "term": "201901" },
+	{ "title": "Environmental Law Centre Clinic", "subject": "LAW", "code": "353", "term": "201901" },
+	{ "title": "Legal Skills", "subject": "LAW", "code": "355", "term": "201901" },
+	{ "title": "Advocacy", "subject": "LAW", "code": "356", "term": "201901" },
+	{
+		"title": "Legal Ethics and Professionalism",
+		"subject": "LAW",
+		"code": "360",
+		"term": "201901"
+	},
+	{
+		"title": "Historical Foundations of the Common Law",
+		"subject": "LAW",
+		"code": "361",
+		"term": "201901"
+	},
+	{ "title": "Conflict of Laws", "subject": "LAW", "code": "363", "term": "201901" },
+	{ "title": "LEGAL MOOTING: Bowman Tax Moot", "subject": "LAW", "code": "365", "term": "201901" },
+	{
+		"title": "LEGAL MOOTING: The British Columbia Law Schools Competitive Moot",
+		"subject": "LAW",
+		"code": "365",
+		"term": "201901"
+	},
+	{
+		"title": "LEGAL MOOTING: Canadian Client Consultation Moot",
+		"subject": "LAW",
+		"code": "365",
+		"term": "201901"
+	},
+	{
+		"title": "LEGAL MOOTING: The Gale Cup Moot Competition",
+		"subject": "LAW",
+		"code": "365",
+		"term": "201901"
+	},
+	{ "title": "LEGAL MOOTING: Kawaskimhon Moot", "subject": "LAW", "code": "365", "term": "201901" },
+	{
+		"title": "LEGAL MOOTING: Western Canada (McIntryre Cup) Mock Trial Competition",
+		"subject": "LAW",
+		"code": "365",
+		"term": "201901"
+	},
+	{
+		"title": "LEGAL MOOTING: Willms & Shier Environmental Law Moot",
+		"subject": "LAW",
+		"code": "365",
+		"term": "201901"
+	},
+	{ "title": "LEGAL MOOTING: The Wilson Moot", "subject": "LAW", "code": "365", "term": "201901" },
+	{
+		"title": "International Human Rights and Dispute Resolution",
+		"subject": "LAW",
+		"code": "373",
+		"term": "201901"
+	},
+	{
+		"title": "Equality, Human Rights, and Social Justice Law",
+		"subject": "LAW",
+		"code": "378",
+		"term": "201901"
+	},
+	{
+		"title": "Municipal Law and Sustainability",
+		"subject": "LAW",
+		"code": "383",
+		"term": "201901"
+	},
+	{ "title": "Health Law", "subject": "LAW", "code": "387", "term": "201901" },
+	{
+		"title": "Advanced Legal Research and Writing",
+		"subject": "LAW",
+		"code": "388",
+		"term": "201901"
+	},
+	{
+		"title": "AppealReview of Current Law and Law Reform",
+		"subject": "LAW",
+		"code": "389",
+		"term": "201901"
+	},
+	{ "title": "Major Paper Requirement", "subject": "LAW", "code": "390", "term": "201901" },
+	{ "title": "Water Law", "subject": "LAW", "code": "392", "term": "201901" },
+	{ "title": "Supervised Research and Writing", "subject": "LAW", "code": "399", "term": "201901" },
+	{
+		"title": "Graduate Seminar in Applied Legal Methodology",
+		"subject": "LAW",
+		"code": "502",
+		"term": "201901"
+	},
+	{ "title": "Major Research Paper in Law", "subject": "LAW", "code": "598", "term": "201901" },
+	{ "title": "LLM Thesis", "subject": "LAW", "code": "599", "term": "201901" },
+	{ "title": "PhD Candidacy Examinations", "subject": "LAW", "code": "693", "term": "201901" },
+	{ "title": "PhD Dissertation", "subject": "LAW", "code": "699", "term": "201901" },
+	{ "title": "Foundations in Linguistics I", "subject": "LING", "code": "100A", "term": "201901" },
+	{ "title": "Foundations in Linguistics II", "subject": "LING", "code": "100B", "term": "201901" },
+	{ "title": "Language and Thought", "subject": "LING", "code": "110", "term": "201901" },
+	{
+		"title": "Issues, Principles and Best Practices in Language Revitalization",
+		"subject": "LING",
+		"code": "180B",
+		"term": "201901"
+	},
+	{
+		"title": "Introductory Linguistics for Language Revitalization",
+		"subject": "LING",
+		"code": "181",
+		"term": "201901"
+	},
+	{
+		"title": "Language Learning, Language Revitalization and Social Action",
+		"subject": "LING",
+		"code": "182",
+		"term": "201901"
+	},
+	{
+		"title": "Special Topics in Language Revitalization",
+		"subject": "LING",
+		"code": "187",
+		"term": "201901"
+	},
+	{
+		"title": "Introduction to Phonetics and Phonology",
+		"subject": "LING",
+		"code": "200",
+		"term": "201901"
+	},
+	{
+		"title": "Introduction to Morphology and Syntax",
+		"subject": "LING",
+		"code": "203",
+		"term": "201901"
+	},
+	{ "title": "Indigenous Language II", "subject": "LING", "code": "259", "term": "201901" },
+	{ "title": "The Evolution of Language", "subject": "LING", "code": "270", "term": "201901" },
+	{
+		"title": "INTRO SELECT TOPICS LINGUISTIC: Linguistic Documentation Software (ELAN) for Community Research",
+		"subject": "LING",
+		"code": "297",
+		"term": "201901"
+	},
+	{ "title": "Morphology", "subject": "LING", "code": "309", "term": "201901" },
+	{ "title": "Second Language Phonology", "subject": "LING", "code": "338", "term": "201901" },
+	{ "title": "Indigenous Language III", "subject": "LING", "code": "359", "term": "201901" },
+	{ "title": "Child Language Acquisition", "subject": "LING", "code": "370B", "term": "201901" },
+	{
+		"title": "Physiology of Speech Production",
+		"subject": "LING",
+		"code": "381",
+		"term": "201901"
+	},
+	{
+		"title": "Task-based Second Language Instruction",
+		"subject": "LING",
+		"code": "387",
+		"term": "201901"
+	},
+	{
+		"title": "Canadian English and Dialectology",
+		"subject": "LING",
+		"code": "392",
+		"term": "201901"
+	},
+	{ "title": "Sociolinguistics", "subject": "LING", "code": "395", "term": "201901" },
+	{
+		"title": "Issues in Cross-Cultural Communication",
+		"subject": "LING",
+		"code": "397",
+		"term": "201901"
+	},
+	{ "title": "Language, Gender and Sexuality", "subject": "LING", "code": "398", "term": "201901" },
+	{ "title": "Advanced Syntactic Analysis", "subject": "LING", "code": "411", "term": "201901" },
+	{ "title": "Advanced Phonological Analysis", "subject": "LING", "code": "412", "term": "201901" },
+	{
+		"title": "Current Issues in Applied Linguistics",
+		"subject": "LING",
+		"code": "475",
+		"term": "201901"
+	},
+	{
+		"title": "Seminar and Practicum in Applied Linguistics",
+		"subject": "LING",
+		"code": "476",
+		"term": "201901"
+	},
+	{ "title": "Experimental Phonetics", "subject": "LING", "code": "486", "term": "201901" },
+	{ "title": "Honours Thesis", "subject": "LING", "code": "499", "term": "201901" },
+	{
+		"title": "Linguistics for Language Revitalization",
+		"subject": "LING",
+		"code": "501",
+		"term": "201901"
+	},
+	{ "title": "Current Issues in Morphology", "subject": "LING", "code": "504", "term": "201901" },
+	{
+		"title": "Research Methods in Applied Linguistics",
+		"subject": "LING",
+		"code": "575",
+		"term": "201901"
+	},
+	{ "title": "Studies in Language and Gender", "subject": "LING", "code": "595", "term": "201901" },
+	{ "title": "Cross-Cultural Communication", "subject": "LING", "code": "596", "term": "201901" },
+	{ "title": "Major Research Paper", "subject": "LING", "code": "598", "term": "201901" },
+	{ "title": "MA Thesis", "subject": "LING", "code": "599", "term": "201901" },
+	{ "title": "Candidacy Examination", "subject": "LING", "code": "693", "term": "201901" },
+	{ "title": "PhD Dissertation", "subject": "LING", "code": "699", "term": "201901" },
+	{ "title": "LANGUAGE SKILLS I: Mandarin", "subject": "MGB", "code": "180", "term": "201901" },
+	{ "title": "LANGUAGE SKILLS I: Spanish", "subject": "MGB", "code": "180", "term": "201901" },
+	{ "title": "LANGUAGE SKILLS I: French", "subject": "MGB", "code": "180", "term": "201901" },
+	{ "title": "LANGUAGE SKILLS II: Mandarin", "subject": "MGB", "code": "181", "term": "201901" },
+	{ "title": "LANGUAGE SKILLS II: Spanish", "subject": "MGB", "code": "181", "term": "201901" },
+	{ "title": "LANGUAGE SKILLS II: French", "subject": "MGB", "code": "181", "term": "201901" },
+	{ "title": "LANGUAGE SKILLS III: Mandarin", "subject": "MGB", "code": "182", "term": "201901" },
+	{ "title": "LANGUAGE SKILLS III: German", "subject": "MGB", "code": "182", "term": "201901" },
+	{ "title": "LANGUAGE SKILLS III: French", "subject": "MGB", "code": "182", "term": "201901" },
+	{
+		"title": "Introduction to Professional Practice",
+		"subject": "MGB",
+		"code": "502",
+		"term": "201901"
+	},
+	{
+		"title": "The North American Business Context",
+		"subject": "MGB",
+		"code": "510",
+		"term": "201901"
+	},
+	{
+		"title": "International Financial Management",
+		"subject": "MGB",
+		"code": "512",
+		"term": "201901"
+	},
+	{
+		"title": "International Marketing and Global Strategy",
+		"subject": "MGB",
+		"code": "516",
+		"term": "201901"
+	},
+	{
+		"title": "International Logistics and Supply Chain Management",
+		"subject": "MGB",
+		"code": "519",
+		"term": "201901"
+	},
+	{ "title": "The Asian Business Context", "subject": "MGB", "code": "520", "term": "201901" },
+	{
+		"title": "Developing Business in International Entrepreneurial Environments",
+		"subject": "MGB",
+		"code": "525",
+		"term": "201901"
+	},
+	{ "title": "The European Business Context", "subject": "MGB", "code": "530", "term": "201901" },
+	{ "title": "Consulting Methods and Practice", "subject": "MGB", "code": "535", "term": "201901" },
+	{
+		"title": "International Research and Consulting Project",
+		"subject": "MGB",
+		"code": "536",
+		"term": "201901"
+	},
+	{
+		"title": "Global Leadership and Cultural Intelligence",
+		"subject": "MGB",
+		"code": "570",
+		"term": "201901"
+	},
+	{
+		"title": "Language, Communication and Global Business",
+		"subject": "MGB",
+		"code": "583",
+		"term": "201901"
+	},
+	{ "title": "Applied Projects", "subject": "MBA", "code": "501", "term": "201901" },
+	{
+		"title": "Personal and Professional Development",
+		"subject": "MBA",
+		"code": "502",
+		"term": "201901"
+	},
+	{ "title": "Marketing Management", "subject": "MBA", "code": "510", "term": "201901" },
+	{ "title": "Managerial Finance", "subject": "MBA", "code": "530", "term": "201901" },
+	{ "title": "Operations Management", "subject": "MBA", "code": "535", "term": "201901" },
+	{
+		"title": "Information Technology in the Organization",
+		"subject": "MBA",
+		"code": "544",
+		"term": "201901"
+	},
+	{ "title": "Innovation and Design Studio", "subject": "MBA", "code": "546", "term": "201901" },
+	{ "title": "Strategic Analysis and Action", "subject": "MBA", "code": "550", "term": "201901" },
+	{ "title": "Collaboration in Organizations", "subject": "MBA", "code": "552", "term": "201901" },
+	{
+		"title": "Managing People and Organizations II",
+		"subject": "MBA",
+		"code": "555",
+		"term": "201901"
+	},
+	{ "title": "Managing Legal Risks", "subject": "MBA", "code": "560", "term": "201901" },
+	{
+		"title": "International Business Environment I",
+		"subject": "MBA",
+		"code": "570",
+		"term": "201901"
+	},
+	{
+		"title": "International Business Environment II",
+		"subject": "MBA",
+		"code": "576",
+		"term": "201901"
+	},
+	{ "title": "Consulting Methods II", "subject": "MBA", "code": "586", "term": "201901" },
+	{
+		"title": "SPCL TPCS:BUSINESS ADMN: Strategic Negotiations",
+		"subject": "MBA",
+		"code": "595",
+		"term": "201901"
+	},
+	{ "title": "Integrative Project", "subject": "MBA", "code": "596", "term": "201901" },
+	{ "title": "Research Project", "subject": "MBA", "code": "598", "term": "201901" },
+	{ "title": "Calculus I", "subject": "MATH", "code": "100", "term": "201901" },
+	{ "title": "Calculus II", "subject": "MATH", "code": "101", "term": "201901" },
+	{
+		"title": "Calculus for Students in the Social and Biological Sciences",
+		"subject": "MATH",
+		"code": "102",
+		"term": "201901"
+	},
+	{ "title": "Introduction to Calculus", "subject": "MATH", "code": "109", "term": "201901" },
+	{ "title": "Precalculus Mathematics", "subject": "MATH", "code": "120", "term": "201901" },
+	{ "title": "Logic and Foundations", "subject": "MATH", "code": "122", "term": "201901" },
+	{ "title": "Finite Mathematics", "subject": "MATH", "code": "151", "term": "201901" },
+	{
+		"title": "Mathematics for Elementary School Teachers II",
+		"subject": "MATH",
+		"code": "162",
+		"term": "201901"
+	},
+	{ "title": "Calculus III", "subject": "MATH", "code": "200", "term": "201901" },
+	{
+		"title": "Intermediate Calculus for CSC and EOS",
+		"subject": "MATH",
+		"code": "202",
+		"term": "201901"
+	},
+	{ "title": "Calculus IV", "subject": "MATH", "code": "204", "term": "201901" },
+	{
+		"title": "Mathematics for Economics and Econometrics",
+		"subject": "MATH",
+		"code": "208",
+		"term": "201901"
+	},
+	{ "title": "Matrix Algebra I", "subject": "MATH", "code": "211", "term": "201901" },
+	{ "title": "Introduction to Algebra", "subject": "MATH", "code": "212", "term": "201901" },
+	{
+		"title": "Discrete and Combinatorial Mathematics",
+		"subject": "MATH",
+		"code": "222",
+		"term": "201901"
+	},
+	{ "title": "Introduction to Real Analysis", "subject": "MATH", "code": "236", "term": "201901" },
+	{ "title": "Mathematics of Finance", "subject": "MATH", "code": "242", "term": "201901" },
+	{
+		"title": "Computer Assisted Mathematics and Physics",
+		"subject": "MATH",
+		"code": "248",
+		"term": "201901"
+	},
+	{ "title": "Complex Variables", "subject": "MATH", "code": "301", "term": "201901" },
+	{ "title": "Combinatorial Designs", "subject": "MATH", "code": "322", "term": "201901" },
+	{ "title": "Real Analysis", "subject": "MATH", "code": "335", "term": "201901" },
+	{
+		"title": "Intermediate Ordinary Differential Equations",
+		"subject": "MATH",
+		"code": "342",
+		"term": "201901"
+	},
+	{
+		"title": "Introduction to Partial Differential Equations",
+		"subject": "MATH",
+		"code": "346",
+		"term": "201901"
+	},
+	{ "title": "Introduction to Probability", "subject": "MATH", "code": "352", "term": "201901" },
+	{ "title": "Introduction to Topology", "subject": "MATH", "code": "365", "term": "201901" },
+	{ "title": "Mathematical Modelling", "subject": "MATH", "code": "377", "term": "201901" },
+	{
+		"title": "Nonlinear Dynamical Systems and Chaos",
+		"subject": "MATH",
+		"code": "379",
+		"term": "201901"
+	},
+	{ "title": "Abstract Algebra II", "subject": "MATH", "code": "412", "term": "201901" },
+	{ "title": "Applied Algebra", "subject": "MATH", "code": "413", "term": "201901" },
+	{ "title": "Combinatorial Mathematics", "subject": "MATH", "code": "422", "term": "201901" },
+	{
+		"title": "Advanced Partial Differential Equations",
+		"subject": "MATH",
+		"code": "446",
+		"term": "201901"
+	},
+	{ "title": "Probability", "subject": "MATH", "code": "451", "term": "201901" },
+	{
+		"title": "TPCS: MATHEMATICAL BIOLOGY: Dynamics of Regulatory Networks",
+		"subject": "MATH",
+		"code": "475",
+		"term": "201901"
+	},
+	{ "title": "Stochastic Financial Modelling", "subject": "MATH", "code": "477", "term": "201901" },
+	{
+		"title": "TOPICS IN APPLIED MATHEMATICS: Structured Graph Theory",
+		"subject": "MATH",
+		"code": "492",
+		"term": "201901"
+	},
+	{
+		"title": "TOPICS IN PURE MATHEMATICS: Ergodic Theory",
+		"subject": "MATH",
+		"code": "493",
+		"term": "201901"
+	},
+	{
+		"title": "Seminar and Independent Project",
+		"subject": "MATH",
+		"code": "498",
+		"term": "201901"
+	},
+	{ "title": "Combinatorics", "subject": "MATH", "code": "522", "term": "201901" },
+	{
+		"title": "TOPICS IN ANALYSIS: Ergodic Theory",
+		"subject": "MATH",
+		"code": "535",
+		"term": "201901"
+	},
+	{
+		"title": "TPCS:APPLIED MATHEMATICS: Structured Graph Theory",
+		"subject": "MATH",
+		"code": "550",
+		"term": "201901"
+	},
+	{
+		"title": "TPCS:APPLIED MATHEMATICS: Advanced Partial Differential Equations",
+		"subject": "MATH",
+		"code": "550",
+		"term": "201901"
+	},
+	{
+		"title": "TOPICS IN MATHEMATICAL BIOLOGY: Dynamics of Regulatory Networks",
+		"subject": "MATH",
+		"code": "575",
+		"term": "201901"
+	},
+	{ "title": "Discrete Mathematics Seminar", "subject": "MATH", "code": "588", "term": "201901" },
+	{ "title": "Master's Thesis", "subject": "MATH", "code": "599", "term": "201901" },
+	{ "title": "Candidacy Examination", "subject": "MATH", "code": "693", "term": "201901" },
+	{ "title": "Dissertation", "subject": "MATH", "code": "699", "term": "201901" },
+	{ "title": "Mechanics of Solids II", "subject": "MECH", "code": "320", "term": "201901" },
+	{ "title": "Theory of Mechanisms", "subject": "MECH", "code": "335", "term": "201901" },
+	{ "title": "Mechanics of Fluids", "subject": "MECH", "code": "345", "term": "201901" },
+	{ "title": "Engineering Design", "subject": "MECH", "code": "350", "term": "201901" },
+	{ "title": "Energy Conversion", "subject": "MECH", "code": "390", "term": "201901" },
+	{ "title": "Design Project", "subject": "MECH", "code": "400", "term": "201901" },
+	{ "title": "Advanced Thermodynamics", "subject": "MECH", "code": "443", "term": "201901" },
+	{ "title": "Energy Systems", "subject": "MECH", "code": "447", "term": "201901" },
+	{ "title": "SPECIAL TOPICS: Thermofluids", "subject": "MECH", "code": "450A", "term": "201901" },
+	{
+		"title": "SPECIAL TOPICS: Heating, Ventilation, and Air Conditioning Systems",
+		"subject": "MECH",
+		"code": "450B",
+		"term": "201901"
+	},
+	{
+		"title": "SPECIAL TOPICS: Hydrodynamic Principles in Naval Architecture",
+		"subject": "MECH",
+		"code": "450C",
+		"term": "201901"
+	},
+	{
+		"title": "SPECIAL TOPICS: Pulp and Paper Technology",
+		"subject": "MECH",
+		"code": "450D",
+		"term": "201901"
+	},
+	{ "title": "Mechatronics", "subject": "MECH", "code": "458", "term": "201901" },
+	{
+		"title": "Introduction to Electron Microscopy",
+		"subject": "MECH",
+		"code": "472",
+		"term": "201901"
+	},
+	{ "title": "Ferrous and Non-Ferrous Metals", "subject": "MECH", "code": "473", "term": "201901" },
+	{
+		"title": "Biomaterials and Tissue Engineering",
+		"subject": "MECH",
+		"code": "481",
+		"term": "201901"
+	},
+	{
+		"title": "Mechanics and Energy Conversion for Living Cells",
+		"subject": "MECH",
+		"code": "483",
+		"term": "201901"
+	},
+	{ "title": "Design of Thermo-Fluid Systems", "subject": "MECH", "code": "493", "term": "201901" },
+	{
+		"title": "Thermofluids and Introduction to Mass Transfer",
+		"subject": "MECH",
+		"code": "494",
+		"term": "201901"
+	},
+	{
+		"title": "Computational Fluid Dynamics and Heat Transfer",
+		"subject": "MECH",
+		"code": "495",
+		"term": "201901"
+	},
+	{
+		"title": "Green Vehicle Technology Project",
+		"subject": "MECH",
+		"code": "497",
+		"term": "201901"
+	},
+	{ "title": "Honours Thesis", "subject": "MECH", "code": "498", "term": "201901" },
+	{ "title": "Technical Project", "subject": "MECH", "code": "499", "term": "201901" },
+	{
+		"title": "Living Cells and their Molecules: Mechanics & Thermodynamics",
+		"subject": "MECH",
+		"code": "510",
+		"term": "201901"
+	},
+	{ "title": "Transport Phenomena", "subject": "MECH", "code": "540", "term": "201901" },
+	{
+		"title": "Energy Systems and Exergy Analysis",
+		"subject": "MECH",
+		"code": "542",
+		"term": "201901"
+	},
+	{
+		"title": "SELECTED TOPICS:MECH ENGR: Thermofluids",
+		"subject": "MECH",
+		"code": "580",
+		"term": "201901"
+	},
+	{ "title": "Seminar", "subject": "MECH", "code": "594", "term": "201901" },
+	{ "title": "MEng Project Report", "subject": "MECH", "code": "598", "term": "201901" },
+	{ "title": "MASc Thesis", "subject": "MECH", "code": "599", "term": "201901" },
+	{ "title": "Candidacy Examination", "subject": "MECH", "code": "693", "term": "201901" },
+	{ "title": "PhD Dissertation", "subject": "MECH", "code": "699", "term": "201901" },
+	{
+		"title": "SPCL TPCS: MEDICAL SCIENCES: Animals & Human Health",
+		"subject": "MEDS",
+		"code": "487",
+		"term": "201901"
+	},
+	{
+		"title": "SPCL TPCS: MEDICAL SCIENCES: Advanced Topics in Cognitive Neuroscience",
+		"subject": "MEDS",
+		"code": "487",
+		"term": "201901"
+	},
+	{
+		"title": "Myths and Legends of the Middle Ages",
+		"subject": "MEDI",
+		"code": "200",
+		"term": "201901"
+	},
+	{
+		"title": "ENCOUNTERING THE MIDDLE AGES: The Art of Medieval Travel",
+		"subject": "MEDI",
+		"code": "304",
+		"term": "201901"
+	},
+	{
+		"title": "SPCL TPCS:MEDI MANUSCRIPT: Image, Text and the Medieval Manuscript",
+		"subject": "MEDI",
+		"code": "452",
+		"term": "201901"
+	},
+	{ "title": "Introductory Microbiology II", "subject": "MICR", "code": "200B", "term": "201901" },
+	{ "title": "Molecular Microbiology", "subject": "MICR", "code": "302", "term": "201901" },
+	{ "title": "Virology", "subject": "MICR", "code": "402", "term": "201901" },
+	{ "title": "Microbial Pathogenesis", "subject": "MICR", "code": "408", "term": "201901" },
+	{ "title": "MSc Thesis: Microbiology", "subject": "MICR", "code": "599", "term": "201901" },
+	{ "title": "PhD Dissertation: Microbiology", "subject": "MICR", "code": "699", "term": "201901" },
+	{ "title": "Language of Music", "subject": "MUS", "code": "101B", "term": "201901" },
+	{ "title": "Introduction to Composition", "subject": "MUS", "code": "105", "term": "201901" },
+	{ "title": "African Hand Drumming", "subject": "MUS", "code": "108", "term": "201901" },
+	{ "title": "Great Film Music", "subject": "MUS", "code": "109", "term": "201901" },
+	{
+		"title": "Western Music from Antiquity to 1750",
+		"subject": "MUS",
+		"code": "121",
+		"term": "201901"
+	},
+	{ "title": "Individual Tuition", "subject": "MUS", "code": "140", "term": "201901" },
+	{
+		"title": "Individual Tuition: Secondary area",
+		"subject": "MUS",
+		"code": "143",
+		"term": "201901"
+	},
+	{ "title": "Basic Musicianship IB", "subject": "MUS", "code": "170B", "term": "201901" },
+	{ "title": "University Orchestra", "subject": "MUS", "code": "180A", "term": "201901" },
+	{ "title": "University Wind Symphony", "subject": "MUS", "code": "180B", "term": "201901" },
+	{ "title": "Don Wright Symphonic Winds", "subject": "MUS", "code": "180C", "term": "201901" },
+	{ "title": "Jazz Ensemble", "subject": "MUS", "code": "180D", "term": "201901" },
+	{ "title": "University Chorus", "subject": "MUS", "code": "180E", "term": "201901" },
+	{ "title": "Chamber Singers", "subject": "MUS", "code": "180F", "term": "201901" },
+	{ "title": "Chamber Music", "subject": "MUS", "code": "181", "term": "201901" },
+	{ "title": "Vikes Band", "subject": "MUS", "code": "189", "term": "201901" },
+	{ "title": "Music Composition I", "subject": "MUS", "code": "205", "term": "201901" },
+	{
+		"title": "Western Music from 1885 to 1952",
+		"subject": "MUS",
+		"code": "220B",
+		"term": "201901"
+	},
+	{
+		"title": "Music in the Elementary School Curriculum",
+		"subject": "MUS",
+		"code": "237",
+		"term": "201901"
+	},
+	{ "title": "Seminar in Performance", "subject": "MUS", "code": "245", "term": "201901" },
+	{
+		"title": "Introduction to Instrumental and Choral Conducting II",
+		"subject": "MUS",
+		"code": "256B",
+		"term": "201901"
+	},
+	{ "title": "Basic Musicianship IIB", "subject": "MUS", "code": "270B", "term": "201901" },
+	{ "title": "Music Composition II", "subject": "MUS", "code": "305", "term": "201901" },
+	{ "title": "Sound Recording Techniques", "subject": "MUS", "code": "306", "term": "201901" },
+	{ "title": "Introduction to Computer Music", "subject": "MUS", "code": "307", "term": "201901" },
+	{
+		"title": "FORMS+GENRES IN MUSIC: Enlightenment Opera and the Political",
+		"subject": "MUS",
+		"code": "323",
+		"term": "201901"
+	},
+	{ "title": "The History of Jazz", "subject": "MUS", "code": "325", "term": "201901" },
+	{
+		"title": "Strings: Techniques and Mentoring",
+		"subject": "MUS",
+		"code": "336",
+		"term": "201901"
+	},
+	{
+		"title": "Choral Techniques for Middle and Secondary Schools",
+		"subject": "MUS",
+		"code": "339B",
+		"term": "201901"
+	},
+	{ "title": "Orchestration", "subject": "MUS", "code": "350B", "term": "201901" },
+	{
+		"title": "X CULTURAL+HISTCL TPCS: MUSIC: Indigenous Peoples and Music",
+		"subject": "MUS",
+		"code": "391",
+		"term": "201901"
+	},
+	{ "title": "Topics in Analysis", "subject": "MUS", "code": "401A", "term": "201901" },
+	{ "title": "Music Composition III", "subject": "MUS", "code": "405", "term": "201901" },
+	{ "title": "Sound Recording Seminar", "subject": "MUS", "code": "406B", "term": "201901" },
+	{ "title": "Computer Music Seminar", "subject": "MUS", "code": "407", "term": "201901" },
+	{ "title": "The Business of Music", "subject": "MUS", "code": "411", "term": "201901" },
+	{
+		"title": "Music in the Secondary School Curriculum",
+		"subject": "MUS",
+		"code": "437",
+		"term": "201901"
+	},
+	{ "title": "Instrumental and Choral Clinic", "subject": "MUS", "code": "439", "term": "201901" },
+	{ "title": "Graduating Recital", "subject": "MUS", "code": "448", "term": "201901" },
+	{
+		"title": "Graduating Projects in Music History",
+		"subject": "MUS",
+		"code": "499",
+		"term": "201901"
+	},
+	{
+		"title": "Selected Problems in Theory and Analysis",
+		"subject": "MUS",
+		"code": "500",
+		"term": "201901"
+	},
+	{
+		"title": "COMPARE TPCS:MUSICOLOGY: Intertextuality in 20th-Century Music",
+		"subject": "MUS",
+		"code": "532",
+		"term": "201901"
+	},
+	{ "title": "Graduate Forum in Musicology", "subject": "MUS", "code": "533", "term": "201901" },
+	{
+		"title": "Advanced Research Forum in Musicology",
+		"subject": "MUS",
+		"code": "534",
+		"term": "201901"
+	},
+	{ "title": "Major Instrument Study", "subject": "MUS", "code": "545", "term": "201901" },
+	{
+		"title": "Individual Tuition in Composition",
+		"subject": "MUS",
+		"code": "555",
+		"term": "201901"
+	},
+	{ "title": "Pacific Opera Victoria Chorus", "subject": "MUS", "code": "580H", "term": "201901" },
+	{ "title": "MMus Practicum", "subject": "MUS", "code": "588", "term": "201901" },
+	{ "title": "Lecture-Recital", "subject": "MUS", "code": "596", "term": "201901" },
+	{ "title": "MMus Graduating Compositions", "subject": "MUS", "code": "598B", "term": "201901" },
+	{ "title": "MMus Project", "subject": "MUS", "code": "598C", "term": "201901" },
+	{ "title": "MA Thesis", "subject": "MUS", "code": "599", "term": "201901" },
+	{ "title": "Dissertation Proposal", "subject": "MUS", "code": "689", "term": "201901" },
+	{ "title": "PhD Candidacy Examinations", "subject": "MUS", "code": "693", "term": "201901" },
+	{ "title": "PhD Dissertation", "subject": "MUS", "code": "699", "term": "201901" },
+	{ "title": "Fundamentals of Neuroscience", "subject": "NRSC", "code": "500", "term": "201901" },
+	{
+		"title": "Advanced Topics in Cellular Neuroscience I",
+		"subject": "NRSC",
+		"code": "501A",
+		"term": "201901"
+	},
+	{
+		"title": "Advanced Topics in Cognitive Neuroscience I",
+		"subject": "NRSC",
+		"code": "501B",
+		"term": "201901"
+	},
+	{
+		"title": "Advanced Topics in Cellular Neuroscience II",
+		"subject": "NRSC",
+		"code": "502A",
+		"term": "201901"
+	},
+	{
+		"title": "Advanced Topics in Cognitive Neuroscience II",
+		"subject": "NRSC",
+		"code": "502B",
+		"term": "201901"
+	},
+	{
+		"title": "ADV TPCS: NEUROSCIENCE: Translational Neuroscience",
+		"subject": "NRSC",
+		"code": "587",
+		"term": "201901"
+	},
+	{
+		"title": "ADV TPCS: NEUROSCIENCE: Advanced topics in Cognitive Neuroscience",
+		"subject": "NRSC",
+		"code": "587",
+		"term": "201901"
+	},
+	{ "title": "MSc Thesis Preparation", "subject": "NRSC", "code": "595", "term": "201901" },
+	{ "title": "MSc Thesis", "subject": "NRSC", "code": "599", "term": "201901" },
+	{ "title": "Candidacy Examination", "subject": "NRSC", "code": "693", "term": "201901" },
+	{ "title": "PhD Dissertation", "subject": "NRSC", "code": "699", "term": "201901" },
+	{
+		"title": "Intersectoral Course and Curriculum Design in Nursing Education",
+		"subject": "NUED",
+		"code": "572",
+		"term": "201901"
+	},
+	{ "title": "Nurse Educator Practice II", "subject": "NUED", "code": "574", "term": "201901" },
+	{
+		"title": "Professional Practice IV: Nursing Inquiry",
+		"subject": "NURS",
+		"code": "341",
+		"term": "201901"
+	},
+	{
+		"title": "Health and Healing VI: Global Health Issues",
+		"subject": "NURS",
+		"code": "342",
+		"term": "201901"
+	},
+	{
+		"title": "Health and Healing VII: Promoting Community and Societal Health",
+		"subject": "NURS",
+		"code": "350",
+		"term": "201901"
+	},
+	{
+		"title": "Nursing Practice VI: Promoting Health of Communities and Society",
+		"subject": "NURS",
+		"code": "351",
+		"term": "201901"
+	},
+	{
+		"title": "Professional Practice VI: Nursing Research",
+		"subject": "NURS",
+		"code": "360",
+		"term": "201901"
+	},
+	{
+		"title": "Professional Practice V: Leadership in Nursing",
+		"subject": "NURS",
+		"code": "430",
+		"term": "201901"
+	},
+	{
+		"title": "Nursing Practice VII: Engaging in Leadership",
+		"subject": "NURS",
+		"code": "431",
+		"term": "201901"
+	},
+	{
+		"title": "Consolidated Practice Experience IV",
+		"subject": "NURS",
+		"code": "470",
+		"term": "201901"
+	},
+	{
+		"title": "Consolidated Practice Experience V",
+		"subject": "NURS",
+		"code": "475",
+		"term": "201901"
+	},
+	{
+		"title": "Nursing Practice in Hospice Palliative Care",
+		"subject": "NURS",
+		"code": "481C",
+		"term": "201901"
+	},
+	{
+		"title": "Understanding Indigenous Health and Wellbeing",
+		"subject": "NURS",
+		"code": "484",
+		"term": "201901"
+	},
+	{
+		"title": "Nursing Practice VIII: Transitions",
+		"subject": "NURS",
+		"code": "491",
+		"term": "201901"
+	},
+	{ "title": "Nursing Practice Synthesis", "subject": "NURS", "code": "495", "term": "201901" },
+	{
+		"title": "Advanced Practice Nursing and Professional Identity",
+		"subject": "NURS",
+		"code": "521",
+		"term": "201901"
+	},
+	{
+		"title": "Evidence for Advanced Practice Nursing",
+		"subject": "NURS",
+		"code": "524",
+		"term": "201901"
+	},
+	{ "title": "Thesis", "subject": "NURS", "code": "599", "term": "201901" },
+	{
+		"title": "Research Methodology for Nursing and Health Care: Qualitative",
+		"subject": "NURS",
+		"code": "604A",
+		"term": "201901"
+	},
+	{
+		"title": "Research Methodology for Nursing and Health Care: Quantitative",
+		"subject": "NURS",
+		"code": "604B",
+		"term": "201901"
+	},
+	{ "title": "Doctoral Seminar", "subject": "NURS", "code": "621", "term": "201901" },
+	{ "title": "Candidacy Examination", "subject": "NURS", "code": "693", "term": "201901" },
+	{ "title": "Dissertation", "subject": "NURS", "code": "699", "term": "201901" },
+	{ "title": "APL Praxis II", "subject": "NURA", "code": "518", "term": "201901" },
+	{ "title": "Nursing Leadership II", "subject": "NURA", "code": "519", "term": "201901" },
+	{
+		"title": "Advanced Assessment and Diagnostic Reasoning Theory",
+		"subject": "NUNP",
+		"code": "540",
+		"term": "201901"
+	},
+	{
+		"title": "Advanced Assessment and Diagnostic Reasoning Practice",
+		"subject": "NUNP",
+		"code": "541",
+		"term": "201901"
+	},
+	{
+		"title": "Integrated Primary Health Care and Adv Practice Nurs Theory III",
+		"subject": "NUNP",
+		"code": "547",
+		"term": "201901"
+	},
+	{
+		"title": "Integrated Primary Health Care and Adv Pract Nurs Practica III",
+		"subject": "NUNP",
+		"code": "548",
+		"term": "201901"
+	},
+	{ "title": "Research Project", "subject": "NUHI", "code": "598", "term": "201901" },
+	{ "title": "Thesis", "subject": "NUHI", "code": "599", "term": "201901" },
+	{ "title": "Text, Manipulation, Propaganda", "subject": "PAAS", "code": "101", "term": "201901" },
+	{ "title": "Intensive Beginner Japanese I", "subject": "PAAS", "code": "138", "term": "201901" },
+	{ "title": "Modern Chinese Culture", "subject": "PAAS", "code": "151", "term": "201901" },
+	{ "title": "Modern Japanese Culture", "subject": "PAAS", "code": "181", "term": "201901" },
+	{
+		"title": "Introduction to Theories and Methods in Pacific and Asian Studies",
+		"subject": "PAAS",
+		"code": "200",
+		"term": "201901"
+	},
+	{
+		"title": "Introduction to Asian Religions",
+		"subject": "PAAS",
+		"code": "204",
+		"term": "201901"
+	},
+	{ "title": "Ghosts and Spirits", "subject": "PAAS", "code": "207", "term": "201901" },
+	{ "title": "Intensive Beginner Chinese II", "subject": "PAAS", "code": "218", "term": "201901" },
+	{ "title": "Intensive Beginner Japanese II", "subject": "PAAS", "code": "238", "term": "201901" },
+	{ "title": "Intermediate Japanese", "subject": "PAAS", "code": "338", "term": "201901" },
+	{
+		"title": "Integrative Intermediate Japanese",
+		"subject": "PAAS",
+		"code": "340",
+		"term": "201901"
+	},
+	{
+		"title": "Chinese Cinema from Text to Screen",
+		"subject": "PAAS",
+		"code": "357",
+		"term": "201901"
+	},
+	{
+		"title": "Japanese Economy, Politics and Culture",
+		"subject": "PAAS",
+		"code": "380",
+		"term": "201901"
+	},
+	{ "title": "Advanced Research Seminar", "subject": "PAAS", "code": "400", "term": "201901" },
+	{ "title": "Understanding Chinese Media", "subject": "PAAS", "code": "412", "term": "201901" },
+	{
+		"title": "Thematic Study of Contemporary Chinese Literature in Translation",
+		"subject": "PAAS",
+		"code": "456",
+		"term": "201901"
+	},
+	{ "title": "Research Methodologies", "subject": "PAAS", "code": "550", "term": "201901" },
+	{ "title": "MA Thesis", "subject": "PAAS", "code": "599", "term": "201901" },
+	{ "title": "Candidacy Examination", "subject": "PAAS", "code": "693", "term": "201901" },
+	{ "title": "Introduction to Philosophy", "subject": "PHIL", "code": "100", "term": "201901" },
+	{ "title": "Critical Thinking", "subject": "PHIL", "code": "201", "term": "201901" },
+	{ "title": "Elementary Formal Logic", "subject": "PHIL", "code": "203", "term": "201901" },
+	{ "title": "Death and Dying", "subject": "PHIL", "code": "225", "term": "201901" },
+	{
+		"title": "Moral Problems of Contemporary Society",
+		"subject": "PHIL",
+		"code": "232",
+		"term": "201901"
+	},
+	{
+		"title": "Introduction to Social and Political Philosophy",
+		"subject": "PHIL",
+		"code": "236",
+		"term": "201901"
+	},
+	{ "title": "Philosophy in Literature", "subject": "PHIL", "code": "238", "term": "201901" },
+	{ "title": "Philosophy and Feminism", "subject": "PHIL", "code": "239", "term": "201901" },
+	{
+		"title": "Knowledge, Certainty and Skepticism",
+		"subject": "PHIL",
+		"code": "251",
+		"term": "201901"
+	},
+	{
+		"title": "Introduction to Philosophy of Mind",
+		"subject": "PHIL",
+		"code": "260",
+		"term": "201901"
+	},
+	{ "title": "Aristotle", "subject": "PHIL", "code": "303", "term": "201901" },
+	{ "title": "Kant", "subject": "PHIL", "code": "309", "term": "201901" },
+	{ "title": "Existentialist Thinkers", "subject": "PHIL", "code": "311", "term": "201901" },
+	{ "title": "19th-Century Philosophy", "subject": "PHIL", "code": "314", "term": "201901" },
+	{ "title": "Philosophy of Medicine", "subject": "PHIL", "code": "321", "term": "201901" },
+	{ "title": "Biomedical Ethics", "subject": "PHIL", "code": "331", "term": "201901" },
+	{ "title": "Philosophy and the Environment", "subject": "PHIL", "code": "333", "term": "201901" },
+	{ "title": "Philosophy of Law", "subject": "PHIL", "code": "336", "term": "201901" },
+	{ "title": "Ethics: Theory and Practice", "subject": "PHIL", "code": "337", "term": "201901" },
+	{ "title": "Philosophy of Science", "subject": "PHIL", "code": "356", "term": "201901" },
+	{ "title": "Theory of Perception", "subject": "PHIL", "code": "358", "term": "201901" },
+	{ "title": "Philosophy of Mind", "subject": "PHIL", "code": "362", "term": "201901" },
+	{ "title": "Logic", "subject": "PHIL", "code": "371", "term": "201901" },
+	{ "title": "The Life and Times of Socrates", "subject": "PHIL", "code": "383", "term": "201901" },
+	{ "title": "Advanced Metaphysics", "subject": "PHIL", "code": "450", "term": "201901" },
+	{
+		"title": "ADV TPCS IN PHILOSOPHY: The UN Declaration on the Rights of Indigenous Peoples",
+		"subject": "PHIL",
+		"code": "490",
+		"term": "201901"
+	},
+	{
+		"title": "ADV TPCS IN PHILOSOPHY: A Study of C.A. Campbell's On Selfhood and Godhood",
+		"subject": "PHIL",
+		"code": "490",
+		"term": "201901"
+	},
+	{
+		"title": "ADV TPCS IN PHILOSOPHY: Why Use Pictures? The Role of Images and Visual Representation in Science",
+		"subject": "PHIL",
+		"code": "490",
+		"term": "201901"
+	},
+	{
+		"title": "TOPICS IN PHILOSOPHY: The UN Declaration on the Rights of Indigenous Peoples",
+		"subject": "PHIL",
+		"code": "500",
+		"term": "201901"
+	},
+	{
+		"title": "TOPICS IN PHILOSOPHY OF MIND: A Study of C.A. Campbell's On Selfhood and Godhood",
+		"subject": "PHIL",
+		"code": "514",
+		"term": "201901"
+	},
+	{
+		"title": "TOPICS IN PHIL OF SCIENCE: Why Use Pictures? The Role of Images and Visual Representation in Science",
+		"subject": "PHIL",
+		"code": "521",
+		"term": "201901"
+	},
+	{
+		"title": "TOPICS IN METAPHYSICS: Advanced Metaphysics",
+		"subject": "PHIL",
+		"code": "552",
+		"term": "201901"
+	},
+	{
+		"title": "Professional Development Practicum",
+		"subject": "PHIL",
+		"code": "592",
+		"term": "201901"
+	},
+	{ "title": "Major Research Project", "subject": "PHIL", "code": "598", "term": "201901" },
+	{ "title": "Candidacy Examination", "subject": "PHIL", "code": "693", "term": "201901" },
+	{ "title": "CANDIDACY EXAMINATION", "subject": "PHIL", "code": "698", "term": "201901" },
+	{ "title": "General Physics II", "subject": "PHYS", "code": "102B", "term": "201901" },
+	{ "title": "Introductory Physics I", "subject": "PHYS", "code": "110", "term": "201901" },
+	{ "title": "Introductory Physics II", "subject": "PHYS", "code": "111", "term": "201901" },
+	{ "title": "Physics II", "subject": "PHYS", "code": "130", "term": "201901" },
+	{ "title": "Introductory Quantum Physics", "subject": "PHYS", "code": "215", "term": "201901" },
+	{
+		"title": "Computer Assisted Mathematics and Physics",
+		"subject": "PHYS",
+		"code": "248",
+		"term": "201901"
+	},
+	{
+		"title": "SPECIAL TOPICS IN PHYSICS: Introduction to Biomedical Physics",
+		"subject": "PHYS",
+		"code": "280",
+		"term": "201901"
+	},
+	{
+		"title": "Nuclear Physics and Radioactivity",
+		"subject": "PHYS",
+		"code": "314",
+		"term": "201901"
+	},
+	{ "title": "THERMODYNAMICS", "subject": "PHYS", "code": "317", "term": "201901" },
+	{ "title": "Classical Mechanics II", "subject": "PHYS", "code": "321B", "term": "201901" },
+	{ "title": "Optics", "subject": "PHYS", "code": "325", "term": "201901" },
+	{ "title": "Solid State Physics I", "subject": "PHYS", "code": "328", "term": "201901" },
+	{ "title": "Atmospheric Sciences", "subject": "PHYS", "code": "340", "term": "201901" },
+	{ "title": "Statistical Mechanics", "subject": "PHYS", "code": "421", "term": "201901" },
+	{ "title": "Electromagnetic Theory", "subject": "PHYS", "code": "422", "term": "201901" },
+	{ "title": "Fluid Mechanics", "subject": "PHYS", "code": "426", "term": "201901" },
+	{ "title": "Geophysics", "subject": "PHYS", "code": "427", "term": "201901" },
+	{ "title": "Honours Laboratory", "subject": "PHYS", "code": "429A", "term": "201901" },
+	{ "title": "Medical Physics", "subject": "PHYS", "code": "432", "term": "201901" },
+	{ "title": "Colloquium I", "subject": "PHYS", "code": "460A", "term": "201901" },
+	{ "title": "Colloquium II", "subject": "PHYS", "code": "460B", "term": "201901" },
+	{ "title": "Honours Thesis", "subject": "PHYS", "code": "499", "term": "201901" },
+	{ "title": "Quantum Mechanics", "subject": "PHYS", "code": "500A", "term": "201901" },
+	{
+		"title": "TPCS:NUCLEAR+PART PHYS:I: Advanced Computing and Machine Learning for Physics and Astronomy",
+		"subject": "PHYS",
+		"code": "511A",
+		"term": "201901"
+	},
+	{
+		"title": "TECHNQS NUCLEAR+PARTCLE PHYS: TBA",
+		"subject": "PHYS",
+		"code": "521A",
+		"term": "201901"
+	},
+	{ "title": "Topics in Accelerator Physics", "subject": "PHYS", "code": "522", "term": "201901" },
+	{ "title": "Radiotherapy Physics II", "subject": "PHYS", "code": "535", "term": "201901" },
+	{ "title": "Radiation Dosimetry", "subject": "PHYS", "code": "539", "term": "201901" },
+	{
+		"title": "TOPICS IN RADIATION BIOPHYSICS: TBA",
+		"subject": "PHYS",
+		"code": "544",
+		"term": "201901"
+	},
+	{
+		"title": "Anatomy and Physiology for the Medical Physicist",
+		"subject": "PHYS",
+		"code": "545",
+		"term": "201901"
+	},
+	{ "title": "Clinical Shadowing", "subject": "PHYS", "code": "546", "term": "201901" },
+	{ "title": "Colloquium", "subject": "PHYS", "code": "560", "term": "201901" },
+	{ "title": "MSc Thesis", "subject": "PHYS", "code": "599", "term": "201901" },
+	{ "title": "PhD Candidacy Examination", "subject": "PHYS", "code": "693", "term": "201901" },
+	{ "title": "PhD Dissertation", "subject": "PHYS", "code": "699", "term": "201901" },
+	{ "title": "Canadian Politics", "subject": "POLI", "code": "101", "term": "201901" },
+	{ "title": "The Worlds of Politics", "subject": "POLI", "code": "103", "term": "201901" },
+	{
+		"title": "Canadian Institutions of Government",
+		"subject": "POLI",
+		"code": "201",
+		"term": "201901"
+	},
+	{
+		"title": "An Introduction to Political Theory",
+		"subject": "POLI",
+		"code": "202",
+		"term": "201901"
+	},
+	{ "title": "Comparative Politics", "subject": "POLI", "code": "210", "term": "201901" },
+	{ "title": "International Politics", "subject": "POLI", "code": "240", "term": "201901" },
+	{
+		"title": "Early Modern Political Thought",
+		"subject": "POLI",
+		"code": "300B",
+		"term": "201901"
+	},
+	{
+		"title": "Post-Enlightenment Political Thought",
+		"subject": "POLI",
+		"code": "300C",
+		"term": "201901"
+	},
+	{
+		"title": "Governments and Politics in Europe",
+		"subject": "POLI",
+		"code": "311",
+		"term": "201901"
+	},
+	{
+		"title": "U.S. Politics: Parties, Elections, and Social Movements",
+		"subject": "POLI",
+		"code": "313A",
+		"term": "201901"
+	},
+	{
+		"title": "ISSUES:COMPARE POLITICS: China and the World",
+		"subject": "POLI",
+		"code": "319",
+		"term": "201901"
+	},
+	{ "title": "The Canadian Constitution", "subject": "POLI", "code": "320", "term": "201901" },
+	{
+		"title": "Introduction to Research Methods in Politics",
+		"subject": "POLI",
+		"code": "321",
+		"term": "201901"
+	},
+	{
+		"title": "Political Economy in the Global South",
+		"subject": "POLI",
+		"code": "327",
+		"term": "201901"
+	},
+	{ "title": "International Studies", "subject": "POLI", "code": "340", "term": "201901" },
+	{
+		"title": "The United Nations and Global Issues",
+		"subject": "POLI",
+		"code": "341",
+		"term": "201901"
+	},
+	{
+		"title": "ISSUES:INTN'L POLITICS: Political Economy of Welfare States",
+		"subject": "POLI",
+		"code": "349",
+		"term": "201901"
+	},
+	{
+		"title": "Introduction to Public Administration",
+		"subject": "POLI",
+		"code": "350",
+		"term": "201901"
+	},
+	{ "title": "The Politics of Race in Canada", "subject": "POLI", "code": "367", "term": "201901" },
+	{
+		"title": "ISSUES:CANADIAN POLITICS: Canadian Elections",
+		"subject": "POLI",
+		"code": "369",
+		"term": "201901"
+	},
+	{ "title": "The Politics of Surveillance", "subject": "POLI", "code": "370", "term": "201901" },
+	{ "title": "Latin American Politics", "subject": "POLI", "code": "372", "term": "201901" },
+	{ "title": "African Politics", "subject": "POLI", "code": "373", "term": "201901" },
+	{
+		"title": "TPCS:CONTEMPRY EURO POLI: European Immigration",
+		"subject": "POLI",
+		"code": "379",
+		"term": "201901"
+	},
+	{
+		"title": "TPCS:CONTEMPRY EURO POLI: European Integration: Socio-Economic and Political Developments",
+		"subject": "POLI",
+		"code": "379",
+		"term": "201901"
+	},
+	{ "title": "Communication and Politics", "subject": "POLI", "code": "380", "term": "201901" },
+	{ "title": "Global Indigenous Nationalisms", "subject": "POLI", "code": "383", "term": "201901" },
+	{
+		"title": "ADV TPCS:POLITICAL THEORY: Race and Liberal Theory",
+		"subject": "POLI",
+		"code": "401",
+		"term": "201901"
+	},
+	{ "title": "Media, Technology and Politics", "subject": "POLI", "code": "430", "term": "201901" },
+	{
+		"title": "ISSUES IN POLITICS: Understanding Global Security",
+		"subject": "POLI",
+		"code": "433",
+		"term": "201901"
+	},
+	{
+		"title": "Politics of Human Rights in New Democracies",
+		"subject": "POLI",
+		"code": "436",
+		"term": "201901"
+	},
+	{
+		"title": "Governance in the Global Political Economy",
+		"subject": "POLI",
+		"code": "444",
+		"term": "201901"
+	},
+	{
+		"title": "Topics in Environmental Politics",
+		"subject": "POLI",
+		"code": "458",
+		"term": "201901"
+	},
+	{
+		"title": "U.S./Canadian Comparative Indigenous Law and Policy",
+		"subject": "POLI",
+		"code": "463",
+		"term": "201901"
+	},
+	{ "title": "Honours Seminar and Essay", "subject": "POLI", "code": "499", "term": "201901" },
+	{ "title": "Problems of Political Analysis", "subject": "POLI", "code": "505", "term": "201901" },
+	{
+		"title": "THEMES:CONTEMPORARY POLI: Race and Liberal Theory",
+		"subject": "POLI",
+		"code": "533",
+		"term": "201901"
+	},
+	{
+		"title": "THEMES:CONTEMPORARY POLI: Understanding Global Security",
+		"subject": "POLI",
+		"code": "533",
+		"term": "201901"
+	},
+	{
+		"title": "THEMES:CONTEMPORARY POLI: Politics of Human Rights",
+		"subject": "POLI",
+		"code": "533",
+		"term": "201901"
+	},
+	{
+		"title": "THEMES:CONTEMPORARY POLI: Governance in the Global Political Economy",
+		"subject": "POLI",
+		"code": "533",
+		"term": "201901"
+	},
+	{
+		"title": "THEMES:CONTEMPORARY POLI: Indigenous Law and Policy",
+		"subject": "POLI",
+		"code": "533",
+		"term": "201901"
+	},
+	{
+		"title": "THEMES:CONTEMPORARY POLI: Environmental Politics",
+		"subject": "POLI",
+		"code": "533",
+		"term": "201901"
+	},
+	{
+		"title": "THEMES:CONTEMPORARY POLI: Media, Technology and Politics",
+		"subject": "POLI",
+		"code": "533",
+		"term": "201901"
+	},
+	{
+		"title": "THEMES:CONTEMPORARY POLI: Indigenous Politics of the Pacific Northwest",
+		"subject": "POLI",
+		"code": "533",
+		"term": "201901"
+	},
+	{ "title": "International Relations", "subject": "POLI", "code": "540", "term": "201901" },
+	{ "title": "Legislative Internship Report", "subject": "POLI", "code": "580", "term": "201901" },
+	{ "title": "Thesis", "subject": "POLI", "code": "599", "term": "201901" },
+	{ "title": "PhD Candidacy Examinations", "subject": "POLI", "code": "693", "term": "201901" },
+	{ "title": "Dissertation", "subject": "POLI", "code": "699", "term": "201901" },
+	{ "title": "CO-OP WORK TERM", "subject": "POLI", "code": "805", "term": "201901" },
+	{ "title": "Introductory Psychology I", "subject": "PSYC", "code": "100A", "term": "201901" },
+	{ "title": "Introductory Psychology II", "subject": "PSYC", "code": "100B", "term": "201901" },
+	{
+		"title": "PSYCHOLOGY: CONTEMPTRY SOCIETY: Practical Applications",
+		"subject": "PSYC",
+		"code": "191",
+		"term": "201901"
+	},
+	{ "title": "Research Methods in Psychology", "subject": "PSYC", "code": "201", "term": "201901" },
+	{
+		"title": "Conceptual Foundations of Psychology",
+		"subject": "PSYC",
+		"code": "210",
+		"term": "201901"
+	},
+	{
+		"title": "Introduction to Social Psychology",
+		"subject": "PSYC",
+		"code": "231",
+		"term": "201901"
+	},
+	{
+		"title": "Introduction to Lifespan Development",
+		"subject": "PSYC",
+		"code": "243",
+		"term": "201901"
+	},
+	{ "title": "Introduction to Mind and Brain", "subject": "PSYC", "code": "251", "term": "201901" },
+	{
+		"title": "Introduction to Mental Health and Well-Being",
+		"subject": "PSYC",
+		"code": "260",
+		"term": "201901"
+	},
+	{
+		"title": "Statistical Methods in Psychology II",
+		"subject": "PSYC",
+		"code": "300B",
+		"term": "201901"
+	},
+	{ "title": "Personality", "subject": "PSYC", "code": "330", "term": "201901" },
+	{ "title": "Health Psychology", "subject": "PSYC", "code": "332", "term": "201901" },
+	{ "title": "Consumer Psychology", "subject": "PSYC", "code": "333", "term": "201901" },
+	{ "title": "Organizational Psychology", "subject": "PSYC", "code": "334", "term": "201901" },
+	{ "title": "Infant and Child Development", "subject": "PSYC", "code": "335", "term": "201901" },
+	{ "title": "Adolescent Development", "subject": "PSYC", "code": "336", "term": "201901" },
+	{
+		"title": "Behavioural Interventions with Children and Adults",
+		"subject": "PSYC",
+		"code": "338",
+		"term": "201901"
+	},
+	{ "title": "Drugs and Behaviour", "subject": "PSYC", "code": "345A", "term": "201901" },
+	{ "title": "Cognitive Psychology", "subject": "PSYC", "code": "351A", "term": "201901" },
+	{
+		"title": "Fundamentals of Clinical Psychology",
+		"subject": "PSYC",
+		"code": "365",
+		"term": "201901"
+	},
+	{ "title": "Child Language Acquisition", "subject": "PSYC", "code": "370B", "term": "201901" },
+	{ "title": "Interpersonal Relationships", "subject": "PSYC", "code": "375", "term": "201901" },
+	{
+		"title": "Motivation, Emotion, and Well-Being",
+		"subject": "PSYC",
+		"code": "385",
+		"term": "201901"
+	},
+	{ "title": "Cultural Psychology", "subject": "PSYC", "code": "386", "term": "201901" },
+	{
+		"title": "SPECIAL TOPICS IN PSYC: Psychology of Interpersonal Communication",
+		"subject": "PSYC",
+		"code": "391",
+		"term": "201901"
+	},
+	{ "title": "Self-Regulation and Goals", "subject": "PSYC", "code": "431G", "term": "201901" },
+	{
+		"title": "Advanced Interpersonal Relationships",
+		"subject": "PSYC",
+		"code": "431H",
+		"term": "201901"
+	},
+	{
+		"title": "Advanced Infant and Child Development",
+		"subject": "PSYC",
+		"code": "435A",
+		"term": "201901"
+	},
+	{
+		"title": "History and Theories in Lifespan Developmental Psychology",
+		"subject": "PSYC",
+		"code": "442",
+		"term": "201901"
+	},
+	{
+		"title": "TPC:ADV COGNITIVE NEUROSCIENCE",
+		"subject": "PSYC",
+		"code": "451C",
+		"term": "201901"
+	},
+	{
+		"title": "Advanced Biological Psychology",
+		"subject": "PSYC",
+		"code": "451D",
+		"term": "201901"
+	},
+	{ "title": "Field Placement in Psychology", "subject": "PSYC", "code": "461", "term": "201901" },
+	{
+		"title": "Clinical Interventions, Prevention, and Health Promotion",
+		"subject": "PSYC",
+		"code": "462",
+		"term": "201901"
+	},
+	{
+		"title": "ADV SPCL TPCS:PSYC: Brain Injury and Rehabilitation",
+		"subject": "PSYC",
+		"code": "491",
+		"term": "201901"
+	},
+	{ "title": "RESEARCH SEMINAR: PSYCHOLOGY:", "subject": "PSYC", "code": "492", "term": "201901" },
+	{ "title": "Honours Thesis and Seminar", "subject": "PSYC", "code": "499", "term": "201901" },
+	{
+		"title": "Practicum in Applied Psychology",
+		"subject": "PSYC",
+		"code": "501",
+		"term": "201901"
+	},
+	{
+		"title": "Practicum in Clinical Psychology",
+		"subject": "PSYC",
+		"code": "503",
+		"term": "201901"
+	},
+	{
+		"title": "Clinical Intervention Practicum",
+		"subject": "PSYC",
+		"code": "505",
+		"term": "201901"
+	},
+	{ "title": "Psychology Clinic Practice", "subject": "PSYC", "code": "506A", "term": "201901" },
+	{ "title": "Quantitative Analysis", "subject": "PSYC", "code": "513", "term": "201901" },
+	{
+		"title": "Special Topics in Personality and Social Psychology",
+		"subject": "PSYC",
+		"code": "526",
+		"term": "201901"
+	},
+	{
+		"title": "General Linear ModelMultivariate",
+		"subject": "PSYC",
+		"code": "533",
+		"term": "201901"
+	},
+	{
+		"title": "History and Theory in Neuropsychology",
+		"subject": "PSYC",
+		"code": "540",
+		"term": "201901"
+	},
+	{
+		"title": "Research Design and Methods in Neuropsychology",
+		"subject": "PSYC",
+		"code": "541",
+		"term": "201901"
+	},
+	{ "title": "Behavioural Neuroanatomy", "subject": "PSYC", "code": "543", "term": "201901" },
+	{
+		"title": "Neuropsychological Intervention in Adults",
+		"subject": "PSYC",
+		"code": "547",
+		"term": "201901"
+	},
+	{ "title": "Cognitive Seminar", "subject": "PSYC", "code": "577", "term": "201901" },
+	{
+		"title": "Research Methods in Clinical Psychology",
+		"subject": "PSYC",
+		"code": "578",
+		"term": "201901"
+	},
+	{
+		"title": "Psychopathology: Childhood and Adolescence",
+		"subject": "PSYC",
+		"code": "581",
+		"term": "201901"
+	},
+	{
+		"title": "Professional and Ethical Issues in Clinical Psychology",
+		"subject": "PSYC",
+		"code": "583",
+		"term": "201901"
+	},
+	{
+		"title": "Practice in Advanced Clinical Assessment",
+		"subject": "PSYC",
+		"code": "586B",
+		"term": "201901"
+	},
+	{ "title": "Child and Adolescent Therapy", "subject": "PSYC", "code": "588", "term": "201901" },
+	{ "title": "Clinical Psychology Colloquium", "subject": "PSYC", "code": "597", "term": "201901" },
+	{ "title": "Thesis", "subject": "PSYC", "code": "599", "term": "201901" },
+	{ "title": "Advanced Clinical Practicum", "subject": "PSYC", "code": "603", "term": "201901" },
+	{
+		"title": "INDIVIDUAL STUDY: Undergraduate Research Mentoring and Supervision",
+		"subject": "PSYC",
+		"code": "604",
+		"term": "201901"
+	},
+	{ "title": "Clinical Internship", "subject": "PSYC", "code": "606", "term": "201901" },
+	{ "title": "PhD Candidacy Examinations", "subject": "PSYC", "code": "693", "term": "201901" },
+	{ "title": "PhD Dissertation", "subject": "PSYC", "code": "699", "term": "201901" },
+	{
+		"title": "Introduction to Public Administration",
+		"subject": "ADMN",
+		"code": "311",
+		"term": "201901"
+	},
+	{
+		"title": "Managing in Public and Non-Profit Organizations",
+		"subject": "ADMN",
+		"code": "312",
+		"term": "201901"
+	},
+	{
+		"title": "Public Sector Research and Analysis",
+		"subject": "ADMN",
+		"code": "314",
+		"term": "201901"
+	},
+	{ "title": "The Public Policy Process", "subject": "ADMN", "code": "420", "term": "201901" },
+	{ "title": "Ethical Public Management", "subject": "ADMN", "code": "422", "term": "201901" },
+	{
+		"title": "Local Government in British Columbia",
+		"subject": "ADMN",
+		"code": "423",
+		"term": "201901"
+	},
+	{
+		"title": "Public Sector Human Resource Management",
+		"subject": "ADMN",
+		"code": "431A",
+		"term": "201901"
+	},
+	{
+		"title": "Compensation and Labour Relations",
+		"subject": "ADMN",
+		"code": "431B",
+		"term": "201901"
+	},
+	{
+		"title": "Program Evaluation and Performance Measurement",
+		"subject": "ADMN",
+		"code": "437",
+		"term": "201901"
+	},
+	{ "title": "Urban and Regional Economics", "subject": "ADMN", "code": "445", "term": "201901" },
+	{
+		"title": "Local Government Land Use Planning",
+		"subject": "ADMN",
+		"code": "446",
+		"term": "201901"
+	},
+	{
+		"title": "CONTEMPORARY TOPICS:ADMN: DR Systems Design",
+		"subject": "ADMN",
+		"code": "470",
+		"term": "201901"
+	},
+	{
+		"title": "Surveying, Appraising and Commissioning Information",
+		"subject": "ADMN",
+		"code": "502A",
+		"term": "201901"
+	},
+	{
+		"title": "Data Analysis & Interpretation",
+		"subject": "ADMN",
+		"code": "502B",
+		"term": "201901"
+	},
+	{
+		"title": "Strategic Communication and Engagement",
+		"subject": "ADMN",
+		"code": "550",
+		"term": "201901"
+	},
+	{ "title": "Managing Public Policy", "subject": "ADMN", "code": "556", "term": "201901" },
+	{
+		"title": "Strategic Planning and Implementation",
+		"subject": "ADMN",
+		"code": "577",
+		"term": "201901"
+	},
+	{
+		"title": "Qualitative Evaluation Methods and Applications",
+		"subject": "ADMN",
+		"code": "580",
+		"term": "201901"
+	},
+	{ "title": "Evaluation Project", "subject": "ADMN", "code": "596", "term": "201901" },
+	{ "title": "Master's Project", "subject": "ADMN", "code": "598", "term": "201901" },
+	{ "title": "Master's Thesis", "subject": "ADMN", "code": "599", "term": "201901" },
+	{ "title": "Dissertation", "subject": "ADMN", "code": "699", "term": "201901" },
+	{ "title": "Public Health Biostatistics", "subject": "PHSP", "code": "502", "term": "201901" },
+	{
+		"title": "Public Health Practice II: Public Health Interventions",
+		"subject": "PHSP",
+		"code": "505",
+		"term": "201901"
+	},
+	{ "title": "Culminating Report", "subject": "PHSP", "code": "508B", "term": "201901" },
+	{ "title": "Practicum", "subject": "PHSP", "code": "589", "term": "201901" },
+	{ "title": "Thesis", "subject": "PHSP", "code": "599", "term": "201901" },
+	{ "title": "Introduction to Asian Religions", "subject": "RS", "code": "200B", "term": "201901" },
+	{ "title": "Magic, Mysticism and the Occult", "subject": "RS", "code": "305", "term": "201901" },
+	{
+		"title": "TOPICS STUDY OF RELIGION: Religion and the News",
+		"subject": "RS",
+		"code": "310",
+		"term": "201901"
+	},
+	{ "title": "Customer Experience Management", "subject": "SMGT", "code": "415", "term": "201901" },
+	{
+		"title": "Service Operations and Quality Management",
+		"subject": "SMGT",
+		"code": "416",
+		"term": "201901"
+	},
+	{
+		"title": "Service Human Resource Management",
+		"subject": "SMGT",
+		"code": "417",
+		"term": "201901"
+	},
+	{ "title": "Beginning Russian I", "subject": "SLST", "code": "101", "term": "201901" },
+	{ "title": "Beginning Russian II", "subject": "SLST", "code": "102", "term": "201901" },
+	{ "title": "Beginning Ukrainian I", "subject": "SLST", "code": "111", "term": "201901" },
+	{ "title": "Magic and the Fairy Tale World", "subject": "SLST", "code": "180", "term": "201901" },
+	{ "title": "Intermediate Russian II", "subject": "SLST", "code": "202", "term": "201901" },
+	{ "title": "Slavic Cultural Studies", "subject": "SLST", "code": "300", "term": "201901" },
+	{
+		"title": "The Eastern Front in the First and Second World Wars",
+		"subject": "SLST",
+		"code": "345",
+		"term": "201901"
+	},
+	{
+		"title": "The Soviet Union and Its Successor States, 1917-2000",
+		"subject": "SLST",
+		"code": "362",
+		"term": "201901"
+	},
+	{ "title": "Advanced Russian Practice", "subject": "SLST", "code": "401", "term": "201901" },
+	{ "title": "Cold War on Film", "subject": "SLST", "code": "450", "term": "201901" },
+	{
+		"title": "History and Memory in Eastern European Cultures",
+		"subject": "SLST",
+		"code": "460",
+		"term": "201901"
+	},
+	{ "title": "Honours Thesis", "subject": "SLST", "code": "499", "term": "201901" },
+	{ "title": "Theory and Practice", "subject": "SLST", "code": "502", "term": "201901" },
+	{ "title": "Thesis", "subject": "SLST", "code": "599", "term": "201901" },
+	{
+		"title": "Interdisciplinary Methods Applied to Health Research",
+		"subject": "SDH",
+		"code": "500B",
+		"term": "201901"
+	},
+	{
+		"title": "Social Dimensions of Health Methods Colloquium II",
+		"subject": "SDH",
+		"code": "501B",
+		"term": "201901"
+	},
+	{ "title": "Thesis", "subject": "SDH", "code": "599", "term": "201901" },
+	{ "title": "Candidacy Exam", "subject": "SDH", "code": "693", "term": "201901" },
+	{ "title": "Dissertation", "subject": "SDH", "code": "699", "term": "201901" },
+	{
+		"title": "Introduction to Theories of Social Justice",
+		"subject": "SJS",
+		"code": "100",
+		"term": "201901"
+	},
+	{
+		"title": "Introduction to the Practice of Social Justice",
+		"subject": "SJS",
+		"code": "200",
+		"term": "201901"
+	},
+	{
+		"title": "Practising Social Justice in the Field",
+		"subject": "SJS",
+		"code": "400B",
+		"term": "201901"
+	},
+	{ "title": "Working in the Community", "subject": "SOSC", "code": "300", "term": "201901" },
+	{
+		"title": "An Introduction to Social Work Practice",
+		"subject": "SOCW",
+		"code": "200A",
+		"term": "201901"
+	},
+	{
+		"title": "Introduction to the Critical Analysis of Social Welfare in Canada",
+		"subject": "SOCW",
+		"code": "200B",
+		"term": "201901"
+	},
+	{ "title": "Social Work Practicum I", "subject": "SOCW", "code": "304", "term": "201901" },
+	{
+		"title": "Social Work Practicum by Prior Learning Assessment (PLA)",
+		"subject": "SOCW",
+		"code": "304A",
+		"term": "201901"
+	},
+	{ "title": "Research for Social Change", "subject": "SOCW", "code": "319", "term": "201901" },
+	{
+		"title": "Social Work, Social Justice and the Law",
+		"subject": "SOCW",
+		"code": "350A",
+		"term": "201901"
+	},
+	{
+		"title": "Legal and Social Justice Skills for Social Workers",
+		"subject": "SOCW",
+		"code": "350B",
+		"term": "201901"
+	},
+	{
+		"title": "Indigenous Perspectives on Practice Issues",
+		"subject": "SOCW",
+		"code": "354",
+		"term": "201901"
+	},
+	{
+		"title": "Human Development and the Social Environment within a Global Context",
+		"subject": "SOCW",
+		"code": "356",
+		"term": "201901"
+	},
+	{
+		"title": "Indigenous Approaches to Healing and Helping",
+		"subject": "SOCW",
+		"code": "391",
+		"term": "201901"
+	},
+	{ "title": "Social Work Practicum II", "subject": "SOCW", "code": "402", "term": "201901" },
+	{
+		"title": "Child Welfare Specialization: Child Protection Practicum",
+		"subject": "SOCW",
+		"code": "404",
+		"term": "201901"
+	},
+	{
+		"title": "Child Welfare Specialization: Child Welfare Practicum",
+		"subject": "SOCW",
+		"code": "404A",
+		"term": "201901"
+	},
+	{ "title": "Critical Social Work Practices", "subject": "SOCW", "code": "413", "term": "201901" },
+	{ "title": "Working with Trauma", "subject": "SOCW", "code": "433", "term": "201901" },
+	{
+		"title": "Critical Perspectives in Mental Health Practice",
+		"subject": "SOCW",
+		"code": "435",
+		"term": "201901"
+	},
+	{
+		"title": "Indigenous Policy Analysis in Social Work",
+		"subject": "SOCW",
+		"code": "451",
+		"term": "201901"
+	},
+	{
+		"title": "Teaching and Learning for Social Change",
+		"subject": "SOCW",
+		"code": "452",
+		"term": "201901"
+	},
+	{
+		"title": "SPCL TPCS:SOCW+WELFARE: Environmental Justice and Social Work",
+		"subject": "SOCW",
+		"code": "460",
+		"term": "201901"
+	},
+	{
+		"title": "Re-defining Abilities in the Context of Theory and Practice",
+		"subject": "SOCW",
+		"code": "469",
+		"term": "201901"
+	},
+	{
+		"title": "Addictions in Society: Theory, Practice and Policy",
+		"subject": "SOCW",
+		"code": "471",
+		"term": "201901"
+	},
+	{
+		"title": "Family and Child Welfare Policy",
+		"subject": "SOCW",
+		"code": "476",
+		"term": "201901"
+	},
+	{ "title": "Advanced Practicum", "subject": "SOCW", "code": "506", "term": "201901" },
+	{ "title": "MSWI Practicum", "subject": "SOCW", "code": "506A", "term": "201901" },
+	{ "title": "Policy Context of Practice", "subject": "SOCW", "code": "510", "term": "201901" },
+	{
+		"title": "Contemporary Debates and Ethical Dilemmas in Social Work",
+		"subject": "SOCW",
+		"code": "511",
+		"term": "201901"
+	},
+	{ "title": "Research Methodologies", "subject": "SOCW", "code": "516", "term": "201901" },
+	{ "title": "Research Seminar", "subject": "SOCW", "code": "517", "term": "201901" },
+	{ "title": "MSW Capstone", "subject": "SOCW", "code": "571", "term": "201901" },
+	{
+		"title": "TPCS:SOCW+SOCIAL WELFARE: Migration and Movement: Decolonial Perspectives",
+		"subject": "SOCW",
+		"code": "580",
+		"term": "201901"
+	},
+	{ "title": "Thesis", "subject": "SOCW", "code": "599", "term": "201901" },
+	{
+		"title": "Introduction to Sociology: Understanding Social Life",
+		"subject": "SOCI",
+		"code": "100A",
+		"term": "201901"
+	},
+	{
+		"title": "Introduction to Sociology: Understanding Contemporary Society",
+		"subject": "SOCI",
+		"code": "100B",
+		"term": "201901"
+	},
+	{ "title": "Canadian Society", "subject": "SOCI", "code": "103", "term": "201901" },
+	{ "title": "Self, Identity and Society", "subject": "SOCI", "code": "204", "term": "201901" },
+	{ "title": "Crime and Deviance", "subject": "SOCI", "code": "206", "term": "201901" },
+	{ "title": "Classical Social Theorizing", "subject": "SOCI", "code": "210", "term": "201901" },
+	{
+		"title": "Introduction to Sociological Research",
+		"subject": "SOCI",
+		"code": "211",
+		"term": "201901"
+	},
+	{ "title": "Media and Contemporary Society", "subject": "SOCI", "code": "220", "term": "201901" },
+	{
+		"title": "Introduction to Social Statistics",
+		"subject": "SOCI",
+		"code": "271",
+		"term": "201901"
+	},
+	{ "title": "Sociology of Gender", "subject": "SOCI", "code": "281", "term": "201901" },
+	{ "title": "Health over the Life Course", "subject": "SOCI", "code": "285", "term": "201901" },
+	{ "title": "Contemporary Social Theorizing", "subject": "SOCI", "code": "309", "term": "201901" },
+	{ "title": "White-Collar Crime", "subject": "SOCI", "code": "312", "term": "201901" },
+	{ "title": "Sociology of Law", "subject": "SOCI", "code": "313", "term": "201901" },
+	{ "title": "Social Networks", "subject": "SOCI", "code": "326", "term": "201901" },
+	{ "title": "Qualitative Research Methods", "subject": "SOCI", "code": "374", "term": "201901" },
+	{ "title": "Quantitative Research Methods", "subject": "SOCI", "code": "376", "term": "201901" },
+	{ "title": "Sociology of Aging", "subject": "SOCI", "code": "385", "term": "201901" },
+	{ "title": "Sociology of Food and Eating", "subject": "SOCI", "code": "388", "term": "201901" },
+	{
+		"title": "Issues in Demography and Families",
+		"subject": "SOCI",
+		"code": "433",
+		"term": "201901"
+	},
+	{
+		"title": "Issues in Gender, Sexuality and Trans Communities",
+		"subject": "SOCI",
+		"code": "435",
+		"term": "201901"
+	},
+	{
+		"title": "Issues in Environmental Sociology and Climate Change",
+		"subject": "SOCI",
+		"code": "437",
+		"term": "201901"
+	},
+	{
+		"title": "Issues in Contemporary Sociology",
+		"subject": "SOCI",
+		"code": "438",
+		"term": "201901"
+	},
+	{
+		"title": "ISSUES CONTEMPORARY SOCIOLOGY: Political Sociology",
+		"subject": "SOCI",
+		"code": "438",
+		"term": "201901"
+	},
+	{ "title": "Honours Seminar and Thesis", "subject": "SOCI", "code": "499", "term": "201901" },
+	{
+		"title": "Current Issues in Social Theory",
+		"subject": "SOCI",
+		"code": "504",
+		"term": "201901"
+	},
+	{ "title": "Qualitative Research", "subject": "SOCI", "code": "515", "term": "201901" },
+	{
+		"title": "Current Issues in the Sociology of Genders and Sexualities",
+		"subject": "SOCI",
+		"code": "525",
+		"term": "201901"
+	},
+	{
+		"title": "Current Issues in Political Sociology",
+		"subject": "SOCI",
+		"code": "535",
+		"term": "201901"
+	},
+	{ "title": "Major Research Paper", "subject": "SOCI", "code": "598", "term": "201901" },
+	{ "title": "Thesis", "subject": "SOCI", "code": "599", "term": "201901" },
+	{ "title": "PhD Candidacy Examinations", "subject": "SOCI", "code": "693", "term": "201901" },
+	{ "title": "PhD Dissertation", "subject": "SOCI", "code": "699", "term": "201901" },
+	{ "title": "Software Development Methods", "subject": "SENG", "code": "265", "term": "201901" },
+	{ "title": "Human Computer Interaction", "subject": "SENG", "code": "310", "term": "201901" },
+	{ "title": "Requirements Engineering", "subject": "SENG", "code": "321", "term": "201901" },
+	{ "title": "Software Evolution", "subject": "SENG", "code": "371", "term": "201901" },
+	{ "title": "Social and Professional Issues", "subject": "SENG", "code": "401", "term": "201901" },
+	{
+		"title": "Practice of Information Security and Privacy",
+		"subject": "SENG",
+		"code": "460",
+		"term": "201901"
+	},
+	{ "title": "Software System Scalability", "subject": "SENG", "code": "468", "term": "201901" },
+	{ "title": "Data Mining", "subject": "SENG", "code": "474", "term": "201901" },
+	{
+		"title": "TOPICS:SOFTWARE ENGINEER: Documenting and Understanding Software Systems",
+		"subject": "SENG",
+		"code": "480A",
+		"term": "201901"
+	},
+	{
+		"title": "TOPICS:SOFTWARE ENGINEER: Information Visualization",
+		"subject": "SENG",
+		"code": "480D",
+		"term": "201901"
+	},
+	{ "title": "Beginners' Spanish I", "subject": "SPAN", "code": "100A", "term": "201901" },
+	{ "title": "Beginners' Spanish II", "subject": "SPAN", "code": "100B", "term": "201901" },
+	{ "title": "Beginners' Spanish", "subject": "SPAN", "code": "149", "term": "201901" },
+	{
+		"title": "Latin American Culture Through Music (in English)",
+		"subject": "SPAN",
+		"code": "208B",
+		"term": "201901"
+	},
+	{
+		"title": "Review of Grammar and Conversation",
+		"subject": "SPAN",
+		"code": "249",
+		"term": "201901"
+	},
+	{
+		"title": "Review of Grammar and Conversation II",
+		"subject": "SPAN",
+		"code": "250B",
+		"term": "201901"
+	},
+	{
+		"title": "ADV TPCS: HISPANIC CULTURE: Mexican Culture Through Food",
+		"subject": "SPAN",
+		"code": "305",
+		"term": "201901"
+	},
+	{
+		"title": "Advanced Composition, Translation and Stylistics II",
+		"subject": "SPAN",
+		"code": "350B",
+		"term": "201901"
+	},
+	{ "title": "Advanced Grammar and Syntax", "subject": "SPAN", "code": "450A", "term": "201901" },
+	{ "title": "Cervantes' Don Quixote", "subject": "SPAN", "code": "472", "term": "201901" },
+	{
+		"title": "Revolutions and Dictators in 20th Century Latin America",
+		"subject": "SPAN",
+		"code": "484E",
+		"term": "201901"
+	},
+	{ "title": "Honours Graduating Essay", "subject": "SPAN", "code": "499", "term": "201901" },
+	{ "title": "Core Reading List Course I", "subject": "SPAN", "code": "502", "term": "201901" },
+	{ "title": "Core Reading List Course II", "subject": "SPAN", "code": "503", "term": "201901" },
+	{
+		"title": "Renaissance and Baroque Literature",
+		"subject": "SPAN",
+		"code": "507",
+		"term": "201901"
+	},
+	{ "title": "Master's Essay", "subject": "SPAN", "code": "598", "term": "201901" },
+	{ "title": "MA Thesis/Oral", "subject": "SPAN", "code": "599", "term": "201901" },
+	{ "title": "PHD CANDIDACY EXAMINATION", "subject": "SPAN", "code": "693", "term": "201901" },
+	{ "title": "DISSERTATION", "subject": "SPAN", "code": "699", "term": "201901" },
+	{ "title": "Data Science", "subject": "STAT", "code": "123", "term": "201901" },
+	{ "title": "Statistics for Business", "subject": "STAT", "code": "252", "term": "201901" },
+	{ "title": "Statistics for Life Sciences I", "subject": "STAT", "code": "255", "term": "201901" },
+	{
+		"title": "Statistics for Life Sciences II",
+		"subject": "STAT",
+		"code": "256",
+		"term": "201901"
+	},
+	{
+		"title": "Introduction to Probability and Statistics I",
+		"subject": "STAT",
+		"code": "260",
+		"term": "201901"
+	},
+	{
+		"title": "Introduction to Probability and Statistics II",
+		"subject": "STAT",
+		"code": "261",
+		"term": "201901"
+	},
+	{ "title": "Sampling Techniques", "subject": "STAT", "code": "354", "term": "201901" },
+	{ "title": "Data Analysis", "subject": "STAT", "code": "359", "term": "201901" },
+	{ "title": "Mathematical Statistics II", "subject": "STAT", "code": "450", "term": "201901" },
+	{
+		"title": "The Design and Analysis of Experiments",
+		"subject": "STAT",
+		"code": "453",
+		"term": "201901"
+	},
+	{
+		"title": "TOPICS:APPLIED STATISTICS: Robust Statistics",
+		"subject": "STAT",
+		"code": "454",
+		"term": "201901"
+	},
+	{
+		"title": "TOPICS:APPLIED STATISTICS: Bioinformatics",
+		"subject": "STAT",
+		"code": "454",
+		"term": "201901"
+	},
+	{ "title": "Statistical Computing", "subject": "STAT", "code": "464", "term": "201901" },
+	{
+		"title": "TOPICS IN STATISTICS: Robust Statics",
+		"subject": "STAT",
+		"code": "556",
+		"term": "201901"
+	},
+	{
+		"title": "TOPICS IN STATISTICS: Bioinformatics",
+		"subject": "STAT",
+		"code": "556",
+		"term": "201901"
+	},
+	{
+		"title": "Design and Analysis of Experiments",
+		"subject": "STAT",
+		"code": "558",
+		"term": "201901"
+	},
+	{ "title": "Master's Project", "subject": "STAT", "code": "598", "term": "201901" },
+	{ "title": "Master's Thesis", "subject": "STAT", "code": "599", "term": "201901" },
+	{ "title": "Candidacy Examination", "subject": "STAT", "code": "693", "term": "201901" },
+	{ "title": "Dissertation", "subject": "STAT", "code": "699", "term": "201901" },
+	{ "title": "Extended Essay", "subject": "SPP", "code": "598", "term": "201901" },
+	{ "title": "Thesis", "subject": "SPP", "code": "599", "term": "201901" },
+	{
+		"title": "Three-Week Practicum (Elementary Education)",
+		"subject": "ED-P",
+		"code": "251",
+		"term": "201901"
+	},
+	{
+		"title": "Internship/Community Experience",
+		"subject": "ED-P",
+		"code": "301",
+		"term": "201901"
+	},
+	{
+		"title": "Six-Week Practicum (Elementary Education)",
+		"subject": "ED-P",
+		"code": "351",
+		"term": "201901"
+	},
+	{
+		"title": "Six-Week Practicum (Elementary or Middle Years Post Degree)",
+		"subject": "ED-P",
+		"code": "361",
+		"term": "201901"
+	},
+	{
+		"title": "Nine-Week Practicum (Elementary Education)",
+		"subject": "ED-P",
+		"code": "451",
+		"term": "201901"
+	},
+	{
+		"title": "Seminar and Two-Week Practicum for BEd (Secondary Curriculum)",
+		"subject": "ED-P",
+		"code": "498",
+		"term": "201901"
+	},
+	{
+		"title": "Six-Week Practicum (Secondary Post-Degree)",
+		"subject": "ED-P",
+		"code": "781",
+		"term": "201901"
+	},
+	{ "title": "Final Practicum (Secondary)", "subject": "ED-P", "code": "798", "term": "201901" },
+	{ "title": "Technologies of the Future", "subject": "TS", "code": "400", "term": "201901" },
+	{
+		"title": "Theatre Appreciation: From Page to Stage",
+		"subject": "THEA",
+		"code": "102",
+		"term": "201901"
+	},
+	{
+		"title": "An Introduction to Stagecraft and Technical Practice",
+		"subject": "THEA",
+		"code": "105",
+		"term": "201901"
+	},
+	{
+		"title": "Introduction to the Art of Acting II",
+		"subject": "THEA",
+		"code": "120B",
+		"term": "201901"
+	},
+	{ "title": "The Acting Experience", "subject": "THEA", "code": "122", "term": "201901" },
+	{
+		"title": "Exploring Theatre Through Dramatic Process II",
+		"subject": "THEA",
+		"code": "132B",
+		"term": "201901"
+	},
+	{ "title": "Public Speaking", "subject": "THEA", "code": "150", "term": "201901" },
+	{
+		"title": "An Introduction to Production and Management Areas of the Theatre",
+		"subject": "THEA",
+		"code": "205",
+		"term": "201901"
+	},
+	{ "title": "Fundamentals of Play Analysis", "subject": "THEA", "code": "206", "term": "201901" },
+	{
+		"title": "Acting II (non-performance focus)",
+		"subject": "THEA",
+		"code": "219",
+		"term": "201901"
+	},
+	{ "title": "Acting II", "subject": "THEA", "code": "222", "term": "201901" },
+	{ "title": "Introduction to Stage Movement", "subject": "THEA", "code": "225", "term": "201901" },
+	{
+		"title": "Introduction to Applied Theatre",
+		"subject": "THEA",
+		"code": "235",
+		"term": "201901"
+	},
+	{ "title": "Theatre History II", "subject": "THEA", "code": "236", "term": "201901" },
+	{ "title": "Introduction to Design II", "subject": "THEA", "code": "252", "term": "201901" },
+	{ "title": "Acting for the Camera", "subject": "THEA", "code": "304", "term": "201901" },
+	{
+		"title": "Advanced Production and Management",
+		"subject": "THEA",
+		"code": "305",
+		"term": "201901"
+	},
+	{ "title": "Acting IV", "subject": "THEA", "code": "322", "term": "201901" },
+	{
+		"title": "Voice and Speech in the Theatre II",
+		"subject": "THEA",
+		"code": "324",
+		"term": "201901"
+	},
+	{ "title": "Stage Movement II", "subject": "THEA", "code": "326", "term": "201901" },
+	{ "title": "Theatre Performance", "subject": "THEA", "code": "329", "term": "201901" },
+	{ "title": "Directing II", "subject": "THEA", "code": "332", "term": "201901" },
+	{
+		"title": "Director and Designer Relationship II",
+		"subject": "THEA",
+		"code": "334",
+		"term": "201901"
+	},
+	{ "title": "Applied Theatre I", "subject": "THEA", "code": "335", "term": "201901" },
+	{ "title": "Theatre History IV", "subject": "THEA", "code": "347", "term": "201901" },
+	{ "title": "Scenic Design", "subject": "THEA", "code": "352", "term": "201901" },
+	{ "title": "Costume Design II", "subject": "THEA", "code": "361", "term": "201901" },
+	{
+		"title": "History of Fashion and Body Modification II",
+		"subject": "THEA",
+		"code": "363",
+		"term": "201901"
+	},
+	{ "title": "Assisting the Costume Designer", "subject": "THEA", "code": "365", "term": "201901" },
+	{
+		"title": "Producing Non-Profit Professional Theatre in Canada",
+		"subject": "THEA",
+		"code": "367",
+		"term": "201901"
+	},
+	{
+		"title": "DIR STUDY:SCENE DESIGN: Scenic Planning",
+		"subject": "THEA",
+		"code": "396",
+		"term": "201901"
+	},
+	{
+		"title": "DIR STUDY:LIGHTNG DESIGN: Lighting Design",
+		"subject": "THEA",
+		"code": "398",
+		"term": "201901"
+	},
+	{
+		"title": "Specialized Studies in Production and Management",
+		"subject": "THEA",
+		"code": "405",
+		"term": "201901"
+	},
+	{ "title": "Theories of Acting", "subject": "THEA", "code": "409", "term": "201901" },
+	{ "title": "Acting VI", "subject": "THEA", "code": "422", "term": "201901" },
+	{
+		"title": "Voice and Speech in the Theatre IV",
+		"subject": "THEA",
+		"code": "424",
+		"term": "201901"
+	},
+	{ "title": "Stage Movement IV", "subject": "THEA", "code": "426", "term": "201901" },
+	{ "title": "Directing IV", "subject": "THEA", "code": "432", "term": "201901" },
+	{ "title": "Scenic Design for Production", "subject": "THEA", "code": "453", "term": "201901" },
+	{ "title": "Lighting Design for Production", "subject": "THEA", "code": "454", "term": "201901" },
+	{ "title": "Costume Design for Production", "subject": "THEA", "code": "465", "term": "201901" },
+	{
+		"title": "Methods and Materials of Theatre Research",
+		"subject": "THEA",
+		"code": "500A",
+		"term": "201901"
+	},
+	{ "title": "Scene Design", "subject": "THEA", "code": "508", "term": "201901" },
+	{ "title": "Seminar in Theatre Aesthetics", "subject": "THEA", "code": "513", "term": "201901" },
+	{ "title": "Production Experience", "subject": "THEA", "code": "515", "term": "201901" },
+	{
+		"title": "Advanced Problems in Lighting Design",
+		"subject": "THEA",
+		"code": "521",
+		"term": "201901"
+	},
+	{ "title": "MFA Practicum", "subject": "THEA", "code": "524", "term": "201901" },
+	{ "title": "MA Essay", "subject": "THEA", "code": "598", "term": "201901" },
+	{ "title": "MA Thesis", "subject": "THEA", "code": "599", "term": "201901" },
+	{
+		"title": "Dissertation Proposal/Candidacy Exam",
+		"subject": "THEA",
+		"code": "693",
+		"term": "201901"
+	},
+	{ "title": "Dissertation", "subject": "THEA", "code": "699", "term": "201901" },
+	{ "title": "Introduction to Writing", "subject": "WRIT", "code": "100", "term": "201901" },
+	{
+		"title": "WRITER'S WORLD:BOOKS+FILM: The Pixar Story",
+		"subject": "WRIT",
+		"code": "109",
+		"term": "201901"
+	},
+	{ "title": "Writing for the Arts", "subject": "WRIT", "code": "120", "term": "201901" },
+	{ "title": "Poetry Workshop", "subject": "WRIT", "code": "201B", "term": "201901" },
+	{ "title": "Fiction Workshop", "subject": "WRIT", "code": "202B", "term": "201901" },
+	{ "title": "Playwriting Workshop", "subject": "WRIT", "code": "203B", "term": "201901" },
+	{ "title": "Creative Nonfiction Workshop", "subject": "WRIT", "code": "204B", "term": "201901" },
+	{ "title": "Screenwriting Workshop", "subject": "WRIT", "code": "218B", "term": "201901" },
+	{
+		"title": "NARR+MYTH STRUCTURE:FILM: TV Writing",
+		"subject": "WRIT",
+		"code": "300",
+		"term": "201901"
+	},
+	{
+		"title": "Basic Forms and Techniques in Short Fiction",
+		"subject": "WRIT",
+		"code": "309",
+		"term": "201901"
+	},
+	{
+		"title": "CHANGING PERSPECTIVES: Humour Writing",
+		"subject": "WRIT",
+		"code": "314",
+		"term": "201901"
+	},
+	{ "title": "Advanced Journalism", "subject": "WRIT", "code": "315", "term": "201901" },
+	{
+		"title": "CREATIVE NON-FICTN WRKSHP: Memoir",
+		"subject": "WRIT",
+		"code": "316",
+		"term": "201901"
+	},
+	{
+		"title": "Writing and Film Production Workshop",
+		"subject": "WRIT",
+		"code": "320",
+		"term": "201901"
+	},
+	{ "title": "Magazine Publishing", "subject": "WRIT", "code": "322", "term": "201901" },
+	{ "title": "Writing Interactive Narrative", "subject": "WRIT", "code": "324", "term": "201901" },
+	{ "title": "Media and Culture", "subject": "WRIT", "code": "330", "term": "201901" },
+	{ "title": "Writing a Sense of Place", "subject": "WRIT", "code": "353", "term": "201901" },
+	{ "title": "Advanced Poetry Workshop", "subject": "WRIT", "code": "401", "term": "201901" },
+	{
+		"title": "ADVANCED FICTION WORKSHOP: The Novel",
+		"subject": "WRIT",
+		"code": "402",
+		"term": "201901"
+	},
+	{ "title": "Advanced Playwriting Workshop", "subject": "WRIT", "code": "403", "term": "201901" },
+	{
+		"title": "Advanced Screenwriting Workshop",
+		"subject": "WRIT",
+		"code": "418",
+		"term": "201901"
+	},
+	{ "title": "Graduate Writing Workshop", "subject": "WRIT", "code": "500", "term": "201901" },
+	{
+		"title": "Special Topics in Advanced Studies in Writing",
+		"subject": "WRIT",
+		"code": "501",
+		"term": "201901"
+	},
+	{ "title": "Major Writing Portfolio", "subject": "WRIT", "code": "598", "term": "201901" }
+]
