@@ -6,3 +6,5 @@ before_script:
   - npm run build
 script:
   - npm run lint
+notifications:
+  slack: vikelabs:gp9kP9TNGW6pWJCiDHdyszaw
