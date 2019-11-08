@@ -70,7 +70,7 @@ _For more examples, please refer to the [Documentation](https://github.com/VikeL
 <!-- ROADMAP -->
 ## Roadmap
 
-See the [open issues](https://github.com/github_username/repo/issues) for a list of proposed features (and known issues).
+See the [open issues](https://github.com/VikeLabs/scheduler-back-end/issues) for a list of proposed features (and known issues).
 
 
 
