@@ -1,3 +1,4 @@
+/* eslint-disable no-console */
 const fs = require('fs');
 
 console.log('Reading file...');
@@ -9,12 +10,13 @@ console.log('Done reading file');
 const courses = [];
 console.log('Parsing course information...');
 data.forEach(course => {
-	courses.push({
-		title: course.course_title,
-		subject: course.subject,
-		code: course.course_code,
-		term: course.term
-	});
+  courses.push({
+    title: course.course_title,
+    subject: course.subject,
+    code: course.course_code,
+    term: +course.term,
+    sections: course.sections.map(section => +section.crn),
+  });
 });
 
 console.log('Done parsing course information');

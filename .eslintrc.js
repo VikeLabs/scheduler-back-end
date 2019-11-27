@@ -10,7 +10,6 @@ module.exports = {
         sourceType: 'module', // Allows for the use of imports
     },
     rules: {
-        "no-console": 'error',
         '@typescript-eslint/explicit-function-return-type': 0,
         '@typescript-eslint/interface-name-prefix': 0,
         '@typescript-eslint/no-explicit-any': 0,
