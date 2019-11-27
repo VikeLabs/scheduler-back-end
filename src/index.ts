@@ -1,5 +1,6 @@
 import express = require('express');
 const coursesRoute = require('./routes/courses');
+const apiRoute = require('./routes/api');
 const BodyParser = require('body-parser');
 const cors = require('cors');
 
@@ -16,6 +17,8 @@ app.listen(port, () => {
   console.log(`Server is running on port: ${port}`);
 });
 
+app.use(express.static('docs'));
+app.use(apiRoute);
 app.use(coursesRoute);
 
 app.use((req, res) => {

@@ -16,6 +16,7 @@
     "@types/mongodb": "^3.3.8",
     "@types/mongoose": "^5.5.29",
     "@types/node": "^12.11.7",
+    "apidoc": "^0.18.0",
     "body-parser": "^1.19.0",
     "cors": "^2.8.5",
     "dotenv": "^8.2.0",

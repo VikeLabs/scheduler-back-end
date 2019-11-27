@@ -10,6 +10,13 @@ interface Course {
   sections?: number[];
 }
 
+/**
+ * @api {get} /courses
+ * @apiName GetCourses
+ * @apiGgroup Courses
+ *
+ * @apiSuccess {json} courses an array of courses
+ */
 router.get('/courses', (req, res) => {
   let filter = {};
 
