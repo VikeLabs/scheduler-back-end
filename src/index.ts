@@ -1,5 +1,6 @@
 import express = require('express');
 const coursesRoute = require('./routes/courses');
+const semestersRoute = require('./routes/semesters');
 const BodyParser = require('body-parser');
 const cors = require('cors');
 
@@ -17,6 +18,7 @@ app.listen(port, () => {
 });
 
 app.use(coursesRoute);
+app.use(semestersRoute);
 
 app.use((req, res) => {
   res.status(404).send('THIS PAGE IS NOT FULLY ARMED AND OPERATIONAL');
