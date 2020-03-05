@@ -10,16 +10,15 @@ interface Course {
   sections?: number[];
 }
 
-
 /**
  * Search course information in a term
  */
 router.get('/courses/:term', (req, res) => {
   let filter = {};
-  let search = req.query.search;
-  let term = req.params.term;
+  const search = req.query.search;
+  const term = req.params.term;
   // If a search and semester is provided construct a filter
-  if(search){
+  if (search) {
     // Create a filter that matches the semester and the search in any other key
     filter = {
       $and: [
@@ -44,29 +43,25 @@ router.get('/courses/:term', (req, res) => {
     .catch((error: any) => res.status(500).json(error));
 });
 
-
-
 router.get('/courses/:term?/:subject?/:code?', (req, res) => {
-  let term = req.params.term;
-  let subject = req.params.subject;
-  let code = req.params.code;
+  const term = req.params.term;
+  const subject = req.params.subject;
+  const code = req.params.code;
   let query;
-  if(code){
+  if (code) {
     query = {
       term: term,
       subject: subject,
-      code: code      
+      code: code,
     };
-  }
-  else if(subject){
+  } else if (subject) {
     query = {
       term: term,
-      subject: subject,      
+      subject: subject,
     };
-  }
-  else{
+  } else {
     query = {
-      term: term
+      term: term,
     };
   }
   // Execute the query and return a response
@@ -76,7 +71,6 @@ router.get('/courses/:term?/:subject?/:code?', (req, res) => {
     })
     .catch((error: any) => res.status(500).json(error));
 });
-
 
 /**
  * Add or update a course
@@ -88,9 +82,9 @@ router.post('/courses/:term/:subject/:code', (req, res) => {
     code: req.params.code,
     term: req.params.term,
   };
-  console.log("course router term: "+query.term);
-  console.log("course router subject: "+query.subject);
-  console.log("course router code: "+query.code);
+  console.log('course router term: ' + query.term);
+  console.log('course router subject: ' + query.subject);
+  console.log('course router code: ' + query.code);
 
   // The course to insert or update
   const update = query;
