@@ -8,7 +8,9 @@
     "build": "tsc --outDir build",
     "start": "node build/index.js",
     "test": "echo \"Error: no test specified\" && exit 1",
-    "lint": "./node_modules/.bin/eslint src/**/*.ts"
+    "lint": "./node_modules/.bin/eslint src/**/*.ts",
+    "lint-fix": "./node_modules/.bin/eslint src/**/*.ts --fix"
+
   },
   "author": "VikeLabs",
   "dependencies": {
