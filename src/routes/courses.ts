@@ -10,13 +10,24 @@ interface Course {
   sections?: number[];
 }
 
-/**
- * Search course information in a term
- */
-router.get('/courses/:term', (req, res) => {
-  let filter = {};
-  const search = req.query.search;
+interface Query {
+  subject?: string;
+  code?: string;
+  term?: string;
+}
+
+router.get('/courses/:term?/:subject?/:code?', (req, res) => {
   const term = req.params.term;
+  const subject = req.params.subject;
+  const code = req.params.code;
+  let query: Query = {};
+  let filter = {};
+
+  if (term) query.term = term;
+  if (subject) query.subject = subject;
+  if (code) query.code = code;
+
+  const search = req.query.search;
   // If a search and semester is provided construct a filter
   if (search) {
     // Create a filter that matches the semester and the search in any other key
@@ -33,37 +44,9 @@ router.get('/courses/:term', (req, res) => {
         },
       ],
     };
+    query = filter;
   }
 
-  // Execute the query and return a response
-  Courses.find(filter)
-    .then((document: any) => {
-      res.json(document);
-    })
-    .catch((error: any) => res.status(500).json(error));
-});
-
-router.get('/courses/:term?/:subject?/:code?', (req, res) => {
-  const term = req.params.term;
-  const subject = req.params.subject;
-  const code = req.params.code;
-  let query;
-  if (code) {
-    query = {
-      term: term,
-      subject: subject,
-      code: code,
-    };
-  } else if (subject) {
-    query = {
-      term: term,
-      subject: subject,
-    };
-  } else {
-    query = {
-      term: term,
-    };
-  }
   // Execute the query and return a response
   Courses.find(query)
     .then((document: any) => {
@@ -77,7 +60,7 @@ router.get('/courses/:term?/:subject?/:code?', (req, res) => {
  */
 router.post('/courses/:term/:subject/:code', (req, res) => {
   // Check if the course already exists
-  const query = {
+  const query: Query = {
     subject: req.params.subject,
     code: req.params.code,
     term: req.params.term,
