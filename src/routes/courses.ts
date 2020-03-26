@@ -10,12 +10,26 @@ interface Course {
   sections?: number[];
 }
 
-router.get('/courses', (req, res) => {
+interface Query {
+  subject?: string;
+  code?: string;
+  term?: string;
+}
+
+router.get('/courses/:term?/:subject?/:code?', (req, res) => {
+  const term = req.params.term;
+  const subject = req.params.subject;
+  const code = req.params.code;
+  let query: Query = {};
   let filter = {};
 
+  if (term) query.term = term;
+  if (subject) query.subject = subject;
+  if (code) query.code = code;
+
+  const search = req.query.search;
   // If a search and semester is provided construct a filter
-  if (req.query && req.query.search && req.query.term) {
-    const { search, term } = req.query;
+  if (search) {
     // Create a filter that matches the semester and the search in any other key
     filter = {
       $and: [
@@ -30,25 +44,33 @@ router.get('/courses', (req, res) => {
         },
       ],
     };
+    query = filter;
   }
 
   // Execute the query and return a response
-  Courses.find(filter)
+  Courses.find(query)
     .then((document: any) => {
       res.json(document);
     })
     .catch((error: any) => res.status(500).json(error));
 });
 
-router.post('/courses', (req, res) => {
+/**
+ * Add or update a course
+ */
+router.post('/courses/:term/:subject/:code', (req, res) => {
   // Check if the course already exists
-  const query = {
-    subject: req.body.subject,
-    code: req.body.code,
-    term: req.body.term,
+  const query: Query = {
+    subject: req.params.subject,
+    code: req.params.code,
+    term: req.params.term,
   };
-  // The date to insert or update
-  const update = req.body;
+  console.log('course router term: ' + query.term);
+  console.log('course router subject: ' + query.subject);
+  console.log('course router code: ' + query.code);
+
+  // The course to insert or update
+  const update = query;
   // Use upsert option (insert if not exist)
   const options = {
     upsert: true,
