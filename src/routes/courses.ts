@@ -1,6 +1,7 @@
-const Courses = require('../models/courses.model');
-import express = require('express');
-const router = express.Router();
+import { Courses } from '../models/courses.model';
+import express from 'express';
+
+export const coursesRoute = express.Router();
 
 interface Course {
   title: string;
@@ -10,7 +11,7 @@ interface Course {
   sections?: number[];
 }
 
-router.get('/courses', (req, res) => {
+coursesRoute.get('/courses', (req, res) => {
   let filter = {};
 
   // If a search and semester is provided construct a filter
@@ -40,7 +41,7 @@ router.get('/courses', (req, res) => {
     .catch((error: any) => res.status(500).json(error));
 });
 
-router.post('/courses', (req, res) => {
+coursesRoute.post('/courses', (req, res) => {
   // Check if the course already exists
   const query = {
     subject: req.body.subject,
@@ -65,5 +66,3 @@ router.post('/courses', (req, res) => {
     return res.json(doc);
   });
 });
-
-module.exports = router;

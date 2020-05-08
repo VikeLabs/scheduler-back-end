@@ -1,8 +1,8 @@
-import express = require('express');
-const coursesRoute = require('./routes/courses');
-const semestersRoute = require('./routes/semesters');
-const BodyParser = require('body-parser');
-const cors = require('cors');
+import express from 'express';
+import { coursesRoute } from './routes/courses';
+import { semestersRoute } from './routes/semesters';
+import BodyParser from 'body-parser';
+import cors from 'cors';
 
 // Create a new express application instance
 const app: express.Application = express();
