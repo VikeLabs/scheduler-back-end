@@ -1,7 +1,8 @@
-import express = require('express');
-const router = express.Router();
+import express from 'express';
 
-router.get('/semesters', (req, res) => {
+export const semestersRoute = express.Router();
+
+semestersRoute.get('/semesters', (req, res) => {
   // Return hardcoded active semesters for now
   const semesters = [
     { term: 201909, title: 'Fall 2019' },
@@ -10,5 +11,3 @@ router.get('/semesters', (req, res) => {
   ];
   return res.json(semesters);
 });
-
-module.exports = router;

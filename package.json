@@ -25,6 +25,7 @@
     "typescript": "^3.6.4"
   },
   "devDependencies": {
+    "@types/cors": "^2.8.6",
     "@typescript-eslint/eslint-plugin": "^2.6.0",
     "@typescript-eslint/parser": "^2.6.0",
     "eslint": "^6.6.0",

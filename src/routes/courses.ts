@@ -1,17 +1,11 @@
-const Courses = require('../models/courses.model');
-import express = require('express');
-const router = express.Router();
+import { CourseModel } from '../models/courses.model';
+import express from 'express';
 
-interface Course {
-  title: string;
-  subject: string;
-  code: string;
-  term: string;
-  sections?: number[];
-}
+export const coursesRoute = express.Router();
 
-router.get('/courses', (req, res) => {
+coursesRoute.get('/courses', (req, res) => {
   let filter = {};
+  let projection = {};
 
   // If a search and semester is provided construct a filter
   if (req.query && req.query.search && req.query.term) {
@@ -19,51 +13,29 @@ router.get('/courses', (req, res) => {
     // Create a filter that matches the semester and the search in any other key
     filter = {
       $and: [
-        { term: +term },
+        { offerings: { $elemMatch: { term: +term } } },
         {
           $or: [
             { title: { $regex: search, $options: 'i' } },
             { subject: { $regex: search, $options: 'i' } },
             { code: +search || undefined },
-            { sections: +search || undefined },
           ],
         },
       ],
     };
   }
 
+  // If no search parameter was given, don't return all fields
+  if (Object.keys(filter).length === 0) {
+    projection = { title: 1, subject: 1, code: 1, catalogCourseId: 1 };
+  }
   // Execute the query and return a response
-  Courses.find(filter)
+  CourseModel.find(filter, projection)
     .then((document: any) => {
       res.json(document);
     })
-    .catch((error: any) => res.status(500).json(error));
+    .catch((error: any) => {
+      res.status(500).json(error);
+      console.log(error);
+    });
 });
-
-router.post('/courses', (req, res) => {
-  // Check if the course already exists
-  const query = {
-    subject: req.body.subject,
-    code: req.body.code,
-    term: req.body.term,
-  };
-  // The date to insert or update
-  const update = req.body;
-  // Use upsert option (insert if not exist)
-  const options = {
-    upsert: true,
-    new: true,
-    setDefaultsOnInsert: true,
-    useFindAndModify: false,
-  };
-
-  // Update or inster insert if not exsist and return response
-  Courses.findOneAndUpdate(query, update, options, (err: any, doc: any) => {
-    if (err) {
-      return res.status(500).json(err);
-    }
-    return res.json(doc);
-  });
-});
-
-module.exports = router;
